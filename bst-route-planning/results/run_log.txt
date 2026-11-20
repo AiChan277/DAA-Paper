@@ -1,0 +1,62 @@
+Graph loaded: |V| = 317, |E| = 449
+S1 BFS      hops=  7 km=  2.38 tr=0 visited=101 peak= 25 t=    28.4us
+S1 DFS      hops= 72 km= 32.37 tr=3 visited=273 peak=143 t=   103.6us
+S1 B&B      hops=  7 km=  2.38 tr=0 visited= 12 peak=  9 t=    40.3us
+S1 Dijkstra hops=  7 km=  2.38 tr=0 visited= 42 peak= 12 t=    41.2us
+S2 BFS      hops=  7 km=  1.74 tr=0 visited= 86 peak= 25 t=    25.3us
+S2 DFS      hops=128 km= 65.34 tr=8 visited=196 peak=148 t=    66.7us
+S2 B&B      hops=  7 km=  1.74 tr=0 visited= 16 peak=  9 t=    51.1us
+S2 Dijkstra hops=  7 km=  1.74 tr=0 visited= 25 peak= 10 t=    25.4us
+S3 BFS      hops=  7 km=  1.58 tr=0 visited= 45 peak= 21 t=    15.0us
+S3 DFS      hops= 97 km= 53.76 tr=10 visited=198 peak=103 t=    61.9us
+S3 B&B      hops=  7 km=  1.58 tr=0 visited= 12 peak=  7 t=    44.6us
+S3 Dijkstra hops=  7 km=  1.58 tr=0 visited= 30 peak= 13 t=    18.7us
+S4 BFS      hops=  9 km=  4.78 tr=0 visited= 65 peak= 16 t=    12.3us
+S4 DFS      hops= 32 km= 15.83 tr=1 visited=312 peak=149 t=    84.9us
+S4 B&B      hops=  9 km=  4.78 tr=0 visited= 21 peak=  5 t=    37.6us
+S4 Dijkstra hops=  9 km=  4.78 tr=0 visited=100 peak= 25 t=    58.3us
+S5 BFS      hops= 10 km=  9.77 tr=4 visited= 87 peak= 24 t=    16.2us
+S5 DFS      hops= 43 km= 28.61 tr=3 visited= 44 peak= 44 t=     9.5us
+S5 B&B      hops= 14 km=  6.16 tr=0 visited= 16 peak=  6 t=    32.2us
+S5 Dijkstra hops= 14 km=  6.16 tr=0 visited= 69 peak= 15 t=    38.6us
+M1 BFS      hops=  8 km= 14.62 tr=1 visited=108 peak= 28 t=    20.1us
+M1 DFS      hops= 85 km= 39.33 tr=5 visited= 89 peak= 86 t=    19.8us
+M1 B&B      hops= 26 km= 12.51 tr=1 visited= 42 peak=  6 t=    73.6us
+M1 Dijkstra hops= 26 km= 12.51 tr=1 visited= 85 peak= 12 t=    52.6us
+M2 BFS      hops= 11 km=  6.85 tr=2 visited= 30 peak=  7 t=     8.0us
+M2 DFS      hops= 58 km= 36.19 tr=2 visited= 59 peak= 59 t=    16.1us
+M2 B&B      hops= 15 km=  5.83 tr=1 visited= 34 peak=  6 t=    61.7us
+M2 Dijkstra hops= 15 km=  5.83 tr=1 visited= 62 peak= 11 t=    32.7us
+M3 BFS      hops=  9 km= 13.27 tr=1 visited=152 peak= 28 t=    30.4us
+M3 DFS      hops= 72 km= 41.03 tr=7 visited=311 peak=117 t=    81.9us
+M3 B&B      hops= 17 km=  8.97 tr=2 visited=100 peak= 27 t=   217.7us
+M3 Dijkstra hops= 17 km=  8.97 tr=2 visited=261 peak= 28 t=   148.2us
+M4 BFS      hops= 15 km= 19.22 tr=3 visited=156 peak= 22 t=    28.1us
+M4 DFS      hops=102 km= 55.49 tr=9 visited=205 peak=108 t=    42.5us
+M4 B&B      hops= 20 km=  6.23 tr=1 visited= 54 peak= 17 t=   143.6us
+M4 Dijkstra hops= 20 km=  6.23 tr=1 visited=102 peak= 17 t=    87.7us
+M5 BFS      hops= 20 km= 14.54 tr=2 visited=127 peak= 25 t=    33.0us
+M5 DFS      hops= 75 km= 41.05 tr=7 visited=281 peak=166 t=    94.5us
+M5 B&B      hops= 24 km= 10.15 tr=2 visited= 54 peak= 13 t=   144.9us
+M5 Dijkstra hops= 24 km= 10.15 tr=2 visited=158 peak= 22 t=   133.6us
+L1 BFS      hops= 16 km= 19.64 tr=3 visited= 52 peak= 20 t=    15.2us
+L1 DFS      hops= 34 km= 17.51 tr=3 visited= 35 peak= 35 t=    12.1us
+L1 B&B      hops= 34 km= 17.51 tr=3 visited=119 peak= 22 t=   307.5us
+L1 Dijkstra hops= 34 km= 17.51 tr=3 visited=313 peak= 25 t=   221.0us
+L2 BFS      hops= 15 km= 18.47 tr=2 visited=272 peak= 28 t=    49.1us
+L2 DFS      hops= 95 km= 52.73 tr=7 visited=116 peak=107 t=    25.4us
+L2 B&B      hops= 16 km= 10.78 tr=2 visited= 85 peak= 17 t=   159.7us
+L2 Dijkstra hops= 16 km= 10.78 tr=2 visited=246 peak= 23 t=   140.8us
+L3 BFS      hops= 42 km= 16.96 tr=2 visited=317 peak= 23 t=    56.5us
+L3 DFS      hops=151 km= 76.99 tr=16 visited=262 peak=152 t=    57.3us
+L3 B&B      hops= 43 km= 16.17 tr=3 visited=175 peak= 20 t=   360.7us
+L3 Dijkstra hops= 43 km= 16.17 tr=3 visited=301 peak= 20 t=   170.3us
+L4 BFS      hops= 17 km= 14.22 tr=3 visited=241 peak= 22 t=    43.5us
+L4 DFS      hops= 90 km= 46.15 tr=7 visited=110 peak=105 t=    22.8us
+L4 B&B      hops= 27 km= 12.16 tr=3 visited=161 peak= 18 t=   365.2us
+L4 Dijkstra hops= 27 km= 12.16 tr=3 visited=231 peak= 19 t=   180.9us
+L5 BFS      hops= 43 km= 24.01 tr=5 visited=313 peak= 26 t=    70.1us
+L5 DFS      hops=147 km= 73.98 tr=8 visited=151 peak=148 t=    40.8us
+L5 B&B      hops= 47 km= 18.48 tr=2 visited=188 peak= 23 t=   449.9us
+L5 Dijkstra hops= 47 km= 18.48 tr=2 visited=313 peak= 22 t=   181.6us
+Done. Results in /home/claude/work/bst-route-planning/results

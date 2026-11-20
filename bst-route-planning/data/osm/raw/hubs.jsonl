@@ -1,0 +1,66 @@
+﻿{"query":"Stasiun Solo Kota","osm_name":"Stasiun Solo Kota","lat":"-7.5756231","lon":"110.8363847","category":"building","type":"train_station"}
+{"query":"Solo Kota","osm_name":"Solo Kota","lat":"-7.5756946","lon":"110.8362617","category":"railway","type":"station"}
+{"query":"Solo Kota","osm_name":"Solo Kota","lat":"-7.5759034","lon":"110.8365346","category":"railway","type":"stop"}
+{"query":"Sangkrah","osm_name":"Solo Kota","lat":"-7.5756946","lon":"110.8362617","category":"railway","type":"station"}
+{"query":"Sangkrah","osm_name":"Sangkrah","lat":"-7.5756267","lon":"110.8386461","category":"place","type":"village"}
+{"query":"Pasar Gede","osm_name":"Pasar Akik","lat":"-7.5737810","lon":"110.8293438","category":"highway","type":"bus_stop"}
+{"query":"Pasar Gede","osm_name":"Jalan Kyai Gede","lat":"-7.5743976","lon":"110.8312604","category":"highway","type":"unclassified"}
+{"query":"Pasar Triwindu","osm_name":"Pasar Triwindu","lat":"-7.5691828","lon":"110.8225533","category":"amenity","type":"marketplace"}
+{"query":"Pasar Triwindu","osm_name":"Pasar Triwindu","lat":"-7.5691924","lon":"110.8225741","category":"amenity","type":"marketplace"}
+{"query":"Dr. Oen","osm_name":"RS Dr. Oen Solo Baru","lat":"-7.6063603","lon":"110.7983845","category":"amenity","type":"hospital"}
+{"query":"Dr. Oen","osm_name":"RS Dr. Oen Sawit","lat":"-7.5903436","lon":"110.7029590","category":"amenity","type":"hospital"}
+{"query":"Institut Seni Indonesia Surakarta","osm_name":"Institut Seni Indonesia Surakarta","lat":"-7.5580414","lon":"110.8524581","category":"amenity","type":"university"}
+{"query":"ISI Surakarta","osm_name":"pendopo ISI","lat":"-7.5573512","lon":"110.8521624","category":"building","type":"yes"}
+{"query":"ISI Surakarta","osm_name":"Gedung Drs. R. Wuryanto (Pascasarjana) ISI","lat":"-7.5583921","lon":"110.8525972","category":"building","type":"yes"}
+{"query":"ISI Surakarta","osm_name":"distrinbutor air isi ulang","lat":"-7.5853718","lon":"110.8389507","category":"shop","type":"beverages"}
+{"query":"ISI Surakarta","osm_name":"Depot air isi ulang","lat":"-7.5606063","lon":"110.8225243","category":"shop","type":"beverages"}
+{"query":"ISI Surakarta","osm_name":"HYVER Air Isi Ulang \u0026 Produsen Es Batu","lat":"-7.5513302","lon":"110.7709503","category":"shop","type":"water"}
+{"query":"Gatot Subroto","osm_name":"Jalan Jenderal Gatot Subroto","lat":"-7.5793789","lon":"110.8187190","category":"highway","type":"secondary"}
+{"query":"Gatot Subroto","osm_name":"Jalan Jenderal Gatot Subroto","lat":"-7.5755960","lon":"110.8202297","category":"highway","type":"secondary"}
+{"query":"Gatot Subroto","osm_name":"Jalan Jenderal Gatot Subroto","lat":"-7.5720049","lon":"110.8214127","category":"highway","type":"tertiary"}
+{"query":"Gatot Subroto","osm_name":"Jalan Jenderal Gatot Subroto","lat":"-7.5702105","lon":"110.8219153","category":"highway","type":"tertiary"}
+{"query":"Gatot Subroto","osm_name":"Jalan Gatot Subroto","lat":"-7.6063369","lon":"110.8146338","category":"highway","type":"residential"}
+{"query":"Kimia Farma","osm_name":"Kimia Farma","lat":"-7.5617757","lon":"110.8111614","category":"amenity","type":"pharmacy"}
+{"query":"Kimia Farma","osm_name":"Kimia Farma","lat":"-7.5708467","lon":"110.8021446","category":"amenity","type":"pharmacy"}
+{"query":"RS Triharsi","osm_name":"RS Triharsi Surakarta","lat":"-7.5573611","lon":"110.8247779","category":"amenity","type":"hospital"}
+{"query":"Halte Kemlayan","osm_name":"Halte Nonongan","lat":"-7.5710409","lon":"110.8248820","category":"highway","type":"bus_stop"}
+{"query":"Halte Kemlayan","osm_name":"Halte Sami Luwes","lat":"-7.5699450","lon":"110.8171743","category":"highway","type":"bus_stop"}
+{"query":"Halte Kemlayan","osm_name":"Halte Sriwedari 2 Selatan","lat":"-7.5679376","lon":"110.8143278","category":"highway","type":"bus_stop"}
+{"query":"Halte Kemlayan","osm_name":"Halte Timuran","lat":"-7.5689420","lon":"110.8179630","category":"highway","type":"bus_stop"}
+{"query":"Halte Kemlayan","osm_name":"Halte Pasar Kadipolo","lat":"-7.5725051","lon":"110.8153691","category":"highway","type":"bus_stop"}
+{"query":"Halte Penumping","osm_name":"Halte Muhammadiyah 2","lat":"-7.5632123","lon":"110.8142837","category":"highway","type":"bus_stop"}
+{"query":"Halte Penumping","osm_name":"Halte Sriwedari 2 Utara","lat":"-7.5685691","lon":"110.8143902","category":"highway","type":"bus_stop"}
+{"query":"Halte Penumping","osm_name":"Halte PLN Manahan","lat":"-7.5550179","lon":"110.8117325","category":"highway","type":"bus_stop"}
+{"query":"Halte Penumping","osm_name":"Halte Kecamatan Laweyan","lat":"-7.5714515","lon":"110.8088444","category":"highway","type":"bus_stop"}
+{"query":"Halte Penumping","osm_name":"Halte SMP N 1 Surakarta","lat":"-7.5580274","lon":"110.8086715","category":"highway","type":"bus_stop"}
+{"query":"Sritex Arena","osm_name":"Sritex Arena","lat":"-7.5708131","lon":"110.8148378","category":"leisure","type":"sports_centre"}
+{"query":"Tyfountex","osm_name":"Halte Tyfountex Utara","lat":"-7.5632393","lon":"110.7616430","category":"highway","type":"bus_stop"}
+{"query":"Tyfountex","osm_name":"Halte Tyfountex Pintu Utama","lat":"-7.5633053","lon":"110.7615379","category":"highway","type":"bus_stop"}
+{"query":"Tyfountex","osm_name":"Halte Tyfountex Pintu Timur","lat":"-7.5642697","lon":"110.7645390","category":"highway","type":"bus_stop"}
+{"query":"Tyfountex","osm_name":"Halte Tyfountex Timur","lat":"-7.5641236","lon":"110.7644455","category":"highway","type":"bus_stop"}
+{"query":"Coyudan","osm_name":"Gereja Kristen Indonesia Coyudan","lat":"-7.5743084","lon":"110.8223112","category":"amenity","type":"place_of_worship"}
+{"query":"Halte Serengan","osm_name":"Halte Gemblegan Barat","lat":"-7.5818481","lon":"110.8204687","category":"highway","type":"bus_stop"}
+{"query":"SMA Negeri 3 Surakarta","osm_name":"SMA Negeri 3 Surakarta","lat":"-7.5642847","lon":"110.8398371","category":"amenity","type":"school"}
+{"query":"Halte Jajar","osm_name":"Halte Gapura Kleco","lat":"-7.5585547","lon":"110.7836880","category":"highway","type":"bus_stop"}
+{"query":"Halte Jajar","osm_name":"Halte Korem","lat":"-7.5597602","lon":"110.7879492","category":"highway","type":"bus_stop"}
+{"query":"Halte Jajar","osm_name":"Halte Adi Sucipto Barat 2","lat":"-7.5506019","lon":"110.7893857","category":"highway","type":"bus_stop"}
+{"query":"Halte Jajar","osm_name":"Halte Kleco","lat":"-7.5574093","lon":"110.7803190","category":"highway","type":"bus_stop"}
+{"query":"Halte Jajar","osm_name":"Halte SMKN 4","lat":"-7.5534727","lon":"110.7983046","category":"highway","type":"bus_stop"}
+{"query":"Simpang Tiga Gilingan","osm_name":"Simpang Tiga Gilingan","lat":"-7.5532627","lon":"110.8231956","category":"junction","type":"yes"}
+{"query":"Garasi BST","osm_name":"Garasi BST","lat":"-7.5327010","lon":"110.7687690","category":"highway","type":"bus_stop"}
+{"query":"Wirun","osm_name":"Wirun","lat":"-7.6031056","lon":"110.8642238","category":"place","type":"village"}
+{"query":"Wirun","osm_name":"Wirun","lat":"-7.6027883","lon":"110.8641237","category":"highway","type":"bus_stop"}
+{"query":"Halte Pajang","osm_name":"Halte Jongke","lat":"-7.5685434","lon":"110.7897493","category":"highway","type":"bus_stop"}
+{"query":"Halte Pajang","osm_name":"Halte Jongke Selatan","lat":"-7.5686656","lon":"110.7899912","category":"highway","type":"bus_stop"}
+{"query":"Halte Pajang","osm_name":"Halte Wangkung","lat":"-7.5682400","lon":"110.7880905","category":"highway","type":"bus_stop"}
+{"query":"Halte Pajang","osm_name":"Halte Wangkung Selatan","lat":"-7.5683537","lon":"110.7880699","category":"highway","type":"bus_stop"}
+{"query":"Halte Pajang","osm_name":"Halte Korem 2","lat":"-7.5597424","lon":"110.7873893","category":"highway","type":"bus_stop"}
+{"query":"Halte Kedung Lumbu","osm_name":"Halte Warung Pelem Timur","lat":"-7.5672699","lon":"110.8327871","category":"highway","type":"bus_stop"}
+{"query":"Halte Kedung Lumbu","osm_name":"Halte Warung Pelem","lat":"-7.5671981","lon":"110.8326329","category":"highway","type":"bus_stop"}
+{"query":"Halte Purwodiningratan","osm_name":"Halte Timlo Barat","lat":"-7.5643218","lon":"110.8344694","category":"highway","type":"bus_stop"}
+{"query":"Halte Purwodiningratan","osm_name":"Halte Timlo","lat":"-7.5643989","lon":"110.8346102","category":"highway","type":"bus_stop"}
+{"query":"Halte Purwodiningratan","osm_name":"Halte SMA 3/SMP 14","lat":"-7.5653526","lon":"110.8409576","category":"highway","type":"bus_stop"}
+{"query":"Halte Purwodiningratan","osm_name":"Halte Dr Loo Barat","lat":"-7.5664761","lon":"110.8387730","category":"highway","type":"bus_stop"}
+{"query":"Halte Purwodiningratan","osm_name":"Halte Dr Loo Timur","lat":"-7.5664638","lon":"110.8388824","category":"highway","type":"bus_stop"}
+{"query":"Luwes Sangkrah","osm_name":"Luwes Sangkrah","lat":"-7.5731397","lon":"110.8328422","category":"highway","type":"bus_stop"}
+{"done":true}

@@ -1,0 +1,450 @@
+edge_id,from_id,to_id,from_stop,to_stop,corridor,mode,haversine_km,circuity_factor,distance_km
+1,1,2,Bandara Adi Soemarmo,SMPN 1 Ngemplak,K1,bus,0.5277,1.20,0.6332
+2,2,3,SMPN 1 Ngemplak,Tanjung Sari,K1,bus,1.2092,1.20,1.4510
+3,3,4,Tanjung Sari,SMPN 3 Colomadu,K1,bus,0.4912,1.20,0.5895
+4,4,5,SMPN 3 Colomadu,Pasar Colomadu,K1,bus,0.4913,1.20,0.5896
+5,5,6,Pasar Colomadu,Gereja Colomadu,K1,bus,0.3427,1.20,0.4112
+6,6,7,Gereja Colomadu,Klegen,K1,bus,0.3850,1.20,0.4620
+7,7,8,Klegen,Luwes Kartasura,K1,bus,0.5253,1.20,0.6304
+8,8,9,Luwes Kartasura,RS Karima,K1,bus,0.4505,1.20,0.5406
+9,9,10,RS Karima,Bulog,K1,bus,0.1165,1.20,0.1398
+10,10,11,Bulog,SMPN 1 Kartasura,K1,bus,0.2137,1.20,0.2565
+11,11,12,SMPN 1 Kartasura,Singopuran,K1,bus,0.2597,1.20,0.3116
+12,12,13,Singopuran,Simpang Kartasura,K1,bus,0.4620,1.20,0.5544
+13,13,14,Simpang Kartasura,SMP 1 Muhammadiyah Kartasura,K1,bus,0.3575,1.20,0.4290
+14,14,15,SMP 1 Muhammadiyah Kartasura,Ngadirejo Pandeyan,K1,bus,0.3576,1.20,0.4291
+15,15,16,Ngadirejo Pandeyan,SPBU Gembongan,K1,bus,0.3575,1.20,0.4290
+16,16,17,SPBU Gembongan,Gembongan,K1,bus,0.4180,1.20,0.5016
+17,17,18,Gembongan,Suharti,K1,bus,0.2594,1.20,0.3113
+18,18,19,Suharti,Gumpang,K1,bus,0.2410,1.20,0.2892
+19,19,20,Gumpang,Goro Mall,K1,bus,0.4549,1.20,0.5459
+20,20,21,Goro Mall,SMPN 2 Kartasura,K1,bus,0.3035,1.20,0.3642
+21,21,22,SMPN 2 Kartasura,Transmart,K1,bus,0.2574,1.20,0.3089
+22,22,23,Transmart,UMS,K1,bus,0.2861,1.20,0.3434
+23,23,24,UMS,RS Yarsis,K1,bus,0.1698,1.20,0.2037
+24,24,25,RS Yarsis,RS UNS / RS Ortopedi,K1,bus,0.3731,1.20,0.4477
+25,25,26,RS UNS / RS Ortopedi,Mendungan,K1,bus,0.3731,1.20,0.4477
+26,26,27,Mendungan,Kleco,K1,bus,0.6458,1.20,0.7750
+27,27,28,Kleco,Faroka,K1,bus,0.2337,1.20,0.2805
+28,28,29,Faroka,Korem,K1,bus,0.2547,1.20,0.3057
+29,29,30,Korem,Sub Terminal Kerten,K1,bus,0.2229,1.20,0.2675
+30,30,31,Sub Terminal Kerten,Kasih Ibu,K1,bus,1.3363,1.20,1.6035
+31,31,32,Kasih Ibu,DKT,K1,bus,0.4566,1.20,0.5479
+32,32,33,DKT,Gendengan,K1,bus,0.2167,1.20,0.2601
+33,33,34,Gendengan,Sriwedari 1,K1,bus,0.5251,1.20,0.6301
+34,34,35,Sriwedari 1,Sriwedari 2,K1,bus,0.3281,1.20,0.3938
+35,35,36,Sriwedari 2,Ngapeman,K1,bus,0.2466,1.20,0.2959
+36,36,37,Ngapeman,Timuran,K1,bus,0.1508,1.20,0.1809
+37,37,38,Timuran,Kemlayan,K1,bus,0.2787,1.20,0.3344
+38,38,39,Kemlayan,Pasar Pon,K1,bus,0.2787,1.20,0.3345
+39,39,40,Pasar Pon,Nonongan,K1,bus,0.2407,1.20,0.2889
+40,40,41,Nonongan,Gladag,K1,bus,0.3638,1.20,0.4365
+41,41,42,Gladag,Benteng Vastenburg,K1,bus,0.1960,1.20,0.2352
+42,42,43,Benteng Vastenburg,Balai Kota,K1,bus,0.1937,1.20,0.2324
+43,43,44,Balai Kota,Pasar Gede,K1,bus,0.2136,1.20,0.2563
+44,44,45,Pasar Gede,Warung Pelem,K1,bus,0.2136,1.20,0.2563
+45,45,46,Warung Pelem,Urip Sumoharjo,K1,bus,0.2701,1.20,0.3242
+46,46,47,Urip Sumoharjo,Mesen,K1,bus,0.2700,1.20,0.3241
+47,47,48,Mesen,Jebres,K1,bus,0.1721,1.20,0.2065
+48,48,49,Jebres,Panggung,K1,bus,0.3683,1.20,0.4420
+49,49,50,Panggung,RS Hermina,K1,bus,0.3465,1.20,0.4158
+50,50,51,RS Hermina,RSUD dr. Moewardi,K1,bus,0.4348,1.20,0.5217
+51,51,52,RSUD dr. Moewardi,SMA Muhammadiyah 3,K1,bus,0.1994,1.20,0.2393
+52,52,53,SMA Muhammadiyah 3,Thiongting,K1,bus,0.1994,1.20,0.2393
+53,53,54,Thiongting,Cembengan,K1,bus,0.2007,1.20,0.2408
+54,54,55,Cembengan,Sekarpace,K1,bus,0.3436,1.20,0.4123
+55,55,56,Sekarpace,TBS,K1,bus,0.4338,1.20,0.5206
+56,56,57,TBS,UNS,K1,bus,0.4231,1.20,0.5077
+57,57,58,UNS,TMP,K1,bus,0.0667,1.20,0.0800
+58,58,59,TMP,Jurug,K1,bus,0.2200,1.20,0.2639
+59,59,60,Jurug,ASMI,K1,bus,0.6849,1.20,0.8219
+60,60,61,ASMI,Mitra Palur,K1,bus,0.7950,1.20,0.9539
+61,61,62,Mitra Palur,Palur,K1,bus,0.4002,1.20,0.4803
+62,62,63,Palur,Terminal Palur,K1,bus,0.3950,1.20,0.4740
+63,63,62,Terminal Palur,Palur,K2,bus,0.3950,1.20,0.4740
+64,62,61,Palur,Mitra Palur,K2,bus,0.4002,1.20,0.4803
+65,61,60,Mitra Palur,ASMI,K2,bus,0.7950,1.20,0.9539
+66,60,59,ASMI,Jurug,K2,bus,0.6849,1.20,0.8219
+67,59,58,Jurug,TMP,K2,bus,0.2200,1.20,0.2639
+68,58,57,TMP,UNS,K2,bus,0.0667,1.20,0.0800
+69,57,56,UNS,TBS,K2,bus,0.4231,1.20,0.5077
+70,56,55,TBS,Sekarpace,K2,bus,0.4338,1.20,0.5206
+71,55,54,Sekarpace,Cembengan,K2,bus,0.3436,1.20,0.4123
+72,54,53,Cembengan,Thiongting,K2,bus,0.2007,1.20,0.2408
+73,53,52,Thiongting,SMA Muhammadiyah 3,K2,bus,0.1994,1.20,0.2393
+74,52,51,SMA Muhammadiyah 3,RSUD dr. Moewardi,K2,bus,0.1994,1.20,0.2393
+75,51,50,RSUD dr. Moewardi,RS Hermina,K2,bus,0.4348,1.20,0.5217
+76,50,49,RS Hermina,Panggung,K2,bus,0.3465,1.20,0.4158
+77,49,64,Panggung,Purbowardayan,K2,bus,0.2270,1.20,0.2724
+78,64,65,Purbowardayan,SMAN 1 Surakarta,K2,bus,0.5862,1.20,0.7035
+79,65,66,SMAN 1 Surakarta,Margoyudan,K2,bus,0.1092,1.20,0.1310
+80,66,67,Margoyudan,TK-SD Cemara 2,K2,bus,0.2715,1.20,0.3258
+81,67,68,TK-SD Cemara 2,Proliman,K2,bus,0.2714,1.20,0.3257
+82,68,69,Proliman,SPBU Balapan,K2,bus,0.1461,1.20,0.1753
+83,69,70,SPBU Balapan,Solo Balapan,K2,bus,0.2270,1.20,0.2724
+84,70,71,Solo Balapan,Punggawan,K2,bus,0.3163,1.20,0.3796
+85,71,72,Punggawan,Wonder,K2,bus,0.2781,1.20,0.3337
+86,72,73,Wonder,Monumen Pers,K2,bus,0.3784,1.20,0.4540
+87,73,74,Monumen Pers,RS PKU Surakarta,K2,bus,0.1983,1.20,0.2379
+88,74,75,RS PKU Surakarta,SMA Muhammadiyah 2,K2,bus,0.1749,1.20,0.2099
+89,75,76,SMA Muhammadiyah 2,Yosodipuro,K2,bus,0.1748,1.20,0.2098
+90,76,77,Yosodipuro,Mall Paragon,K2,bus,0.4584,1.20,0.5501
+91,77,78,Mall Paragon,Kota Barat,K2,bus,0.3318,1.20,0.3982
+92,78,79,Kota Barat,SMPN 24 Surakarta,K2,bus,0.2085,1.20,0.2502
+93,79,33,SMPN 24 Surakarta,Gendengan,K2,bus,0.2223,1.20,0.2667
+94,33,32,Gendengan,DKT,K2,bus,0.2167,1.20,0.2601
+95,32,31,DKT,Kasih Ibu,K2,bus,0.4566,1.20,0.5479
+96,31,80,Kasih Ibu,Purwosari,K2,bus,0.6225,1.20,0.7470
+97,80,81,Purwosari,UNIBA,K2,bus,0.3432,1.20,0.4118
+98,81,82,UNIBA,Djamaatul Ichwan,K2,bus,0.1640,1.20,0.1968
+99,82,83,Djamaatul Ichwan,Simpang Batikan,K2,bus,0.1640,1.20,0.1968
+100,83,84,Simpang Batikan,Aston,K2,bus,0.1640,1.20,0.1968
+101,84,80,Aston,Purwosari,K2,bus,0.4239,1.20,0.5087
+102,85,86,Terminal Kartasura,Tugu Kartasura,K3,bus,0.7384,1.20,0.8861
+103,86,87,Tugu Kartasura,Polsek Kartasura,K3,bus,0.3868,1.20,0.4641
+104,87,88,Polsek Kartasura,PKU Kartasura,K3,bus,0.0514,1.20,0.0616
+105,88,89,PKU Kartasura,Pasar Kartasura,K3,bus,0.0513,1.20,0.0615
+106,89,90,Pasar Kartasura,Gapura Keraton Kartasura,K3,bus,0.4704,1.20,0.5645
+107,90,91,Gapura Keraton Kartasura,Sedahromo,K3,bus,0.4704,1.20,0.5645
+108,91,92,Sedahromo,Superindo Gumpang,K3,bus,0.4704,1.20,0.5645
+109,92,93,Superindo Gumpang,Ngadirejo,K3,bus,0.4704,1.20,0.5645
+110,93,94,Ngadirejo,Pasar Gumpang,K3,bus,0.3729,1.20,0.4475
+111,94,95,Pasar Gumpang,Tyfountex Barat,K3,bus,0.4106,1.20,0.4928
+112,95,96,Tyfountex Barat,Tyfountex Timur,K3,bus,0.3474,1.20,0.4169
+113,96,97,Tyfountex Timur,Proyek Bengawan,K3,bus,0.3251,1.20,0.3901
+114,97,98,Proyek Bengawan,Windan,K3,bus,0.4979,1.20,0.5974
+115,98,99,Windan,Pracimaloyo,K3,bus,0.6518,1.20,0.7821
+116,99,100,Pracimaloyo,Makamhaji,K3,bus,0.6518,1.20,0.7821
+117,100,101,Makamhaji,Tugu Lilin,K3,bus,0.1808,1.20,0.2169
+118,101,102,Tugu Lilin,Pasar Jongke,K3,bus,0.6195,1.20,0.7434
+119,102,103,Pasar Jongke,Batik Omah Laweyan,K3,bus,0.4255,1.20,0.5106
+120,103,104,Batik Omah Laweyan,Pasar Kabangan,K3,bus,0.4255,1.20,0.5106
+121,104,105,Pasar Kabangan,dr. Radjiman,K3,bus,0.4073,1.20,0.4888
+122,105,106,dr. Radjiman,Sabar Motor,K3,bus,0.4072,1.20,0.4887
+123,106,107,Sabar Motor,Baron Barat,K3,bus,0.1031,1.20,0.1237
+124,107,108,Baron Barat,Baron,K3,bus,0.2263,1.20,0.2716
+125,108,109,Baron,Kec. Laweyan,K3,bus,0.2052,1.20,0.2463
+126,109,110,Kec. Laweyan,BLK Surakarta,K3,bus,0.2272,1.20,0.2726
+127,110,111,BLK Surakarta,SMAN 7 Surakarta,K3,bus,0.2619,1.20,0.3142
+128,111,112,SMAN 7 Surakarta,Lotte Grosir Tipes,K3,bus,0.3461,1.20,0.4153
+129,112,113,Lotte Grosir Tipes,TASPEN,K3,bus,0.4316,1.20,0.5180
+130,113,114,TASPEN,Serengan,K3,bus,0.3351,1.20,0.4021
+131,114,115,Serengan,Widya Wacana,K3,bus,0.3351,1.20,0.4021
+132,115,116,Widya Wacana,Gemblegan Sampurna,K3,bus,0.2478,1.20,0.2974
+133,116,117,Gemblegan Sampurna,Simpang 3 Notosuman Timur,K3,bus,0.3524,1.20,0.4229
+134,117,118,Simpang 3 Notosuman Timur,Simpang Kalilarangan,K3,bus,0.3525,1.20,0.4230
+135,118,119,Simpang Kalilarangan,Batik Keris,K3,bus,0.3524,1.20,0.4229
+136,119,40,Batik Keris,Nonongan,K3,bus,0.2869,1.20,0.3443
+137,40,41,Nonongan,Gladag,K3,bus,0.3638,1.20,0.4365
+138,41,42,Gladag,Benteng Vastenburg,K3,bus,0.1960,1.20,0.2352
+139,42,43,Benteng Vastenburg,Balai Kota,K3,bus,0.1937,1.20,0.2324
+140,43,44,Balai Kota,Pasar Gede,K3,bus,0.2136,1.20,0.2563
+141,44,45,Pasar Gede,Warung Pelem,K3,bus,0.2136,1.20,0.2563
+142,45,46,Warung Pelem,Urip Sumoharjo,K3,bus,0.2701,1.20,0.3242
+143,46,47,Urip Sumoharjo,Mesen,K3,bus,0.2700,1.20,0.3241
+144,47,48,Mesen,Jebres,K3,bus,0.1721,1.20,0.2065
+145,48,49,Jebres,Panggung,K3,bus,0.3683,1.20,0.4420
+146,49,50,Panggung,RS Hermina,K3,bus,0.3465,1.20,0.4158
+147,50,51,RS Hermina,RSUD dr. Moewardi,K3,bus,0.4348,1.20,0.5217
+148,51,52,RSUD dr. Moewardi,SMA Muhammadiyah 3,K3,bus,0.1994,1.20,0.2393
+149,52,53,SMA Muhammadiyah 3,Thiongting,K3,bus,0.1994,1.20,0.2393
+150,53,120,Thiongting,Universitas Aisyiyah,K3,bus,0.3697,1.20,0.4437
+151,120,121,Universitas Aisyiyah,ISI Solo Techno Park,K3,bus,0.3541,1.20,0.4250
+152,121,122,ISI Solo Techno Park,Kecamatan Jebres,K3,bus,0.3974,1.20,0.4769
+153,122,123,Kecamatan Jebres,UNS Belakang,K3,bus,0.2529,1.20,0.3035
+154,123,124,UNS Belakang,Taman Lansia,K3,bus,0.5026,1.20,0.6031
+155,41,125,Gladag,Pasar Akik,K3,bus,0.2427,1.20,0.2912
+156,125,126,Pasar Akik,Alun-Alun Utara,K3,bus,0.1228,1.20,0.1474
+157,126,127,Alun-Alun Utara,Polsek Pasar Kliwon,K3,bus,0.1542,1.20,0.1850
+158,127,128,Polsek Pasar Kliwon,Pasar Klewer,K3,bus,0.1907,1.20,0.2288
+159,128,129,Pasar Klewer,Coyudan Timur,K3,bus,0.6016,1.20,0.7220
+160,129,130,Coyudan Timur,Masjid Fatimah,K3,bus,0.3326,1.20,0.3992
+161,130,131,Masjid Fatimah,Pasar Kembang,K3,bus,0.3295,1.20,0.3954
+162,131,109,Pasar Kembang,Kec. Laweyan,K3,bus,0.8653,1.20,1.0384
+163,85,8,Terminal Kartasura,Luwes Kartasura,K4,bus,1.0895,1.20,1.3074
+164,8,7,Luwes Kartasura,Klegen,K4,bus,0.5253,1.20,0.6304
+165,7,6,Klegen,Gereja Colomadu,K4,bus,0.3850,1.20,0.4620
+166,6,132,Gereja Colomadu,Kantor Kec. Colomadu,K4,bus,0.3480,1.20,0.4176
+167,132,133,Kantor Kec. Colomadu,SPBU Colomadu,K4,bus,0.3692,1.20,0.4431
+168,133,134,SPBU Colomadu,Koramil Colomadu,K4,bus,0.3692,1.20,0.4430
+169,134,135,Koramil Colomadu,YPAC,K4,bus,0.4355,1.20,0.5226
+170,135,136,YPAC,Jonggrang,K4,bus,0.2547,1.20,0.3056
+171,136,137,Jonggrang,Gajahan IHS,K4,bus,0.3141,1.20,0.3769
+172,137,138,Gajahan IHS,ATMI,K4,bus,0.4480,1.20,0.5376
+173,138,139,ATMI,LOR INN,K4,bus,0.4338,1.20,0.5205
+174,139,140,LOR INN,Lapangan Blulukan,K4,bus,0.2265,1.20,0.2719
+175,140,141,Lapangan Blulukan,Alana,K4,bus,0.4799,1.20,0.5759
+176,141,142,Alana,Solo Pos,K4,bus,0.4380,1.20,0.5256
+177,142,143,Solo Pos,DPRD Surakarta,K4,bus,0.5010,1.20,0.6012
+178,143,144,DPRD Surakarta,Adi Sucipto Barat,K4,bus,0.6997,1.20,0.8397
+179,144,145,Adi Sucipto Barat,Adi Sucipto Timur,K4,bus,0.0992,1.20,0.1190
+180,145,146,Adi Sucipto Timur,Jajar,K4,bus,0.3000,1.20,0.3601
+181,146,147,Jajar,Sekolah Ursulin,K4,bus,0.3001,1.20,0.3601
+182,147,148,Sekolah Ursulin,SMKN 5 Surakarta,K4,bus,0.3000,1.20,0.3600
+183,148,149,SMKN 5 Surakarta,TK Pembina,K4,bus,0.3000,1.20,0.3601
+184,149,150,TK Pembina,RS Bhayangkara,K4,bus,0.1551,1.20,0.1862
+185,150,151,RS Bhayangkara,SMAN 4 Surakarta,K4,bus,0.1726,1.20,0.2071
+186,151,152,SMAN 4 Surakarta,Stadion Manahan,K4,bus,0.4180,1.20,0.5016
+187,152,153,Stadion Manahan,Gedung Wanita / SMPN 1 Surakarta,K4,bus,0.3346,1.20,0.4015
+188,153,154,Gedung Wanita / SMPN 1 Surakarta,PLN Manahan,K4,bus,0.3935,1.20,0.4722
+189,154,155,PLN Manahan,RS Brayat,K4,bus,0.4877,1.20,0.5852
+190,155,156,RS Brayat,Dewa Dewi,K4,bus,0.4559,1.20,0.5471
+191,156,157,Dewa Dewi,Terminal Tirtonadi,K4,bus,0.2754,1.20,0.3304
+192,157,158,Terminal Tirtonadi,Simpang 3 Gilingan,K4,bus,0.2660,1.20,0.3192
+193,158,159,Simpang 3 Gilingan,Masjid Raya Sheikh Zayed,K4,bus,0.4318,1.20,0.5181
+194,159,160,Masjid Raya Sheikh Zayed,Simpang AUB,K4,bus,0.6280,1.20,0.7536
+195,160,49,Simpang AUB,Panggung,K4,bus,0.6280,1.20,0.7536
+196,49,50,Panggung,RS Hermina,K4,bus,0.3465,1.20,0.4158
+197,50,51,RS Hermina,RSUD dr. Moewardi,K4,bus,0.4348,1.20,0.5217
+198,51,52,RSUD dr. Moewardi,SMA Muhammadiyah 3,K4,bus,0.1994,1.20,0.2393
+199,52,53,SMA Muhammadiyah 3,Thiongting,K4,bus,0.1994,1.20,0.2393
+200,53,120,Thiongting,Universitas Aisyiyah,K4,bus,0.3697,1.20,0.4437
+201,120,121,Universitas Aisyiyah,ISI Solo Techno Park,K4,bus,0.3541,1.20,0.4250
+202,121,122,ISI Solo Techno Park,Kecamatan Jebres,K4,bus,0.3974,1.20,0.4769
+203,122,123,Kecamatan Jebres,UNS Belakang,K4,bus,0.2529,1.20,0.3035
+204,123,124,UNS Belakang,Taman Lansia,K4,bus,0.5026,1.20,0.6031
+205,124,161,Taman Lansia,Rusun Jurug,K4,bus,0.3544,1.20,0.4253
+206,161,162,Rusun Jurug,Pasar Buah Jurug,K4,bus,0.3070,1.20,0.3684
+207,162,59,Pasar Buah Jurug,Jurug,K4,bus,0.3670,1.20,0.4404
+208,59,60,Jurug,ASMI,K4,bus,0.6849,1.20,0.8219
+209,60,61,ASMI,Mitra Palur,K4,bus,0.7950,1.20,0.9539
+210,61,62,Mitra Palur,Palur,K4,bus,0.4002,1.20,0.4803
+211,62,63,Palur,Terminal Palur,K4,bus,0.3950,1.20,0.4740
+212,85,8,Terminal Kartasura,Luwes Kartasura,K5,bus,1.0895,1.20,1.3074
+213,8,7,Luwes Kartasura,Klegen,K5,bus,0.5253,1.20,0.6304
+214,7,6,Klegen,Gereja Colomadu,K5,bus,0.3850,1.20,0.4620
+215,6,5,Gereja Colomadu,Pasar Colomadu,K5,bus,0.3427,1.20,0.4112
+216,5,163,Pasar Colomadu,GBI Malangjiwan,K5,bus,0.4736,1.20,0.5683
+217,163,164,GBI Malangjiwan,Malangjiwan Utara,K5,bus,0.3925,1.20,0.4709
+218,164,165,Malangjiwan Utara,Gawanan / SMPN 1 Colomadu,K5,bus,0.3923,1.20,0.4708
+219,165,166,Gawanan / SMPN 1 Colomadu,SMK Penerbangan Adi Soemarmo,K5,bus,0.3924,1.20,0.4709
+220,166,167,SMK Penerbangan Adi Soemarmo,Yakkum,K5,bus,0.3924,1.20,0.4709
+221,167,168,Yakkum,Garasi BST Tohudan,K5,bus,0.3873,1.20,0.4648
+222,168,169,Garasi BST Tohudan,Tohudan Poltekkes,K5,bus,0.7650,1.20,0.9180
+223,169,170,Tohudan Poltekkes,Gedongan,K5,bus,0.7650,1.20,0.9180
+224,170,171,Gedongan,Puskesmas Colomadu 2,K5,bus,0.7649,1.20,0.9178
+225,171,172,Puskesmas Colomadu 2,Klodran,K5,bus,0.7650,1.20,0.9180
+226,172,173,Klodran,SMKN 9 Surakarta,K5,bus,0.7650,1.20,0.9180
+227,173,174,SMKN 9 Surakarta,SMPN 23 Surakarta,K5,bus,0.4807,1.20,0.5769
+228,174,175,SMPN 23 Surakarta,Graha Saba Buana,K5,bus,0.5922,1.20,0.7106
+229,175,176,Graha Saba Buana,Lapangan Sumber,K5,bus,0.7609,1.20,0.9131
+230,176,177,Lapangan Sumber,SMPN 12 Surakarta,K5,bus,0.4490,1.20,0.5388
+231,177,149,SMPN 12 Surakarta,TK Pembina,K5,bus,0.1910,1.20,0.2292
+232,149,150,TK Pembina,RS Bhayangkara,K5,bus,0.1551,1.20,0.1862
+233,150,151,RS Bhayangkara,SMAN 4 Surakarta,K5,bus,0.1726,1.20,0.2071
+234,151,152,SMAN 4 Surakarta,Stadion Manahan,K5,bus,0.4180,1.20,0.5016
+235,152,78,Stadion Manahan,Kota Barat,K5,bus,0.6919,1.20,0.8303
+236,78,79,Kota Barat,SMPN 24 Surakarta,K5,bus,0.2085,1.20,0.2502
+237,79,33,SMPN 24 Surakarta,Gendengan,K5,bus,0.2223,1.20,0.2667
+238,33,34,Gendengan,Sriwedari 1,K5,bus,0.5251,1.20,0.6301
+239,34,35,Sriwedari 1,Sriwedari 2,K5,bus,0.3281,1.20,0.3938
+240,35,36,Sriwedari 2,Ngapeman,K5,bus,0.2466,1.20,0.2959
+241,36,37,Ngapeman,Timuran,K5,bus,0.1508,1.20,0.1809
+242,37,38,Timuran,Kemlayan,K5,bus,0.2787,1.20,0.3344
+243,38,39,Kemlayan,Pasar Pon,K5,bus,0.2787,1.20,0.3345
+244,39,119,Pasar Pon,Batik Keris,K5,bus,0.3167,1.20,0.3801
+245,119,118,Batik Keris,Simpang Kalilarangan,K5,bus,0.3524,1.20,0.4229
+246,118,117,Simpang Kalilarangan,Simpang 3 Notosuman Timur,K5,bus,0.3525,1.20,0.4230
+247,117,178,Simpang 3 Notosuman Timur,Gemblegan,K5,bus,0.3445,1.20,0.4134
+248,178,179,Gemblegan,Simpang Grobakan,K5,bus,0.2280,1.20,0.2736
+249,179,180,Simpang Grobakan,Luwes Gading,K5,bus,0.2280,1.20,0.2736
+250,180,181,Luwes Gading,Pasar Gading,K5,bus,0.1651,1.20,0.1981
+251,181,182,Pasar Gading,Simpang Baturono,K5,bus,0.3386,1.20,0.4064
+252,182,183,Simpang Baturono,Apil Semanggi,K5,bus,0.3030,1.20,0.3636
+253,183,184,Apil Semanggi,SPBU Semanggi,K5,bus,0.2511,1.20,0.3014
+254,184,185,SPBU Semanggi,Sub Terminal Semanggi,K5,bus,0.3803,1.20,0.4563
+255,185,186,Sub Terminal Semanggi,SMA MTA,K5,bus,0.2709,1.20,0.3251
+256,186,187,SMA MTA,Jembatan Mojo,K5,bus,0.7425,1.20,0.8910
+257,187,188,Jembatan Mojo,Ngebrak,K5,bus,0.4698,1.20,0.5637
+258,188,189,Ngebrak,Laban,K5,bus,0.3442,1.20,0.4130
+259,189,190,Laban,Graha Safira,K5,bus,0.3196,1.20,0.3835
+260,190,191,Graha Safira,Pasar Plumbon,K5,bus,0.4171,1.20,0.5006
+261,191,192,Pasar Plumbon,Desa Wisata Wirun,K5,bus,0.3568,1.20,0.4281
+262,192,193,Desa Wisata Wirun,GTP,K5,bus,0.3568,1.20,0.4281
+263,193,194,GTP,Kel. Wirun,K5,bus,0.5166,1.20,0.6199
+264,194,195,Kel. Wirun,Polsek Mojolaban,K5,bus,0.2733,1.20,0.3279
+265,195,196,Polsek Mojolaban,SMAN 1 Mojolaban,K5,bus,0.2389,1.20,0.2866
+266,196,197,SMAN 1 Mojolaban,Tugu Bendo,K5,bus,0.2607,1.20,0.3129
+267,197,198,Tugu Bendo,Pasar Bekonang,K5,bus,0.5563,1.20,0.6676
+268,198,199,Pasar Bekonang,Lapangan Cangkol,K5,bus,0.5859,1.20,0.7031
+269,199,200,Lapangan Cangkol,SMPN 1 Mojolaban,K5,bus,0.6716,1.20,0.8059
+270,200,201,SMPN 1 Mojolaban,SPBU Sidan,K5,bus,0.4096,1.20,0.4915
+271,201,202,SPBU Sidan,Simpang Sidan,K5,bus,0.3572,1.20,0.4286
+272,178,203,Gemblegan,Gereja Masjid,K5,bus,0.3741,1.20,0.4489
+273,203,204,Gereja Masjid,Simpang Notosuman Barat,K5,bus,0.3861,1.20,0.4633
+274,204,205,Simpang Notosuman Barat,Singosaren,K5,bus,0.3861,1.20,0.4633
+275,205,206,Singosaren,Gatot Subroto Ngarsopuro,K5,bus,0.1859,1.20,0.2231
+276,206,39,Gatot Subroto Ngarsopuro,Pasar Pon,K5,bus,0.1859,1.20,0.2231
+277,207,208,RSUD Ngipang,GKJ Ngipang,F7,bus,0.2487,1.20,0.2984
+278,208,209,GKJ Ngipang,LDII Bayan Krajan,F7,bus,0.2206,1.20,0.2647
+279,209,210,LDII Bayan Krajan,Puskesmas Krembyongan,F7,bus,0.2529,1.20,0.3035
+280,210,211,Puskesmas Krembyongan,Banyuagung,F7,bus,0.3599,1.20,0.4319
+281,211,212,Banyuagung,Sumpingan,F7,bus,0.3599,1.20,0.4319
+282,212,213,Sumpingan,SD Kristen 2 Stabelan,F7,bus,0.1810,1.20,0.2173
+283,213,214,SD Kristen 2 Stabelan,SDN 3 Banyuagung,F7,bus,0.1812,1.20,0.2174
+284,214,215,SDN 3 Banyuagung,Kimia Farma Banyuagung,F7,bus,0.4229,1.20,0.5075
+285,215,216,Kimia Farma Banyuagung,Luwes Nusukan,F7,bus,0.4229,1.20,0.5075
+286,216,217,Luwes Nusukan,Pasar Nusukan,F7,bus,0.5460,1.20,0.6552
+287,217,218,Pasar Nusukan,Jembatan Tirtonadi,F7,bus,0.4740,1.20,0.5688
+288,218,157,Jembatan Tirtonadi,Terminal Tirtonadi,F7,bus,0.2495,1.20,0.2994
+289,157,219,Terminal Tirtonadi,Pasar Papsa Gilingan,F7,bus,0.1999,1.20,0.2399
+290,219,220,Pasar Papsa Gilingan,Pasar Besi Gilingan,F7,bus,0.1489,1.20,0.1787
+291,220,221,Pasar Besi Gilingan,RS Triharsi,F7,bus,0.3920,1.20,0.4704
+292,221,222,RS Triharsi,Jl. Sabang,F7,bus,0.2057,1.20,0.2468
+293,222,223,Jl. Sabang,Luwes Kestalan,F7,bus,0.2057,1.20,0.2468
+294,223,224,Luwes Kestalan,Pasar Legi Barat,F7,bus,0.1605,1.20,0.1926
+295,224,225,Pasar Legi Barat,Pasar Legi,F7,bus,0.1372,1.20,0.1646
+296,225,226,Pasar Legi,SMP Widya Wacana,F7,bus,0.1735,1.20,0.2082
+297,226,227,SMP Widya Wacana,Kelurahan Stabelan,F7,bus,0.0657,1.20,0.0789
+298,227,228,Kelurahan Stabelan,PDAM Stabelan,F7,bus,0.2112,1.20,0.2534
+299,228,229,PDAM Stabelan,Apotik Widuran,F7,bus,0.2073,1.20,0.2488
+300,229,230,Apotik Widuran,Pegadaian,F7,bus,0.1993,1.20,0.2391
+301,230,231,Pegadaian,Kejaksaan,F7,bus,0.1994,1.20,0.2392
+302,231,45,Kejaksaan,Warung Pelem,F7,bus,0.1494,1.20,0.1792
+303,45,44,Warung Pelem,Pasar Gede,F7,bus,0.2136,1.20,0.2563
+304,44,43,Pasar Gede,Balai Kota,F7,bus,0.2136,1.20,0.2563
+305,43,42,Balai Kota,Benteng Vastenburg,F7,bus,0.1937,1.20,0.2324
+306,42,232,Benteng Vastenburg,Telkom,F7,bus,0.1382,1.20,0.1658
+307,232,233,Telkom,Simpang 3 Lodji Wetan,F7,bus,0.1691,1.20,0.2029
+308,233,234,Simpang 3 Lodji Wetan,Luwes Sangkrah,F7,bus,0.1690,1.20,0.2028
+309,234,235,Luwes Sangkrah,BTC Selatan,F7,bus,0.2223,1.20,0.2668
+310,235,125,BTC Selatan,Pasar Akik,F7,bus,0.2179,1.20,0.2614
+311,125,126,Pasar Akik,Alun-Alun Utara,F7,bus,0.1228,1.20,0.1474
+312,126,127,Alun-Alun Utara,Polsek Pasar Kliwon,F7,bus,0.1542,1.20,0.1850
+313,127,128,Polsek Pasar Kliwon,Pasar Klewer,F7,bus,0.1907,1.20,0.2288
+314,236,237,Sub Terminal Pelangi Mojosongo,Sibela Tengah,F8,bus,0.6245,1.20,0.7494
+315,237,238,Sibela Tengah,Kelurahan Mojosongo,F8,bus,0.6245,1.20,0.7494
+316,238,239,Kelurahan Mojosongo,Goa Maria,F8,bus,0.2803,1.20,0.3364
+317,239,240,Goa Maria,Untoroloyo,F8,bus,0.4997,1.20,0.5996
+318,240,241,Untoroloyo,Pabrik Jerapah,F8,bus,0.1737,1.20,0.2084
+319,241,242,Pabrik Jerapah,Pasar Mojosongo,F8,bus,0.1714,1.20,0.2057
+320,242,243,Pasar Mojosongo,RS dr. OEN Kandangsapi,F8,bus,0.3248,1.20,0.3897
+321,243,49,RS dr. OEN Kandangsapi,Panggung,F8,bus,0.3248,1.20,0.3897
+322,49,64,Panggung,Purbowardayan,F8,bus,0.2270,1.20,0.2724
+323,64,65,Purbowardayan,SMAN 1 Surakarta,F8,bus,0.5862,1.20,0.7035
+324,65,66,SMAN 1 Surakarta,Margoyudan,F8,bus,0.1092,1.20,0.1310
+325,66,244,Margoyudan,Patung Mayor Achmadi,F8,bus,0.1227,1.20,0.1473
+326,244,245,Patung Mayor Achmadi,SMPN 4 Surakarta,F8,bus,0.1227,1.20,0.1472
+327,245,246,SMPN 4 Surakarta,SMK Kristen 2,F8,bus,0.0741,1.20,0.0890
+328,246,227,SMK Kristen 2,Kelurahan Stabelan,F8,bus,0.2230,1.20,0.2677
+329,227,226,Kelurahan Stabelan,SMP Widya Wacana,F8,bus,0.0657,1.20,0.0789
+330,226,225,SMP Widya Wacana,Pasar Legi,F8,bus,0.1735,1.20,0.2082
+331,236,247,Sub Terminal Pelangi Mojosongo,Pasar Sibela,F9,bus,0.3213,1.20,0.3855
+332,247,248,Pasar Sibela,Taman Jayawijaya,F9,bus,0.3894,1.20,0.4673
+333,248,249,Taman Jayawijaya,Jayawijaya Timur,F9,bus,0.1425,1.20,0.1710
+334,249,250,Jayawijaya Timur,Jayawijaya Barat,F9,bus,0.1426,1.20,0.1711
+335,250,251,Jayawijaya Barat,Simpang Busukan,F9,bus,0.1425,1.20,0.1710
+336,251,252,Simpang Busukan,Dempo,F9,bus,0.1426,1.20,0.1711
+337,252,253,Dempo,Ngaglik,F9,bus,0.1425,1.20,0.1710
+338,253,254,Ngaglik,USB Poltekkes,F9,bus,0.6074,1.20,0.7289
+339,254,255,USB Poltekkes,Patung Banteng Bibis,F9,bus,0.5218,1.20,0.6261
+340,255,256,Patung Banteng Bibis,SMAN 5 & 6 Surakarta,F9,bus,0.2605,1.20,0.3126
+341,256,257,SMAN 5 & 6 Surakarta,Masjid Al-Hakam,F9,bus,0.2605,1.20,0.3126
+342,257,258,Masjid Al-Hakam,Pasar Ngemplak,F9,bus,0.2105,1.20,0.2526
+343,258,244,Pasar Ngemplak,Patung Mayor Achmadi,F9,bus,0.5603,1.20,0.6724
+344,244,245,Patung Mayor Achmadi,SMPN 4 Surakarta,F9,bus,0.1227,1.20,0.1472
+345,245,246,SMPN 4 Surakarta,SMK Kristen 2,F9,bus,0.0741,1.20,0.0890
+346,246,227,SMK Kristen 2,Kelurahan Stabelan,F9,bus,0.2230,1.20,0.2677
+347,227,226,Kelurahan Stabelan,SMP Widya Wacana,F9,bus,0.0657,1.20,0.0789
+348,226,225,SMP Widya Wacana,Pasar Legi,F9,bus,0.1735,1.20,0.2082
+349,225,259,Pasar Legi,Pasar Legi Selatan,F9,bus,0.3016,1.20,0.3619
+350,259,260,Pasar Legi Selatan,Grogolan,F9,bus,0.2163,1.20,0.2596
+351,260,261,Grogolan,Kelurahan Ketelan,F9,bus,0.2163,1.20,0.2596
+352,261,262,Kelurahan Ketelan,SMA Muhammadiyah 1,F9,bus,0.2638,1.20,0.3166
+353,262,263,SMA Muhammadiyah 1,Kantor Kel. Timuran,F9,bus,0.5561,1.20,0.6673
+354,263,264,Kantor Kel. Timuran,Simpang Trisakti,F9,bus,0.5562,1.20,0.6675
+355,264,117,Simpang Trisakti,Simpang 3 Notosuman Timur,F9,bus,0.5561,1.20,0.6673
+356,117,178,Simpang 3 Notosuman Timur,Gemblegan,F9,bus,0.3445,1.20,0.4134
+357,178,179,Gemblegan,Simpang Grobakan,F9,bus,0.2280,1.20,0.2736
+358,179,180,Simpang Grobakan,Luwes Gading,F9,bus,0.2280,1.20,0.2736
+359,180,181,Luwes Gading,Pasar Gading,F9,bus,0.1651,1.20,0.1981
+360,181,182,Pasar Gading,Simpang Baturono,F9,bus,0.3386,1.20,0.4064
+361,182,183,Simpang Baturono,Apil Semanggi,F9,bus,0.3030,1.20,0.3636
+362,183,184,Apil Semanggi,SPBU Semanggi,F9,bus,0.2511,1.20,0.3014
+363,184,185,SPBU Semanggi,Sub Terminal Semanggi,F9,bus,0.3803,1.20,0.4563
+364,117,204,Simpang 3 Notosuman Timur,Simpang Notosuman Barat,F9,bus,0.3110,1.20,0.3732
+365,204,205,Simpang Notosuman Barat,Singosaren,F9,bus,0.3861,1.20,0.4633
+366,205,206,Singosaren,Gatot Subroto Ngarsopuro,F9,bus,0.1859,1.20,0.2231
+367,206,265,Gatot Subroto Ngarsopuro,Pasar Triwindu Ngarsopuro,F9,bus,0.3157,1.20,0.3789
+368,265,266,Pasar Triwindu Ngarsopuro,Mangkunegaran,F9,bus,0.1528,1.20,0.1833
+369,266,267,Mangkunegaran,Atria,F9,bus,0.1718,1.20,0.2061
+370,267,263,Atria,Kantor Kel. Timuran,F9,bus,0.2090,1.20,0.2508
+371,63,62,Terminal Palur,Palur,F10,bus,0.3950,1.20,0.4740
+372,62,61,Palur,Mitra Palur,F10,bus,0.4002,1.20,0.4803
+373,61,60,Mitra Palur,ASMI,F10,bus,0.7950,1.20,0.9539
+374,60,268,ASMI,Tugu Adipura Jurug,F10,bus,0.5306,1.20,0.6368
+375,268,269,Tugu Adipura Jurug,Pasar Pucangsawit,F10,bus,0.2632,1.20,0.3159
+376,269,270,Pasar Pucangsawit,Boing Tenis Center,F10,bus,0.3575,1.20,0.4289
+377,270,271,Boing Tenis Center,Kantor Kel. Pucangsawit,F10,bus,0.2749,1.20,0.3299
+378,271,272,Kantor Kel. Pucangsawit,Pucangsawit Waringin,F10,bus,0.2748,1.20,0.3298
+379,272,273,Pucangsawit Waringin,Alfamart Jonasan,F10,bus,0.2749,1.20,0.3299
+380,273,274,Alfamart Jonasan,Jonasan,F10,bus,0.1366,1.20,0.1639
+381,274,275,Jonasan,Jagalan Abon Sapi,F10,bus,0.2647,1.20,0.3176
+382,275,276,Jagalan Abon Sapi,SMPN 20 Surakarta,F10,bus,0.2727,1.20,0.3272
+383,276,277,SMPN 20 Surakarta,Kantor Kel. Jagalan,F10,bus,0.2073,1.20,0.2487
+384,277,278,Kantor Kel. Jagalan,Simpang 3 Wonosaren,F10,bus,0.2074,1.20,0.2488
+385,278,279,Simpang 3 Wonosaren,SMAN 3 & SMPN 14,F10,bus,0.2073,1.20,0.2487
+386,279,280,SMAN 3 & SMPN 14,Dr Loo,F10,bus,0.2716,1.20,0.3260
+387,280,281,Dr Loo,SD Warga Surakarta,F10,bus,0.2956,1.20,0.3547
+388,281,282,SD Warga Surakarta,Purwodiningratan,F10,bus,0.2057,1.20,0.2468
+389,282,45,Purwodiningratan,Warung Pelem,F10,bus,0.2057,1.20,0.2468
+390,45,44,Warung Pelem,Pasar Gede,F10,bus,0.2136,1.20,0.2563
+391,44,43,Pasar Gede,Balai Kota,F10,bus,0.2136,1.20,0.2563
+392,43,42,Balai Kota,Benteng Vastenburg,F10,bus,0.1937,1.20,0.2324
+393,42,232,Benteng Vastenburg,Telkom,F10,bus,0.1382,1.20,0.1658
+394,232,233,Telkom,Simpang 3 Lodji Wetan,F10,bus,0.1691,1.20,0.2029
+395,233,234,Simpang 3 Lodji Wetan,Luwes Sangkrah,F10,bus,0.1690,1.20,0.2028
+396,234,235,Luwes Sangkrah,BTC Selatan,F10,bus,0.2223,1.20,0.2668
+397,235,125,BTC Selatan,Pasar Akik,F10,bus,0.2179,1.20,0.2614
+398,125,126,Pasar Akik,Alun-Alun Utara,F10,bus,0.1228,1.20,0.1474
+399,126,127,Alun-Alun Utara,Polsek Pasar Kliwon,F10,bus,0.1542,1.20,0.1850
+400,127,128,Polsek Pasar Kliwon,Pasar Klewer,F10,bus,0.1907,1.20,0.2288
+401,283,284,Lapangan Gentan,Jl. Empu Kanwa,F12,bus,0.2488,1.20,0.2985
+402,284,285,Jl. Empu Kanwa,Kelurahan Gentan,F12,bus,0.2489,1.20,0.2987
+403,285,286,Kelurahan Gentan,Luwes Gentan,F12,bus,0.1892,1.20,0.2270
+404,286,287,Luwes Gentan,Jl. Parang Kusumo,F12,bus,0.2440,1.20,0.2928
+405,287,288,Jl. Parang Kusumo,SMPN 9 Surakarta,F12,bus,0.2440,1.20,0.2928
+406,288,289,SMPN 9 Surakarta,Pajang,F12,bus,0.2769,1.20,0.3323
+407,289,290,Pajang,Pos Pajang,F12,bus,0.2770,1.20,0.3324
+408,290,291,Pos Pajang,Wangkung,F12,bus,0.4726,1.20,0.5671
+409,291,102,Wangkung,Pasar Jongke,F12,bus,0.1652,1.20,0.1982
+410,102,292,Pasar Jongke,Pusat Oleh-oleh Jongke,F12,bus,0.1983,1.20,0.2380
+411,292,83,Pusat Oleh-oleh Jongke,Simpang Batikan,F12,bus,0.8581,1.20,1.0298
+412,83,293,Simpang Batikan,STMIK Sinus,F12,bus,0.2636,1.20,0.3163
+413,293,294,STMIK Sinus,Al-Muayyad,F12,bus,0.2637,1.20,0.3164
+414,294,295,Al-Muayyad,SDN Tegalsari,F12,bus,0.2522,1.20,0.3026
+415,295,296,SDN Tegalsari,FKG UMS,F12,bus,0.3632,1.20,0.4359
+416,296,297,FKG UMS,Sutowijoyo,F12,bus,0.0628,1.20,0.0754
+417,297,298,Sutowijoyo,Penumping,F12,bus,0.2925,1.20,0.3510
+418,298,299,Penumping,Kelurahan Sriwedari,F12,bus,0.2924,1.20,0.3508
+419,299,300,Kelurahan Sriwedari,GOR Sritex,F12,bus,0.3453,1.20,0.4144
+420,300,301,GOR Sritex,Pasar Kadipolo,F12,bus,0.2184,1.20,0.2621
+421,301,302,Pasar Kadipolo,SMA Al Islam 1,F12,bus,0.2824,1.20,0.3389
+422,302,303,SMA Al Islam 1,SMA Kristen 1,F12,bus,0.2824,1.20,0.3389
+423,303,304,SMA Kristen 1,Kantor Kel. Kratonan,F12,bus,0.1521,1.20,0.1825
+424,304,114,Kantor Kel. Kratonan,Serengan,F12,bus,0.1521,1.20,0.1825
+425,114,115,Serengan,Widya Wacana,F12,bus,0.3351,1.20,0.4021
+426,115,305,Widya Wacana,SD Kanisius,F12,bus,0.0519,1.20,0.0623
+427,305,306,SD Kanisius,SMPN 19 Surakarta,F12,bus,0.4083,1.20,0.4900
+428,306,307,SMPN 19 Surakarta,Sawo Kecik,F12,bus,0.6251,1.20,0.7501
+429,307,308,Sawo Kecik,SMA Islam,F12,bus,0.3727,1.20,0.4472
+430,308,309,SMA Islam,SMKN 3 Surakarta,F12,bus,0.5062,1.20,0.6074
+431,309,181,SMKN 3 Surakarta,Pasar Gading,F12,bus,0.1959,1.20,0.2351
+432,181,182,Pasar Gading,Simpang Baturono,F12,bus,0.3386,1.20,0.4064
+433,182,310,Simpang Baturono,Masjid Riyadh,F12,bus,0.2202,1.20,0.2643
+434,310,311,Masjid Riyadh,RS Kustati,F12,bus,0.1776,1.20,0.2131
+435,311,312,RS Kustati,SMPN 6 Surakarta,F12,bus,0.1531,1.20,0.1837
+436,312,313,SMPN 6 Surakarta,SPBU Pasar Kliwon,F12,bus,0.1531,1.20,0.1838
+437,313,314,SPBU Pasar Kliwon,Kedung Lumbu,F12,bus,0.2943,1.20,0.3531
+438,314,128,Kedung Lumbu,Pasar Klewer,F12,bus,0.2943,1.20,0.3532
+439,80,70,Purwosari,Solo Balapan,KRL,rail,2.8128,1.10,3.0941
+440,70,315,Solo Balapan,Solo Jebres,KRL,rail,2.0775,1.10,2.2853
+441,315,62,Solo Jebres,Palur,KRL,rail,3.9987,1.10,4.3985
+442,1,316,Bandara Adi Soemarmo,Kadipiro,BIAS,rail,7.8334,1.10,8.6167
+443,316,70,Kadipiro,Solo Balapan,BIAS,rail,2.8317,1.10,3.1148
+444,70,315,Solo Balapan,Solo Jebres,BIAS,rail,2.0775,1.10,2.2853
+445,315,62,Solo Jebres,Palur,BIAS,rail,3.9987,1.10,4.3985
+446,80,317,Purwosari,Solo Kota,BK,rail,4.6683,1.10,5.1352
+447,157,70,Terminal Tirtonadi,Solo Balapan,WALK,walk,0.4245,1.30,0.5519
+448,48,315,Jebres,Solo Jebres,WALK,walk,0.3796,1.30,0.4935
+449,234,317,Luwes Sangkrah,Solo Kota,WALK,walk,0.4717,1.30,0.6132

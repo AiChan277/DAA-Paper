@@ -1,0 +1,80 @@
+﻿{"id":"15","stop":"Ngadirejo Pandeyan","finished":true}
+{"id":"82","stop":"Djamaatul Ichwan","finished":true}
+{"id":"92","stop":"Superindo Gumpang","finished":true}
+{"id":"105","stop":"dr. Radjiman","finished":true}
+{"id":"129","stop":"Coyudan Timur","finished":true}
+{"id":"160","stop":"Simpang AUB","finished":true}
+{"id":"169","stop":"Tohudan Poltekkes","finished":true}
+{"id":"194","stop":"Kel. Wirun","finished":true}
+{"id":"214","stop":"SDN 3 Banyuagung","finished":true}
+{"id":"222","stop":"Jl. Sabang","query":"Jalan Sabang","osm_name":"Jalan Sabang","display":"Jalan Sabang, Setabelan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5602064","lon":"110.8245701","category":"highway","type":"residential"}
+{"id":"222","stop":"Jl. Sabang","query":"Jalan Sabang","osm_name":"Jalan Sabang","display":"Jalan Sabang, Jagalan, Surakarta, Jawa Tengah, 57125, Indonesia","lat":"-7.5696145","lon":"110.8470664","category":"highway","type":"residential"}
+{"id":"222","stop":"Jl. Sabang","query":"Jalan Sabang","osm_name":"Jalan Sabang","display":"Jalan Sabang, Kestalan, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5586228","lon":"110.8246344","category":"highway","type":"residential"}
+{"id":"222","stop":"Jl. Sabang","finished":true}
+{"id":"226","stop":"SMP Widya Wacana","query":"SMP Widya Wacana","osm_name":"SMP Widya Wacana","display":"SMP Widya Wacana, 12, Jalan Lumban Tobing, Setabelan, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5621470","lon":"110.8261780","category":"highway","type":"bus_stop"}
+{"id":"226","stop":"SMP Widya Wacana","finished":true}
+{"id":"230","stop":"Pegadaian","query":"Pegadaian","osm_name":"Pegadaian","display":"Pegadaian, Jalan Yos Sudarso, Danukusuman, Surakarta, Kecamatan Serengan, Jawa Tengah, 57156, Indonesia","lat":"-7.5878577","lon":"110.8180445","category":"shop","type":"pawnbroker"}
+{"id":"230","stop":"Pegadaian","finished":true}
+{"id":"234","stop":"Solo Kota","query":"Halte Solo Kota","osm_name":"Halte Sriwedari 2 Utara","display":"Halte Sriwedari 2 Utara, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5685691","lon":"110.8143902","category":"highway","type":"bus_stop"}
+{"id":"234","stop":"Solo Kota","query":"Halte Solo Kota","osm_name":"Halte Sriwedari 1 Utara","display":"Halte Sriwedari 1 Utara, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5670482","lon":"110.8118392","category":"highway","type":"bus_stop"}
+{"id":"234","stop":"Solo Kota","query":"Halte Solo Kota","osm_name":"Halte Korem 2","display":"Halte Korem 2, Jalan Brigadir Jenderal Slamet Riyadi, Kerten, Surakarta, Jawa Tengah, 57144, Indonesia","lat":"-7.5597424","lon":"110.7873893","category":"highway","type":"bus_stop"}
+{"id":"234","stop":"Solo Kota","query":"Halte Solo Kota","osm_name":"Halte Hotel Sahid","display":"Halte Hotel Sahid, Jalan Gajah Mada, Ketelan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5641886","lon":"110.8186791","category":"highway","type":"bus_stop"}
+{"id":"234","stop":"Solo Kota","query":"Halte Solo Kota","osm_name":"Halte Kasih Ibu Selatan","display":"Halte Kasih Ibu Selatan, Jalan Brigadir Jenderal Slamet Riyadi, Purwosari, Surakarta, Jawa Tengah, 57148, Indonesia","lat":"-7.5640858","lon":"110.8013954","category":"highway","type":"bus_stop"}
+{"id":"234","stop":"Solo Kota","query":"Halte Solo Kota","osm_name":"Halte Sriwedari 2 Selatan","display":"Halte Sriwedari 2 Selatan, City Walk, Kemlayan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57132, Indonesia","lat":"-7.5679376","lon":"110.8143278","category":"highway","type":"bus_stop"}
+{"id":"234","stop":"Solo Kota","query":"Solo Kota","osm_name":"Solo Kota","display":"Solo Kota, Jalan Sungai Indragiri, Kedung Lumbu, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57113, Indonesia","lat":"-7.5756946","lon":"110.8362617","category":"railway","type":"station"}
+{"id":"234","stop":"Solo Kota","query":"Solo Kota","osm_name":"Solo Kota","display":"Solo Kota, Jalan Sungai Indragiri, Kedung Lumbu, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57113, Indonesia","lat":"-7.5759034","lon":"110.8365346","category":"railway","type":"stop"}
+{"id":"234","stop":"Solo Kota","finished":true}
+{"id":"239","stop":"Goa Maria","query":"Halte Goa Maria","osm_name":"Halte Goa Maria","display":"Halte Goa Maria, Jalan Brigadir Jenderal Katamso, Mojosongo, Surakarta, Jawa Tengah, 57127, Indonesia","lat":"-7.5462734","lon":"110.8413980","category":"highway","type":"bus_stop"}
+{"id":"239","stop":"Goa Maria","query":"Goa Maria","osm_name":"Halte Goa Maria B","display":"Halte Goa Maria B, Jalan Brigadir Jenderal Katamso, Mojosongo, Surakarta, Jawa Tengah, 57127, Indonesia","lat":"-7.5463133","lon":"110.8413014","category":"highway","type":"bus_stop"}
+{"id":"239","stop":"Goa Maria","query":"Goa Maria","osm_name":"Halte Goa Maria","display":"Halte Goa Maria, Jalan Brigadir Jenderal Katamso, Mojosongo, Surakarta, Jawa Tengah, 57127, Indonesia","lat":"-7.5462734","lon":"110.8413980","category":"highway","type":"bus_stop"}
+{"id":"239","stop":"Goa Maria","finished":true}
+{"id":"249","stop":"Jayawijaya Timur","finished":true}
+{"id":"263","stop":"Kantor Kel. Timuran","finished":true}
+{"id":"272","stop":"Pucangsawit Waringin","finished":true}
+{"id":"293","stop":"STMIK Sinus","finished":true}
+{"id":"312","stop":"SMPN 6 Surakarta","finished":true}
+{"id":"74","stop":"RS PKU Surakarta","query":"RS PKU Muhammadiyah Surakarta","osm_name":"RS PKU Muhammadiyah Surakarta","display":"RS PKU Muhammadiyah Surakarta, Jalan Aster 1, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5649652","lon":"110.8166391","category":"amenity","type":"hospital"}
+{"id":"74","stop":"RS PKU Surakarta","query":"RS PKU Muhammadiyah Surakarta","osm_name":"RS PKU Muhammadiyah Surakarta","display":"RS PKU Muhammadiyah Surakarta, Jalan Slamet Riyadi, Kalitan, Kartasura, Sukoharjo, Jawa Tengah, 57169, Indonesia","lat":"-7.5517056","lon":"110.7357917","category":"amenity","type":"hospital"}
+{"id":"74","stop":"RS PKU Surakarta","finished":true}
+{"id":"146","stop":"Jajar","query":"Halte Jajar","osm_name":"Halte Gapura Kleco","display":"Halte Gapura Kleco, Jalan Jenderal Ahmad Yani, Jajar, Surakarta, Jawa Tengah, 57144, Indonesia","lat":"-7.5585547","lon":"110.7836880","category":"highway","type":"bus_stop"}
+{"id":"146","stop":"Jajar","query":"Halte Jajar","osm_name":"Halte Korem","display":"Halte Korem, Jalan Brigadir Jenderal Slamet Riyadi, Desa Jajar, Kerten, Surakarta, Jawa Tengah, 57144, Indonesia","lat":"-7.5597602","lon":"110.7879492","category":"highway","type":"bus_stop"}
+{"id":"146","stop":"Jajar","query":"Halte Jajar","osm_name":"Halte Adi Sucipto Barat 2","display":"Halte Adi Sucipto Barat 2, Jalan Adi Sucipto, Desa Jajar, Kerten, Surakarta, Jawa Tengah, 57171, Indonesia","lat":"-7.5506019","lon":"110.7893857","category":"highway","type":"bus_stop"}
+{"id":"146","stop":"Jajar","query":"Halte Jajar","osm_name":"Halte Kleco","display":"Halte Kleco, Jalan Jenderal Ahmad Yani, Desa Jajar, Jajar, Surakarta, Jawa Tengah, 57144, Indonesia","lat":"-7.5574093","lon":"110.7803190","category":"highway","type":"bus_stop"}
+{"id":"146","stop":"Jajar","query":"Halte Jajar","osm_name":"Halte SMKN 4","display":"Halte SMKN 4, Jalan Adi Sucipto, Desa Jajar, Kerten, Surakarta, Jawa Tengah, 57171, Indonesia","lat":"-7.5534727","lon":"110.7983046","category":"highway","type":"bus_stop"}
+{"id":"146","stop":"Jajar","query":"Halte Jajar","osm_name":"Halte SMA Ursulin Utara","display":"Halte SMA Ursulin Utara, Jalan Adi Sucipto, Desa Jajar, Kerten, Surakarta, Jawa Tengah, 57171, Indonesia","lat":"-7.5525667","lon":"110.7958808","category":"highway","type":"bus_stop"}
+{"id":"146","stop":"Jajar","query":"Jajar","osm_name":"Jajar","display":"Jajar, Surakarta, Jawa Tengah, 57144, Indonesia","lat":"-7.5538944","lon":"110.7829413","category":"place","type":"village"}
+{"id":"146","stop":"Jajar","finished":true}
+{"id":"295","stop":"SDN Tegalsari","query":"SDN Tegalsari","osm_name":"SDN Tegalsari B","display":"SDN Tegalsari B, Jalan KH. Samanhudi, Bumi, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5684204","lon":"110.8028755","category":"highway","type":"bus_stop"}
+{"id":"295","stop":"SDN Tegalsari","query":"SDN Tegalsari","osm_name":"SDN Tegalsari A","display":"SDN Tegalsari A, Jalan KH. Samanhudi, Bumi, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5685038","lon":"110.8029514","category":"highway","type":"bus_stop"}
+{"id":"295","stop":"SDN Tegalsari","finished":true}
+{"id":"19","stop":"Gumpang","query":"Halte Gumpang","osm_name":"Halte Gumpang","display":"Halte Gumpang, Jalan Jenderal Ahmad Yani, Ngadirejo, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5604717","lon":"110.7583969","category":"highway","type":"bus_stop"}
+{"id":"19","stop":"Gumpang","query":"Gumpang","osm_name":"Gumpang","display":"Gumpang, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5637488","lon":"110.7591586","category":"place","type":"village"}
+{"id":"19","stop":"Gumpang","finished":true}
+{"id":"114","stop":"Serengan","query":"Halte Serengan","osm_name":"Halte Gemblegan Barat","display":"Halte Gemblegan Barat, Jalan Yos Sudarso, Kratonan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57115, Indonesia","lat":"-7.5818481","lon":"110.8204687","category":"highway","type":"bus_stop"}
+{"id":"114","stop":"Serengan","query":"Serengan","osm_name":"Serengan","display":"Serengan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57156, Indonesia","lat":"-7.5845898","lon":"110.8170037","category":"place","type":"village"}
+{"id":"114","stop":"Serengan","query":"Serengan","osm_name":"Kecamatan Serengan","display":"Kecamatan Serengan, Jawa Tengah, Indonesia","lat":"-7.5818646","lon":"110.8150372","category":"boundary","type":"administrative"}
+{"id":"114","stop":"Serengan","finished":true}
+{"id":"298","stop":"Penumping","query":"Halte Penumping","osm_name":"Halte Paragon Mall Timur","display":"Halte Paragon Mall Timur, Jalan Dr. Cipto Mangunkusumo, Penumping, Surakarta, Jawa Tengah, 57148, Indonesia","lat":"-7.5625126","lon":"110.8109240","category":"highway","type":"bus_stop"}
+{"id":"298","stop":"Penumping","query":"Halte Penumping","osm_name":"Halte SDN Yosodipuro","display":"Halte SDN Yosodipuro, Jalan Yosodipuro, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5630642","lon":"110.8141112","category":"highway","type":"bus_stop"}
+{"id":"298","stop":"Penumping","query":"Halte Penumping","osm_name":"Halte LBC","display":"Halte LBC, Jalan Yosodipuro, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5623064","lon":"110.8118569","category":"highway","type":"bus_stop"}
+{"id":"298","stop":"Penumping","query":"Halte Penumping","osm_name":"Halte Sriwedari 2 Utara","display":"Halte Sriwedari 2 Utara, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5685691","lon":"110.8143902","category":"highway","type":"bus_stop"}
+{"id":"298","stop":"Penumping","query":"Halte Penumping","osm_name":"Halte Sriwedari 1 Utara","display":"Halte Sriwedari 1 Utara, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5670482","lon":"110.8118392","category":"highway","type":"bus_stop"}
+{"id":"298","stop":"Penumping","query":"Halte Penumping","osm_name":"Halte Kecamatan Laweyan Selatan","display":"Halte Kecamatan Laweyan Selatan, Jalan Dokter Rajiman Widiodiningrat, Sriwedari, Surakarta, Jawa Tengah, 57149, Indonesia","lat":"-7.5715691","lon":"110.8088799","category":"highway","type":"bus_stop"}
+{"id":"298","stop":"Penumping","query":"Penumping","osm_name":"Penumping","display":"Penumping, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5689762","lon":"110.8093425","category":"place","type":"village"}
+{"id":"298","stop":"Penumping","finished":true}
+{"id":"46","stop":"Urip Sumoharjo","query":"Halte Urip Sumoharjo","osm_name":"Halte Timlo Barat","display":"Halte Timlo Barat, Jalan Jendral Urip Sumoharjo, Purwodiningratan, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5643218","lon":"110.8344694","category":"highway","type":"bus_stop"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Halte Urip Sumoharjo","osm_name":"Halte Timlo","display":"Halte Timlo, Jalan Jendral Urip Sumoharjo, Purwodiningratan, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5643989","lon":"110.8346102","category":"highway","type":"bus_stop"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Halte Urip Sumoharjo","osm_name":"Halte Jebres 2","display":"Halte Jebres 2, Jalan Jendral Urip Sumoharjo, Tegalharjo, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5617554","lon":"110.8360851","category":"highway","type":"bus_stop"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Halte Urip Sumoharjo","osm_name":"Halte Warung Pelem","display":"Halte Warung Pelem, Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5671981","lon":"110.8326329","category":"highway","type":"bus_stop"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Halte Urip Sumoharjo","osm_name":"Halte Jebres 1","display":"Halte Jebres 1, Jalan Jendral Urip Sumoharjo, Tegalharjo, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5616241","lon":"110.8363460","category":"highway","type":"bus_stop"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Halte Urip Sumoharjo","osm_name":"Halte Mesen Barat","display":"Halte Mesen Barat, Jalan Jendral Urip Sumoharjo, Tegalharjo, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5630708","lon":"110.8352701","category":"highway","type":"bus_stop"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Tegalharjo, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5625017","lon":"110.8356867","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5678523","lon":"110.8322871","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Purwodiningratan, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5652721","lon":"110.8339611","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5693831","lon":"110.8309306","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57133, Indonesia","lat":"-7.5694271","lon":"110.8306910","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","finished":true}
+{"id":"40","stop":"Nonongan","query":"Halte Nonongan","osm_name":"Halte Nonongan","display":"Halte Nonongan, Jalan Brigadir Jenderal Slamet Riyadi, Kemlayan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57151, Indonesia","lat":"-7.5710409","lon":"110.8248820","category":"highway","type":"bus_stop"}
+{"id":"40","stop":"Nonongan","query":"Nonongan","osm_name":"Nonongan","display":"Nonongan, Jalan Brigadir Jenderal Slamet Riyadi, Kemlayan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57151, Indonesia","lat":"-7.5709274","lon":"110.8243616","category":"highway","type":"traffic_signals"}
+{"id":"40","stop":"Nonongan","finished":true}
+{"worker_done":true}

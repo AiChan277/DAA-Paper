@@ -1,0 +1,60 @@
+﻿{"id":"52","stop":"SMA Muhammadiyah 3","finished":true}
+{"id":"83","stop":"Simpang Batikan","finished":true}
+{"id":"95","stop":"Tyfountex Barat","finished":true}
+{"id":"117","stop":"Simpang 3 Notosuman Timur","finished":true}
+{"id":"147","stop":"Sekolah Ursulin","finished":true}
+{"id":"165","stop":"Gawanan / SMPN 1 Colomadu","finished":true}
+{"id":"171","stop":"Puskesmas Colomadu 2","finished":true}
+{"id":"204","stop":"Simpang Notosuman Barat","finished":true}
+{"id":"215","stop":"Kimia Farma Banyuagung","finished":true}
+{"id":"223","stop":"Luwes Kestalan","query":"Luwes Kestalan","osm_name":"Luwes Kestalan","display":"Luwes Kestalan, Jalan Tarakan Gang I, Kestalan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5609958","lon":"110.8237921","category":"shop","type":"supermarket"}
+{"id":"223","stop":"Luwes Kestalan","query":"Luwes Kestalan","osm_name":"Luwes Kestalan","display":"Luwes Kestalan, Jalan Letnan Jenderal S. Parman, Kestalan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5609898","lon":"110.8240587","category":"highway","type":"bus_stop"}
+{"id":"223","stop":"Luwes Kestalan","finished":true}
+{"id":"227","stop":"Kelurahan Stabelan","query":"Halte Kelurahan Stabelan","osm_name":"Halte Kelurahan Stabelan A","display":"Halte Kelurahan Stabelan A, Jl. Kusumoyudan, Setabelan, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5624657","lon":"110.8263975","category":"highway","type":"bus_stop"}
+{"id":"227","stop":"Kelurahan Stabelan","query":"Halte Kelurahan Stabelan","osm_name":"Halte Kelurahan Stabelan B","display":"Halte Kelurahan Stabelan B, Jalan Lumban Tobing, Setabelan, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5621865","lon":"110.8267730","category":"highway","type":"bus_stop"}
+{"id":"227","stop":"Kelurahan Stabelan","query":"Kelurahan Stabelan","osm_name":"Kantor Kelurahan Stabelan","display":"Kantor Kelurahan Stabelan, Jalan Lumban Tobing, Setabelan, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5623720","lon":"110.8266254","category":"office","type":"government"}
+{"id":"227","stop":"Kelurahan Stabelan","query":"Kelurahan Stabelan","osm_name":"Halte Kelurahan Stabelan B","display":"Halte Kelurahan Stabelan B, Jalan Lumban Tobing, Setabelan, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5621865","lon":"110.8267730","category":"highway","type":"bus_stop"}
+{"id":"227","stop":"Kelurahan Stabelan","query":"Kelurahan Stabelan","osm_name":"Halte Kelurahan Stabelan A","display":"Halte Kelurahan Stabelan A, Jl. Kusumoyudan, Setabelan, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5624657","lon":"110.8263975","category":"highway","type":"bus_stop"}
+{"id":"227","stop":"Kelurahan Stabelan","finished":true}
+{"id":"231","stop":"Kejaksaan","query":"Kejaksaan","osm_name":"Kejaksaan","display":"Kejaksaan, Jalan Sutan Sjahrir, Sudiroprajan, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5660304","lon":"110.8319638","category":"highway","type":"bus_stop"}
+{"id":"231","stop":"Kejaksaan","finished":true}
+{"id":"235","stop":"BTC Selatan","query":"BTC Selatan","osm_name":"BTC Selatan","display":"BTC Selatan, Jalan Kyai Gede, Kedung Lumbu, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57113, Indonesia","lat":"-7.5743508","lon":"110.8312350","category":"highway","type":"bus_stop"}
+{"id":"235","stop":"BTC Selatan","finished":true}
+{"id":"240","stop":"Untoroloyo","query":"Halte Untoroloyo","osm_name":"Halte Untoroloyo","display":"Halte Untoroloyo, Jalan Brigadir Jenderal Katamso, Mojosongo, Surakarta, Jawa Tengah, 57127, Indonesia","lat":"-7.5507046","lon":"110.8406482","category":"highway","type":"bus_stop"}
+{"id":"240","stop":"Untoroloyo","query":"Untoroloyo","osm_name":"TPU Untoroloyo","display":"TPU Untoroloyo, Jebres, Surakarta, Jawa Tengah, Indonesia","lat":"-7.5521662","lon":"110.8433436","category":"landuse","type":"cemetery"}
+{"id":"240","stop":"Untoroloyo","query":"Untoroloyo","osm_name":"Halte Untoroloyo B","display":"Halte Untoroloyo B, Jalan Brigadir Jenderal Katamso, Mojosongo, Surakarta, Jawa Tengah, 57127, Indonesia","lat":"-7.5508710","lon":"110.8405095","category":"highway","type":"bus_stop"}
+{"id":"240","stop":"Untoroloyo","query":"Untoroloyo","osm_name":"Halte Untoroloyo","display":"Halte Untoroloyo, Jalan Brigadir Jenderal Katamso, Mojosongo, Surakarta, Jawa Tengah, 57127, Indonesia","lat":"-7.5507046","lon":"110.8406482","category":"highway","type":"bus_stop"}
+{"id":"240","stop":"Untoroloyo","finished":true}
+{"id":"250","stop":"Jayawijaya Barat","finished":true}
+{"id":"264","stop":"Simpang Trisakti","finished":true}
+{"id":"277","stop":"Kantor Kel. Jagalan","finished":true}
+{"id":"300","stop":"GOR Sritex","finished":true}
+{"id":"44","stop":"Pasar Gede","finished":true}
+{"id":"34","stop":"Sriwedari 1","query":"Halte Sriwedari","osm_name":"Halte Sriwedari 2 Utara","display":"Halte Sriwedari 2 Utara, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5685691","lon":"110.8143902","category":"highway","type":"bus_stop"}
+{"id":"34","stop":"Sriwedari 1","query":"Halte Sriwedari","osm_name":"Halte Sriwedari 1 Utara","display":"Halte Sriwedari 1 Utara, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5670482","lon":"110.8118392","category":"highway","type":"bus_stop"}
+{"id":"34","stop":"Sriwedari 1","query":"Halte Sriwedari","osm_name":"Halte Panularan","display":"Halte Panularan, Jalan Dokter Rajiman Widiodiningrat, Sriwedari, Surakarta, Jawa Tengah, 57149, Indonesia","lat":"-7.5719411","lon":"110.8129216","category":"highway","type":"bus_stop"}
+{"id":"34","stop":"Sriwedari 1","query":"Halte Sriwedari","osm_name":"Halte Kecamatan Laweyan Selatan","display":"Halte Kecamatan Laweyan Selatan, Jalan Dokter Rajiman Widiodiningrat, Sriwedari, Surakarta, Jawa Tengah, 57149, Indonesia","lat":"-7.5715691","lon":"110.8088799","category":"highway","type":"bus_stop"}
+{"id":"34","stop":"Sriwedari 1","query":"Halte Sriwedari","osm_name":"Halte Kecamatan Laweyan","display":"Halte Kecamatan Laweyan, Jalan Dokter Rajiman Widiodiningrat, Sriwedari, Surakarta, Jawa Tengah, 57149, Indonesia","lat":"-7.5714515","lon":"110.8088444","category":"highway","type":"bus_stop"}
+{"id":"34","stop":"Sriwedari 1","query":"Halte Sriwedari","osm_name":"Halte LBC","display":"Halte LBC, Jalan Yosodipuro, Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5623064","lon":"110.8118569","category":"highway","type":"bus_stop"}
+{"id":"34","stop":"Sriwedari 1","query":"Sriwedari","osm_name":"Sriwedari","display":"Sriwedari, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5699655","lon":"110.8118878","category":"place","type":"village"}
+{"id":"34","stop":"Sriwedari 1","finished":true}
+{"id":"149","stop":"TK Pembina","query":"Halte TK Pembina","osm_name":"Halte TK Pembina","display":"Halte TK Pembina, Jalan Adi Sucipto, Kerten, Surakarta, Jawa Tengah, 57142, Indonesia","lat":"-7.5545020","lon":"110.8004831","category":"highway","type":"bus_stop"}
+{"id":"149","stop":"TK Pembina","query":"TK Pembina","osm_name":"TK Pembina","display":"TK Pembina, Salak 1, Jaten, Karanganyar, Jawa Tengah, 57772, Indonesia","lat":"-7.5566853","lon":"110.8717616","category":"amenity","type":"kindergarten"}
+{"id":"149","stop":"TK Pembina","finished":true}
+{"id":"287","stop":"Jl. Parang Kusumo","query":"Parang Kusumo","osm_name":"Jalan Parang Kusumo","display":"Jalan Parang Kusumo, Sondakan, Surakarta, Jawa Tengah, 57142, Indonesia","lat":"-7.5643017","lon":"110.7977141","category":"highway","type":"residential"}
+{"id":"287","stop":"Jl. Parang Kusumo","query":"Parang Kusumo","osm_name":"Jalan Parang Kusumo","display":"Jalan Parang Kusumo, Sondakan, Surakarta, Jawa Tengah, 57146, Indonesia","lat":"-7.5636119","lon":"110.7957979","category":"highway","type":"residential"}
+{"id":"287","stop":"Jl. Parang Kusumo","query":"Parang Kusumo","osm_name":"Jalan Parang Kusumo III","display":"Jalan Parang Kusumo III, Sondakan, Surakarta, Jawa Tengah, 57142, Indonesia","lat":"-7.5646006","lon":"110.7970039","category":"highway","type":"residential"}
+{"id":"287","stop":"Jl. Parang Kusumo","query":"Parang Kusumo","osm_name":"Jalan Parang Kusumo IV","display":"Jalan Parang Kusumo IV, Sondakan, Surakarta, Jawa Tengah, 57146, Indonesia","lat":"-7.5644505","lon":"110.7966196","category":"highway","type":"living_street"}
+{"id":"287","stop":"Jl. Parang Kusumo","finished":true}
+{"id":"37","stop":"Timuran","query":"Halte Timuran","osm_name":"Halte Timuran","display":"Halte Timuran, Jalan Brigadir Jenderal Slamet Riyadi, Kemlayan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57151, Indonesia","lat":"-7.5689420","lon":"110.8179630","category":"highway","type":"bus_stop"}
+{"id":"37","stop":"Timuran","query":"Timuran","osm_name":"Timuran","display":"Timuran, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5668363","lon":"110.8177391","category":"place","type":"village"}
+{"id":"37","stop":"Timuran","finished":true}
+{"id":"172","stop":"Klodran","query":"Klodran","osm_name":"Klodran","display":"Klodran, Karanganyar, Jawa Tengah, 57172, Indonesia","lat":"-7.5352521","lon":"110.7952827","category":"place","type":"village"}
+{"id":"172","stop":"Klodran","finished":true}
+{"id":"314","stop":"Kedung Lumbu","query":"Halte Kedung Lumbu","osm_name":"Halte Warung Pelem Timur","display":"Halte Warung Pelem Timur, Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5672699","lon":"110.8327871","category":"highway","type":"bus_stop"}
+{"id":"314","stop":"Kedung Lumbu","query":"Halte Kedung Lumbu","osm_name":"Halte Warung Pelem","display":"Halte Warung Pelem, Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5671981","lon":"110.8326329","category":"highway","type":"bus_stop"}
+{"id":"314","stop":"Kedung Lumbu","query":"Kedung Lumbu","osm_name":"Kedung Lumbu","display":"Kedung Lumbu, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57113, Indonesia","lat":"-7.5749849","lon":"110.8337056","category":"place","type":"village"}
+{"id":"314","stop":"Kedung Lumbu","finished":true}
+{"id":"260","stop":"Grogolan","query":"Grogolan","osm_name":"Gang Grogolan Wetan 1","display":"Gang Grogolan Wetan 1, Ketelan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5620093","lon":"110.8200535","category":"highway","type":"residential"}
+{"id":"260","stop":"Grogolan","finished":true}
+{"worker_done":true}

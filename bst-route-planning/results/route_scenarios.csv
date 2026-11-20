@@ -1,0 +1,16 @@
+route_id,category,origin,destination,min_transfers,straight_line_km
+S1,Short,Solo Balapan,Mall Paragon,0,1.42
+S2,Short,Terminal Tirtonadi,Pasar Legi,0,1.05
+S3,Short,Pasar Gede,Pasar Klewer,0,0.82
+S4,Short,Stadion Manahan,Klodran,0,2.41
+S5,Short,Kleco,Gladag,0,5.11
+M1,Medium,Bandara Adi Soemarmo,Stadion Manahan,1,7.89
+M2,Medium,Sub Terminal Pelangi Mojosongo,Solo Balapan,1,3.83
+M3,Medium,Purwosari,Taman Lansia,1,7.10
+M4,Medium,UNS,Pasar Klewer,1,3.35
+M5,Medium,RSUD Ngipang,UNS,1,6.43
+L1,Long,Lapangan Gentan,Bandara Adi Soemarmo,2,8.75
+L2,Long,Kadipiro,Klodran,2,2.46
+L3,Long,Goa Maria,Simpang Sidan,2,9.32
+L4,Long,Tugu Adipura Jurug,Graha Saba Buana,2,6.45
+L5,Long,RSUD Ngipang,Pasar Bekonang,2,11.47

@@ -1,0 +1,1 @@
+matplotlib>=3.7   # only for figures; the algorithms use the standard library

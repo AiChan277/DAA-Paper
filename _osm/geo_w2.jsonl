@@ -1,0 +1,204 @@
+﻿{"id":"22","stop":"Transmart","query":"Transmart","osm_name":"Transmart","display":"Transmart, Jalan Proyek Bengawan Solo, Kuyudan, Pabelan, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5606192","lon":"110.7675990","category":"shop","type":"supermarket"}
+{"id":"22","stop":"Transmart","finished":true}
+{"id":"26","stop":"Mendungan","query":"Mendungan","osm_name":"Masjid Mendungan Lor","display":"Masjid Mendungan Lor, Jalan Mojo, Blulukan, Sukoharjo, Jawa Tengah, 57145, Indonesia","lat":"-7.5547385","lon":"110.7776971","category":"amenity","type":"place_of_worship"}
+{"id":"26","stop":"Mendungan","query":"Mendungan","osm_name":"Halte Mendungan","display":"Halte Mendungan, Jalan Jenderal Ahmad Yani, Kuyudan, Pabelan, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5575522","lon":"110.7779167","category":"highway","type":"bus_stop"}
+{"id":"26","stop":"Mendungan","finished":true}
+{"id":"30","stop":"Sub Terminal Kerten","query":"Sub Terminal Kerten","osm_name":"Sub Terminal Kerten","display":"Sub Terminal Kerten, Kerten, Surakarta, Jawa Tengah, 57146, Indonesia","lat":"-7.5605370","lon":"110.7898133","category":"highway","type":"service"}
+{"id":"30","stop":"Sub Terminal Kerten","query":"Sub Terminal Kerten","osm_name":"Sub Terminal Kerten","display":"Sub Terminal Kerten, Kerten, Surakarta, Jawa Tengah, 57146, Indonesia","lat":"-7.5604490","lon":"110.7896152","category":"amenity","type":"bus_station"}
+{"id":"30","stop":"Sub Terminal Kerten","finished":true}
+{"id":"34","stop":"Sriwedari 1","query":"Sriwedari 1","osm_name":"Ayam Goreng Tohjoyo Joglo","display":"Ayam Goreng Tohjoyo Joglo, 1, Jalan Menteri Supeno, Banjarsari, Surakarta, Jawa Tengah, 57139, Indonesia","lat":"-7.5557529","lon":"110.8094467","category":"amenity","type":"restaurant"}
+{"id":"34","stop":"Sriwedari 1","query":"Sriwedari 1","osm_name":"Catniphora Cafe","display":"Catniphora Cafe, 1, Jl. Rajawali 5, Purwosari, Surakarta, Jawa Tengah, 57139, Indonesia","lat":"-7.5550716","lon":"110.8084020","category":"amenity","type":"cafe"}
+{"id":"34","stop":"Sriwedari 1","query":"Sriwedari 1","osm_name":"Poseidon Internet Cafe","display":"Poseidon Internet Cafe, 1, Jl. Rajawali 5, Purwosari, Surakarta, Jawa Tengah, 57139, Indonesia","lat":"-7.5549962","lon":"110.8085878","category":"amenity","type":"internet_cafe"}
+{"id":"34","stop":"Sriwedari 1","finished":true}
+{"id":"38","stop":"Kemlayan","query":"Kemlayan","osm_name":"Kemlayan","display":"Kemlayan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57151, Indonesia","lat":"-7.5724529","lon":"110.8191624","category":"place","type":"village"}
+{"id":"38","stop":"Kemlayan","finished":true}
+{"id":"42","stop":"Benteng Vastenburg","query":"Benteng Vastenburg","osm_name":"Benteng Vastenburg","display":"Benteng Vastenburg, Jalan Panglima Besar Sudirman, Kauman, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57133, Indonesia","lat":"-7.5721220","lon":"110.8312357","category":"historic","type":"fort"}
+{"id":"42","stop":"Benteng Vastenburg","query":"Benteng Vastenburg","osm_name":"Benteng Vastenburg","display":"Benteng Vastenburg, Jalan Panglima Besar Sudirman, Kauman, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57133, Indonesia","lat":"-7.5717795","lon":"110.8297874","category":"highway","type":"bus_stop"}
+{"id":"42","stop":"Benteng Vastenburg","finished":true}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Tegalharjo, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5625017","lon":"110.8356867","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5678523","lon":"110.8322871","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Purwodiningratan, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5652721","lon":"110.8339611","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Jawa Tengah, 57133, Indonesia","lat":"-7.5693831","lon":"110.8309306","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","query":"Urip Sumoharjo","osm_name":"Jalan Jendral Urip Sumoharjo","display":"Jalan Jendral Urip Sumoharjo, Kampung Baru, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57133, Indonesia","lat":"-7.5694271","lon":"110.8306910","category":"highway","type":"primary"}
+{"id":"46","stop":"Urip Sumoharjo","finished":true}
+{"id":"50","stop":"RS Hermina","query":"Rumah Sakit Hermina","osm_name":"Rumah Sakit Hermina Surakarta","display":"Rumah Sakit Hermina Surakarta, Jalan Kolonel Sutarto, Jebres, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5602586","lon":"110.8402198","category":"amenity","type":"hospital"}
+{"id":"50","stop":"RS Hermina","finished":true}
+{"id":"54","stop":"Cembengan","query":"Cembengan","osm_name":"Tugu Cembengan","display":"Tugu Cembengan, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5578400","lon":"110.8476116","category":"highway","type":"primary"}
+{"id":"54","stop":"Cembengan","query":"Cembengan","osm_name":"Halte Cembengan Barat","display":"Halte Cembengan Barat, Jalan Insinyur Sutami, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5588056","lon":"110.8481036","category":"highway","type":"bus_stop"}
+{"id":"54","stop":"Cembengan","query":"Cembengan","osm_name":"Tugu Cembengan","display":"Tugu Cembengan, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5577384","lon":"110.8475468","category":"historic","type":"monument"}
+{"id":"54","stop":"Cembengan","query":"Cembengan","osm_name":"Halte Cembengan","display":"Halte Cembengan, Jalan Insinyur Sutami, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5585815","lon":"110.8481173","category":"highway","type":"bus_stop"}
+{"id":"54","stop":"Cembengan","query":"Cembengan","osm_name":"Tugu Cembengan","display":"Tugu Cembengan, Jalan Kolonel Sutarto, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5580766","lon":"110.8463926","category":"highway","type":"bus_stop"}
+{"id":"54","stop":"Cembengan","finished":true}
+{"id":"58","stop":"TMP","query":"TMP","osm_name":"Halte TMP","display":"Halte TMP, Jalan Insinyur Sutami, Pucangsawit, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5649400","lon":"110.8568032","category":"highway","type":"bus_stop"}
+{"id":"58","stop":"TMP","finished":true}
+{"id":"62","stop":"Palur","query":"Palur","osm_name":"Palur","display":"Palur, Jalan Raya Solo - Ngawi, Jaten, Karanganyar, Jawa Tengah, 57772, Indonesia","lat":"-7.5681155","lon":"110.8752865","category":"railway","type":"station"}
+{"id":"62","stop":"Palur","query":"Palur","osm_name":"Palur","display":"Palur, Sukoharjo, Jawa Tengah, 57554, Indonesia","lat":"-7.5772563","lon":"110.8739537","category":"place","type":"village"}
+{"id":"62","stop":"Palur","finished":true}
+{"id":"66","stop":"Margoyudan","query":"Margoyudan","osm_name":"GKJ Margoyudan","display":"GKJ Margoyudan, Jalan Monginsidi, Tegalharjo, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5582914","lon":"110.8295431","category":"amenity","type":"place_of_worship"}
+{"id":"66","stop":"Margoyudan","finished":true}
+{"id":"70","stop":"Solo Balapan","query":"Solo Balapan","osm_name":"Solo Balapan","display":"Solo Balapan, JPO Tirtonadi - Balapan, Kestalan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5566323","lon":"110.8214870","category":"railway","type":"station"}
+{"id":"70","stop":"Solo Balapan","query":"Solo Balapan","osm_name":"Solo Balapan","display":"Solo Balapan, JPO Tirtonadi - Balapan, Gudang Semen SIG, Kestalan, Surakarta, Jawa Tengah, 57135, Indonesia","lat":"-7.5560678","lon":"110.8224337","category":"railway","type":"stop"}
+{"id":"70","stop":"Solo Balapan","query":"Solo Balapan","osm_name":"Solo Balapan","display":"Solo Balapan, Jalan Mayang, Kestalan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5571570","lon":"110.8199548","category":"railway","type":"stop"}
+{"id":"70","stop":"Solo Balapan","query":"Solo Balapan","osm_name":"Solo Balapan","display":"Solo Balapan, JPO Tirtonadi - Balapan, Kestalan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5565796","lon":"110.8205967","category":"railway","type":"stop"}
+{"id":"70","stop":"Solo Balapan","finished":true}
+{"id":"74","stop":"RS PKU Surakarta","query":"Rumah Sakit PKU Surakarta","osm_name":"Rumah Sakit PKU Muhammadiyah","display":"Rumah Sakit PKU Muhammadiyah, Gang Cempaka 11, Semanggi, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57118, Indonesia","lat":"-7.5816944","lon":"110.8364320","category":"amenity","type":"hospital"}
+{"id":"74","stop":"RS PKU Surakarta","finished":true}
+{"id":"78","stop":"Kota Barat","query":"Kota Barat","osm_name":"Lapangan Kota Barat","display":"Lapangan Kota Barat, Fly Over Manahan, Purwosari, Surakarta, Jawa Tengah, 57139, Indonesia","lat":"-7.5615521","lon":"110.8075680","category":"leisure","type":"pitch"}
+{"id":"78","stop":"Kota Barat","query":"Kota Barat","osm_name":"Masjid Kota Barat","display":"Masjid Kota Barat, Jalan Kenanga, Purwosari, Surakarta, Jawa Tengah, 57142, Indonesia","lat":"-7.5620253","lon":"110.8065489","category":"amenity","type":"place_of_worship"}
+{"id":"78","stop":"Kota Barat","query":"Kota Barat","osm_name":"Halte Kota Barat","display":"Halte Kota Barat, Jalan Dokter Muwardi, Purwosari, Surakarta, Jawa Tengah, 57148, Indonesia","lat":"-7.5617858","lon":"110.8070652","category":"highway","type":"bus_stop"}
+{"id":"78","stop":"Kota Barat","query":"Kota Barat","osm_name":"Kota Barat/Aswata","display":"Kota Barat/Aswata, Jalan Dokter Muwardi, Purwosari, Surakarta, Jawa Tengah, 57148, Indonesia","lat":"-7.5613980","lon":"110.8069728","category":"highway","type":"bus_stop"}
+{"id":"78","stop":"Kota Barat","query":"Kota Barat","osm_name":"SMA Muhammadiyah PK Kota Barat","display":"SMA Muhammadiyah PK Kota Barat, Jalan Pleret Raya, Surakarta, Karanganyar, Jawa Tengah, 57138, Indonesia","lat":"-7.5428525","lon":"110.8006077","category":"amenity","type":"school"}
+{"id":"78","stop":"Kota Barat","query":"Kota Barat","osm_name":"Taman PKT Barat","display":"Taman PKT Barat, Kestalan, Surakarta, Jawa Tengah, Indonesia","lat":"-7.5508901","lon":"110.8188892","category":"leisure","type":"park"}
+{"id":"78","stop":"Kota Barat","finished":true}
+{"id":"82","stop":"Djamaatul Ichwan","finished":true}
+{"id":"86","stop":"Tugu Kartasura","query":"Tugu Kartasura","osm_name":"Tugu Kartasura","display":"Tugu Kartasura, 17, Kalitan, Kartasura, Sukoharjo, Jawa Tengah, 57165, Indonesia","lat":"-7.5503964","lon":"110.7367644","category":"historic","type":"monument"}
+{"id":"86","stop":"Tugu Kartasura","finished":true}
+{"id":"90","stop":"Gapura Keraton Kartasura","finished":true}
+{"id":"94","stop":"Pasar Gumpang","query":"Pasar Gumpang","osm_name":"Halte Pasar Gumpang","display":"Halte Pasar Gumpang, Jalan Slamet Riyadi, Kuyudan, Gumpang, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5620919","lon":"110.7580230","category":"highway","type":"bus_stop"}
+{"id":"94","stop":"Pasar Gumpang","finished":true}
+{"id":"98","stop":"Windan","query":"Windan","osm_name":"Halte Masjid Windan","display":"Halte Masjid Windan, Jalan Slamet Riyadi, Kuyudan, Gumpang, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5659531","lon":"110.7718058","category":"highway","type":"bus_stop"}
+{"id":"98","stop":"Windan","query":"Windan","osm_name":"Musholla An-Nur Windan","display":"Musholla An-Nur Windan, Jalan Proyek Bengawan Solo, Kuyudan, Pabelan, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5634550","lon":"110.7693831","category":"amenity","type":"place_of_worship"}
+{"id":"98","stop":"Windan","finished":true}
+{"id":"102","stop":"Pasar Jongke","query":"Pasar Jongke","osm_name":"Pasar Jongke","display":"Pasar Jongke, Jalan Dokter Rajiman Widiodiningrat, Pajang, Surakarta, Jawa Tengah, 57146, Indonesia","lat":"-7.5677154","lon":"110.7894225","category":"amenity","type":"marketplace"}
+{"id":"102","stop":"Pasar Jongke","finished":true}
+{"id":"106","stop":"Sabar Motor","query":"Sabar Motor","osm_name":"Halte Sabar Motor Selatan","display":"Halte Sabar Motor Selatan, Jalan Dokter Rajiman Widiodiningrat, Bumi, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5712661","lon":"110.8035283","category":"highway","type":"bus_stop"}
+{"id":"106","stop":"Sabar Motor","query":"Sabar Motor","osm_name":"Halte Sabar Motor","display":"Halte Sabar Motor, Jalan Dokter Rajiman Widiodiningrat, Bumi, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5712209","lon":"110.8041120","category":"highway","type":"bus_stop"}
+{"id":"106","stop":"Sabar Motor","finished":true}
+{"id":"110","stop":"BLK Surakarta","query":"BLK Surakarta","osm_name":"Halte BLK Timur","display":"Halte BLK Timur, Jalan Bhayangkara, Tipes, Surakarta, Kecamatan Serengan, Jawa Tengah, 57149, Indonesia","lat":"-7.5728918","lon":"110.8100395","category":"highway","type":"bus_stop"}
+{"id":"110","stop":"BLK Surakarta","finished":true}
+{"id":"114","stop":"Serengan","query":"Serengan","osm_name":"Serengan","display":"Serengan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57156, Indonesia","lat":"-7.5845898","lon":"110.8170037","category":"place","type":"village"}
+{"id":"114","stop":"Serengan","query":"Serengan","osm_name":"Kecamatan Serengan","display":"Kecamatan Serengan, Jawa Tengah, Indonesia","lat":"-7.5818646","lon":"110.8150372","category":"boundary","type":"administrative"}
+{"id":"114","stop":"Serengan","finished":true}
+{"id":"118","stop":"Simpang Kalilarangan","finished":true}
+{"id":"122","stop":"Kecamatan Jebres","query":"Kecamatan Jebres","osm_name":"Taman Cerdas Kecamatan Jebres","display":"Taman Cerdas Kecamatan Jebres, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5538440","lon":"110.8533915","category":"leisure","type":"park"}
+{"id":"122","stop":"Kecamatan Jebres","query":"Kecamatan Jebres","osm_name":"Kantor Kecamatan Jebres","display":"Kantor Kecamatan Jebres, Jalan Ki Hadjar Dewantara, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5550567","lon":"110.8551400","category":"amenity","type":"townhall"}
+{"id":"122","stop":"Kecamatan Jebres","query":"Kecamatan Jebres","osm_name":"Halte Kecamatan Jebres Timur","display":"Halte Kecamatan Jebres Timur, Jalan Ki Hadjar Dewantara, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5554106","lon":"110.8549598","category":"highway","type":"bus_stop"}
+{"id":"122","stop":"Kecamatan Jebres","query":"Kecamatan Jebres","osm_name":"Halte Kecamatan Jebres Barat","display":"Halte Kecamatan Jebres Barat, Jalan Ki Hadjar Dewantara, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5555159","lon":"110.8550135","category":"highway","type":"bus_stop"}
+{"id":"122","stop":"Kecamatan Jebres","finished":true}
+{"id":"126","stop":"Alun-Alun Utara","query":"Alun-Alun Utara","osm_name":"Alun-alun utara","display":"Alun-alun utara, Kauman, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, Indonesia","lat":"-7.5747341","lon":"110.8287812","category":"leisure","type":"park"}
+{"id":"126","stop":"Alun-Alun Utara","finished":true}
+{"id":"130","stop":"Masjid Fatimah","query":"Masjid Fatimah","osm_name":"Masjid Fatimah","display":"Masjid Fatimah, Jalan Dokter Rajiman Widiodiningrat, Kemlayan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57151, Indonesia","lat":"-7.5737027","lon":"110.8193549","category":"amenity","type":"place_of_worship"}
+{"id":"130","stop":"Masjid Fatimah","finished":true}
+{"id":"134","stop":"Koramil Colomadu","query":"Koramil Colomadu","osm_name":"KORAMIL Colomadu","display":"KORAMIL Colomadu, Jalan Semangka, Krobyongan, Colomadu, Karanganyar, Jawa Tengah, 57173, Indonesia","lat":"-7.5351373","lon":"110.7549923","category":"amenity","type":"police"}
+{"id":"134","stop":"Koramil Colomadu","finished":true}
+{"id":"138","stop":"ATMI","query":"ATMI","osm_name":"Kampus ATMI","display":"Kampus ATMI, Jalan Matoa II, Karangasem, Surakarta, Jawa Tengah, 57145, Indonesia","lat":"-7.5525589","lon":"110.7751718","category":"amenity","type":"university"}
+{"id":"138","stop":"ATMI","query":"ATMI","osm_name":"PT.ATMI ENGENEERING","display":"PT.ATMI ENGENEERING, Jalan Mojo, Blulukan, Sukoharjo, Jawa Tengah, 57145, Indonesia","lat":"-7.5532675","lon":"110.7743118","category":"building","type":"yes"}
+{"id":"138","stop":"ATMI","query":"ATMI","osm_name":"Halte ATMI Selatan","display":"Halte ATMI Selatan, Jalan Adi Sucipto, Krobyongan, Colomadu, Karanganyar, Jawa Tengah, 57173, Indonesia","lat":"-7.5414777","lon":"110.7661163","category":"highway","type":"bus_stop"}
+{"id":"138","stop":"ATMI","query":"ATMI","osm_name":"Halte ATMI","display":"Halte ATMI, Jalan Adi Sucipto, Krobyongan, Colomadu, Karanganyar, Jawa Tengah, 57173, Indonesia","lat":"-7.5413749","lon":"110.7661549","category":"highway","type":"bus_stop"}
+{"id":"138","stop":"ATMI","query":"ATMI","osm_name":"ATMI Surakarta","display":"ATMI Surakarta, Jalan Adi Sucipto, Krobyongan, Colomadu, Karanganyar, Jawa Tengah, 57173, Indonesia","lat":"-7.5413312","lon":"110.7664107","category":"amenity","type":"college"}
+{"id":"138","stop":"ATMI","finished":true}
+{"id":"142","stop":"Solo Pos","query":"Solo Pos","osm_name":"Solo Pos","display":"Solo Pos, Jalan Adi Sucipto, Desa Jajar, Karangasem, Surakarta, Jawa Tengah, 57144, Indonesia","lat":"-7.5466420","lon":"110.7792658","category":"office","type":"newspaper"}
+{"id":"142","stop":"Solo Pos","finished":true}
+{"id":"146","stop":"Jajar","query":"Jajar","osm_name":"Jajar","display":"Jajar, Surakarta, Jawa Tengah, 57144, Indonesia","lat":"-7.5538944","lon":"110.7829413","category":"place","type":"village"}
+{"id":"146","stop":"Jajar","finished":true}
+{"id":"150","stop":"RS Bhayangkara","query":"Rumah Sakit Bhayangkara","osm_name":"Rumah Sakit Bhayangkara","display":"Rumah Sakit Bhayangkara, Jalan Adi Sucipto, Kerten, Surakarta, Jawa Tengah, 57142, Indonesia","lat":"-7.5543797","lon":"110.8018854","category":"amenity","type":"hospital"}
+{"id":"150","stop":"RS Bhayangkara","finished":true}
+{"id":"154","stop":"PLN Manahan","query":"PLN Manahan","osm_name":"Halte PLN Manahan","display":"Halte PLN Manahan, Jalan Mayor Jenderal MT. Haryono, Punggawan, Surakarta, Jawa Tengah, 57139, Indonesia","lat":"-7.5550179","lon":"110.8117325","category":"highway","type":"bus_stop"}
+{"id":"154","stop":"PLN Manahan","finished":true}
+{"id":"158","stop":"Simpang 3 Gilingan","finished":true}
+{"id":"162","stop":"Pasar Buah Jurug","query":"Pasar Buah Jurug","osm_name":"Halte Pasar Buah Jurug Timur","display":"Halte Pasar Buah Jurug Timur, Jalan Ki Hadjar Dewantara, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5624182","lon":"110.8590379","category":"highway","type":"bus_stop"}
+{"id":"162","stop":"Pasar Buah Jurug","query":"Pasar Buah Jurug","osm_name":"Halte Pasar Buah Jurug Barat","display":"Halte Pasar Buah Jurug Barat, Jalan Ki Hadjar Dewantara, Jebres, Surakarta, Jawa Tengah, 57126, Indonesia","lat":"-7.5624840","lon":"110.8588203","category":"highway","type":"bus_stop"}
+{"id":"162","stop":"Pasar Buah Jurug","finished":true}
+{"id":"166","stop":"SMK Penerbangan Adi Soemarmo","finished":true}
+{"id":"170","stop":"Gedongan","query":"Gedongan","osm_name":"Gedongan","display":"Gedongan, Karanganyar, Jawa Tengah, 57173, Indonesia","lat":"-7.5298371","lon":"110.7772414","category":"place","type":"village"}
+{"id":"170","stop":"Gedongan","query":"Gedongan","osm_name":"Gedongan","display":"Gedongan, Sukoharjo, Jawa Tengah, 57556, Indonesia","lat":"-7.6238092","lon":"110.7690046","category":"place","type":"village"}
+{"id":"170","stop":"Gedongan","finished":true}
+{"id":"174","stop":"SMPN 23 Surakarta","query":"SMPN 23 Surakarta","osm_name":"SMPN 23 Surakarta","display":"SMPN 23 Surakarta, Jalan Galuh 1, Banjarsari, Surakarta, Jawa Tengah, 57138, Indonesia","lat":"-7.5389404","lon":"110.8071913","category":"amenity","type":"school"}
+{"id":"174","stop":"SMPN 23 Surakarta","finished":true}
+{"id":"178","stop":"Gemblegan","query":"Gemblegan","osm_name":"Ps. Gemblegan","display":"Ps. Gemblegan, Jalan Bremoro 2, Danukusuman, Surakarta, Kecamatan Serengan, Jawa Tengah, 57115, Indonesia","lat":"-7.5841669","lon":"110.8204179","category":"amenity","type":"marketplace"}
+{"id":"178","stop":"Gemblegan","query":"Gemblegan","osm_name":"Simpang Gemblegan","display":"Simpang Gemblegan, Jalan Veteran, Kratonan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57115, Indonesia","lat":"-7.5820764","lon":"110.8204874","category":"junction","type":"yes"}
+{"id":"178","stop":"Gemblegan","query":"Gemblegan","osm_name":"Halte Gemblegan Timur","display":"Halte Gemblegan Timur, Jalan Veteran, Gajahan, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57115, Indonesia","lat":"-7.5821739","lon":"110.8209313","category":"highway","type":"bus_stop"}
+{"id":"178","stop":"Gemblegan","query":"Gemblegan","osm_name":"Halte Gemblegan Barat","display":"Halte Gemblegan Barat, Jalan Yos Sudarso, Kratonan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57115, Indonesia","lat":"-7.5818481","lon":"110.8204687","category":"highway","type":"bus_stop"}
+{"id":"178","stop":"Gemblegan","query":"Gemblegan","osm_name":"Halte Sampurna Gemblegan","display":"Halte Sampurna Gemblegan, Jalan Veteran, Kratonan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57115, Indonesia","lat":"-7.5819844","lon":"110.8197368","category":"highway","type":"bus_stop"}
+{"id":"178","stop":"Gemblegan","query":"Gemblegan","osm_name":"Pasar Harjodaksino Surakarta","display":"Pasar Harjodaksino Surakarta, Jalan Yos Sudarso, Danukusuman, Surakarta, Kecamatan Serengan, Jawa Tengah, 57156, Indonesia","lat":"-7.5840838","lon":"110.8203342","category":"amenity","type":"marketplace"}
+{"id":"178","stop":"Gemblegan","finished":true}
+{"id":"182","stop":"Simpang Baturono","query":"Simpang Baturono","osm_name":"Simpang Empat Baturono","display":"Simpang Empat Baturono, Jalan Kapten Mulyadi, Pasar Kliwon, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57118, Indonesia","lat":"-7.5846446","lon":"110.8292589","category":"highway","type":"traffic_signals"}
+{"id":"182","stop":"Simpang Baturono","finished":true}
+{"id":"186","stop":"SMA MTA","query":"SMA MTA","osm_name":"ASRAMA PUTRI 1 SMA MTA SURAKARTA","display":"ASRAMA PUTRI 1 SMA MTA SURAKARTA, Gang Comal 2, Semanggi, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57116, Indonesia","lat":"-7.5862227","lon":"110.8365623","category":"amenity","type":"school"}
+{"id":"186","stop":"SMA MTA","query":"SMA MTA","osm_name":"SMA MTA Surakarta","display":"SMA MTA Surakarta, Jalan Kyai Maja, Pasar Kliwon, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57116, Indonesia","lat":"-7.5873449","lon":"110.8362116","category":"highway","type":"bus_stop"}
+{"id":"186","stop":"SMA MTA","query":"SMA MTA","osm_name":"Asrama Putera SMA MTA Surakarta","display":"Asrama Putera SMA MTA Surakarta, Jalan Kyai Mojo, Semanggi, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57141, Indonesia","lat":"-7.5871848","lon":"110.8392722","category":"amenity","type":"school"}
+{"id":"186","stop":"SMA MTA","query":"SMA MTA","osm_name":"SMA MTA Surakarta","display":"SMA MTA Surakarta, Gang Comal 2, Semanggi, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57116, Indonesia","lat":"-7.5867103","lon":"110.8363838","category":"amenity","type":"school"}
+{"id":"186","stop":"SMA MTA","query":"SMA MTA","osm_name":"Asrama Putri SMA MTA Surakarta","display":"Asrama Putri SMA MTA Surakarta, Gang Comal 2, Semanggi, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57116, Indonesia","lat":"-7.5861316","lon":"110.8365589","category":"amenity","type":"school"}
+{"id":"186","stop":"SMA MTA","query":"SMA MTA","osm_name":"Asrama Putri 03 SMA MTA Surakarta","display":"Asrama Putri 03 SMA MTA Surakarta, Gang Cempaka 5, Semanggi, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57118, Indonesia","lat":"-7.5841208","lon":"110.8354401","category":"amenity","type":"school"}
+{"id":"186","stop":"SMA MTA","finished":true}
+{"id":"190","stop":"Graha Safira","query":"Graha Safira","osm_name":"Graha Safira","display":"Graha Safira, Plumbon, Sukoharjo, Jawa Tengah, 57141, Indonesia","lat":"-7.5965649","lon":"110.8508798","category":"highway","type":"residential"}
+{"id":"190","stop":"Graha Safira","query":"Graha Safira","osm_name":"Graha Safira","display":"Graha Safira, Jalan Solo - Bekonang, Ngemplak, Plumbon, Sukoharjo, Jawa Tengah, 57141, Indonesia","lat":"-7.5956063","lon":"110.8510498","category":"highway","type":"bus_stop"}
+{"id":"190","stop":"Graha Safira","finished":true}
+{"id":"194","stop":"Kel. Wirun","finished":true}
+{"id":"198","stop":"Pasar Bekonang","query":"Pasar Bekonang","osm_name":"Pasar Bekonang","display":"Pasar Bekonang, Jalan Pramuka, Wirun, Sukoharjo, Jawa Tengah, 57554, Indonesia","lat":"-7.6087585","lon":"110.8741508","category":"amenity","type":"marketplace"}
+{"id":"198","stop":"Pasar Bekonang","query":"Pasar Bekonang","osm_name":"Pasar Bekonang","display":"Pasar Bekonang, Jalan Pramuka, Wirun, Sukoharjo, Jawa Tengah, 57554, Indonesia","lat":"-7.6096307","lon":"110.8739539","category":"highway","type":"bus_stop"}
+{"id":"198","stop":"Pasar Bekonang","finished":true}
+{"id":"202","stop":"Simpang Sidan","query":"Simpang Sidan","osm_name":"Simpang Sidan","display":"Simpang Sidan, Jalan Keleng Karanganyar, Klumprit, Sukoharjo, Jawa Tengah, 57554, Indonesia","lat":"-7.6136517","lon":"110.8917145","category":"highway","type":"bus_stop"}
+{"id":"202","stop":"Simpang Sidan","finished":true}
+{"id":"206","stop":"Gatot Subroto Ngarsopuro","finished":true}
+{"id":"210","stop":"Puskesmas Krembyongan","query":"Puskesmas Krembyongan","osm_name":"Puskesmas Krembyongan","display":"Puskesmas Krembyongan, Jalan Tulang Bawang Utara, Kadipiro, Surakarta, Jawa Tengah, 57136, Indonesia","lat":"-7.5326993","lon":"110.8129114","category":"highway","type":"bus_stop"}
+{"id":"210","stop":"Puskesmas Krembyongan","finished":true}
+{"id":"214","stop":"SDN 3 Banyuagung","finished":true}
+{"id":"218","stop":"Jembatan Tirtonadi","query":"Jembatan Tirtonadi","osm_name":"Jembatan Tirtonadi Utara","display":"Jembatan Tirtonadi Utara, Jalan Kapten Pierre Tendean, Gilingan, Surakarta, Jawa Tengah, 57135, Indonesia","lat":"-7.5509667","lon":"110.8220146","category":"highway","type":"bus_stop"}
+{"id":"218","stop":"Jembatan Tirtonadi","query":"Jembatan Tirtonadi","osm_name":"Jembatan Terminal Tirtonadi","display":"Jembatan Terminal Tirtonadi, Jalan Kapten Pierre Tendean, Gilingan, Surakarta, Jawa Tengah, 57135, Indonesia","lat":"-7.5508219","lon":"110.8217392","category":"highway","type":"bus_stop"}
+{"id":"218","stop":"Jembatan Tirtonadi","finished":true}
+{"id":"222","stop":"Jl. Sabang","query":"Jalan Sabang","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"222","stop":"Jl. Sabang","query":"Halte Jl. Sabang","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"222","stop":"Jl. Sabang","query":"Jl. Sabang","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"222","stop":"Jl. Sabang","finished":true}
+{"id":"226","stop":"SMP Widya Wacana","query":"SMP Widya Wacana","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"226","stop":"SMP Widya Wacana","query":"Halte SMP Widya Wacana","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"226","stop":"SMP Widya Wacana","finished":true}
+{"id":"230","stop":"Pegadaian","query":"Pegadaian","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"230","stop":"Pegadaian","query":"Halte Pegadaian","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"230","stop":"Pegadaian","finished":true}
+{"id":"234","stop":"Solo Kota","query":"Solo Kota","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"234","stop":"Solo Kota","query":"Halte Solo Kota","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"234","stop":"Solo Kota","finished":true}
+{"id":"238","stop":"Kelurahan Mojosongo","query":"Kelurahan Mojosongo","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"238","stop":"Kelurahan Mojosongo","query":"Halte Kelurahan Mojosongo","error":"The remote name could not be resolved: \u0027nominatim.openstreetmap.org\u0027"}
+{"id":"238","stop":"Kelurahan Mojosongo","finished":true}
+{"id":"242","stop":"Pasar Mojosongo","query":"Pasar Mojosongo","osm_name":"Pasar Mojosongo","display":"Pasar Mojosongo, Jalan Brigadir Jenderal Katamso, Mojosongo, Surakarta, Jawa Tengah, 57127, Indonesia","lat":"-7.5531208","lon":"110.8389455","category":"shop","type":"supermarket"}
+{"id":"242","stop":"Pasar Mojosongo","finished":true}
+{"id":"246","stop":"SMK Kristen 2","query":"Halte SMK Kristen 2","osm_name":"Halte SMK Kristen 2","display":"Halte SMK Kristen 2, Jalan DI Panjaitan, Setabelan, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5608944","lon":"110.8283203","category":"highway","type":"bus_stop"}
+{"id":"246","stop":"SMK Kristen 2","finished":true}
+{"id":"250","stop":"Jayawijaya Barat","finished":true}
+{"id":"254","stop":"USB Poltekkes","query":"USB Poltekkes","osm_name":"USB Poltekkes A","display":"USB Poltekkes A, Jalan Letnan Jenderal Sutoyo, Gilingan, Surakarta, Jawa Tengah, 57135, Indonesia","lat":"-7.5447142","lon":"110.8344083","category":"highway","type":"bus_stop"}
+{"id":"254","stop":"USB Poltekkes","query":"USB Poltekkes","osm_name":"USB Poltekkes B","display":"USB Poltekkes B, Jalan Letnan Jenderal Sutoyo, Gilingan, Surakarta, Jawa Tengah, 57135, Indonesia","lat":"-7.5449016","lon":"110.8341746","category":"highway","type":"bus_stop"}
+{"id":"254","stop":"USB Poltekkes","finished":true}
+{"id":"258","stop":"Pasar Ngemplak","query":"Pasar Ngemplak","osm_name":"Pasar Ngemplak","display":"Pasar Ngemplak, Jalan Jenderal Achmad Yani, Gilingan, Surakarta, Jawa Tengah, 57134, Indonesia","lat":"-7.5542957","lon":"110.8296779","category":"amenity","type":"marketplace"}
+{"id":"258","stop":"Pasar Ngemplak","finished":true}
+{"id":"262","stop":"SMA Muhammadiyah 1","query":"SMA Muhammadiyah 1","osm_name":"SMA Muhammadiyah 1","display":"SMA Muhammadiyah 1, Jalan R.M. Said, Ketelan, Surakarta, Jawa Tengah, 57132, Indonesia","lat":"-7.5640819","lon":"110.8215463","category":"highway","type":"bus_stop"}
+{"id":"262","stop":"SMA Muhammadiyah 1","finished":true}
+{"id":"266","stop":"Mangkunegaran","query":"Mangkunegaran","osm_name":"Mangkunegaran","display":"Mangkunegaran, Keprabon, Surakarta, Jawa Tengah, 57131, Indonesia","lat":"-7.5665397","lon":"110.8228023","category":"landuse","type":"residential"}
+{"id":"266","stop":"Mangkunegaran","query":"Mangkunegaran","osm_name":"Mangkunegaran","display":"Mangkunegaran, Jalan Ronggowarsito, Timuran, Surakarta, Jawa Tengah, 57131, Indonesia","lat":"-7.5678777","lon":"110.8221083","category":"highway","type":"bus_stop"}
+{"id":"266","stop":"Mangkunegaran","query":"Mangkunegaran","osm_name":"Museum Pura Mangkunegaran","display":"Museum Pura Mangkunegaran, Jalan Letnan Jenderal S. Parman, Ketelan, Surakarta, Jawa Tengah, 57131, Indonesia","lat":"-7.5660015","lon":"110.8230954","category":"tourism","type":"museum"}
+{"id":"266","stop":"Mangkunegaran","finished":true}
+{"id":"270","stop":"Boing Tenis Center","query":"Boing Tenis Center","osm_name":"Halte Boing Tenis Center Utara","display":"Halte Boing Tenis Center Utara, Jalan Insinyur Haji Juanda Kartawijaya, Pucangsawit, Surakarta, Jawa Tengah, 57125, Indonesia","lat":"-7.5686996","lon":"110.8550059","category":"highway","type":"bus_stop"}
+{"id":"270","stop":"Boing Tenis Center","query":"Boing Tenis Center","osm_name":"Halte Boing Tenis Center Selatan","display":"Halte Boing Tenis Center Selatan, Jalan Insinyur Haji Juanda Kartawijaya, Pucangsawit, Surakarta, Jawa Tengah, 57125, Indonesia","lat":"-7.5688399","lon":"110.8550643","category":"highway","type":"bus_stop"}
+{"id":"270","stop":"Boing Tenis Center","finished":true}
+{"id":"274","stop":"Jonasan","query":"Jonasan","osm_name":"Halte Alfamart Jonasan Selatan","display":"Halte Alfamart Jonasan Selatan, Jalan Insinyur Haji Juanda Kartawijaya, Pucangsawit, Surakarta, Jawa Tengah, 57125, Indonesia","lat":"-7.5703796","lon":"110.8477449","category":"highway","type":"bus_stop"}
+{"id":"274","stop":"Jonasan","query":"Jonasan","osm_name":"Halte Alfamart Jonasan Utara","display":"Halte Alfamart Jonasan Utara, Jalan Insinyur Haji Juanda Kartawijaya, Pucangsawit, Surakarta, Jawa Tengah, 57125, Indonesia","lat":"-7.5702839","lon":"110.8476047","category":"highway","type":"bus_stop"}
+{"id":"274","stop":"Jonasan","query":"Jonasan","osm_name":"Halte Tambal Ban Jonasan Barat","display":"Halte Tambal Ban Jonasan Barat, Jalan HOS Cokroaminoto, Jagalan, Surakarta, Jawa Tengah, 57125, Indonesia","lat":"-7.5696794","lon":"110.8465944","category":"highway","type":"bus_stop"}
+{"id":"274","stop":"Jonasan","query":"Jonasan","osm_name":"Halte Tambal Ban Jonasan Timur","display":"Halte Tambal Ban Jonasan Timur, Jalan HOS Cokroaminoto, Jagalan, Surakarta, Jawa Tengah, 57125, Indonesia","lat":"-7.5697318","lon":"110.8466920","category":"highway","type":"bus_stop"}
+{"id":"274","stop":"Jonasan","finished":true}
+{"id":"278","stop":"Simpang 3 Wonosaren","finished":true}
+{"id":"282","stop":"Purwodiningratan","query":"Purwodiningratan","osm_name":"Purwodiningratan","display":"Purwodiningratan, Surakarta, Jawa Tengah, 57121, Indonesia","lat":"-7.5646577","lon":"110.8384950","category":"place","type":"village"}
+{"id":"282","stop":"Purwodiningratan","finished":true}
+{"id":"286","stop":"Luwes Gentan","query":"Luwes Gentan","osm_name":"Luwes","display":"Luwes, Jalan Jetis Raya, Gentan, Sukoharjo, Jawa Tengah, 57147, Indonesia","lat":"-7.5775936","lon":"110.7833098","category":"shop","type":"supermarket"}
+{"id":"286","stop":"Luwes Gentan","query":"Luwes Gentan","osm_name":"Luwes Gentan A","display":"Luwes Gentan A, Jalan Pajang - Baki, Gentan, Sukoharjo, Jawa Tengah, 57147, Indonesia","lat":"-7.5775890","lon":"110.7828159","category":"highway","type":"bus_stop"}
+{"id":"286","stop":"Luwes Gentan","query":"Luwes Gentan","osm_name":"Luwes Gentan B","display":"Luwes Gentan B, Jalan Pajang - Baki, Gentan, Sukoharjo, Jawa Tengah, 57147, Indonesia","lat":"-7.5776347","lon":"110.7826726","category":"highway","type":"bus_stop"}
+{"id":"286","stop":"Luwes Gentan","finished":true}
+{"id":"290","stop":"Pos Pajang","query":"Pos Pajang","osm_name":"POS A","display":"POS A, Jalan Joko Tingkir, Pajang, Surakarta, Jawa Tengah, 57147, Indonesia","lat":"-7.5684257","lon":"110.7836144","category":"highway","type":"bus_stop"}
+{"id":"290","stop":"Pos Pajang","query":"Pos Pajang","osm_name":"POS B","display":"POS B, Jalan Joko Tingkir, Pajang, Surakarta, Jawa Tengah, 57147, Indonesia","lat":"-7.5683081","lon":"110.7837835","category":"highway","type":"bus_stop"}
+{"id":"290","stop":"Pos Pajang","finished":true}
+{"id":"294","stop":"Al-Muayyad","query":"Al-Muayyad","osm_name":"Al Muayyad B","display":"Al Muayyad B, Jalan KH. Samanhudi, Bumi, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5675366","lon":"110.8007168","category":"highway","type":"bus_stop"}
+{"id":"294","stop":"Al-Muayyad","query":"Al-Muayyad","osm_name":"Al Muayyad A","display":"Al Muayyad A, Jalan KH. Samanhudi, Bumi, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5676323","lon":"110.8008388","category":"highway","type":"bus_stop"}
+{"id":"294","stop":"Al-Muayyad","query":"Al-Muayyad","osm_name":"PONPES Al-Muayyad","display":"PONPES Al-Muayyad, Jalan Slamet Riyadi, Kuyudan, Gumpang, Sukoharjo, Jawa Tengah, 57162, Indonesia","lat":"-7.5644182","lon":"110.7706322","category":"amenity","type":"school"}
+{"id":"294","stop":"Al-Muayyad","finished":true}
+{"id":"298","stop":"Penumping","query":"Penumping","osm_name":"Penumping","display":"Penumping, Surakarta, Jawa Tengah, 57143, Indonesia","lat":"-7.5689762","lon":"110.8093425","category":"place","type":"village"}
+{"id":"298","stop":"Penumping","finished":true}
+{"id":"302","stop":"SMA Al Islam 1","finished":true}
+{"id":"306","stop":"SMPN 19 Surakarta","query":"SMPN 19 Surakarta","osm_name":"SMPN 19 Surakarta A","display":"SMPN 19 Surakarta A, Jalan Nakula, Serengan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57156, Indonesia","lat":"-7.5849766","lon":"110.8160728","category":"highway","type":"bus_stop"}
+{"id":"306","stop":"SMPN 19 Surakarta","query":"SMPN 19 Surakarta","osm_name":"SMPN 19 Surakarta B","display":"SMPN 19 Surakarta B, Jalan Nakula, Serengan, Surakarta, Kecamatan Serengan, Jawa Tengah, 57156, Indonesia","lat":"-7.5849645","lon":"110.8160108","category":"highway","type":"bus_stop"}
+{"id":"306","stop":"SMPN 19 Surakarta","finished":true}
+{"id":"310","stop":"Masjid Riyadh","query":"Masjid Riyadh","osm_name":"Masjid Riyadh","display":"Masjid Riyadh, Jalan Kapten Mulyadi, Pasar Kliwon, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57118, Indonesia","lat":"-7.5827199","lon":"110.8297288","category":"amenity","type":"place_of_worship"}
+{"id":"310","stop":"Masjid Riyadh","finished":true}
+{"id":"314","stop":"Kedung Lumbu","query":"Kedung Lumbu","osm_name":"Kedung Lumbu","display":"Kedung Lumbu, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, 57113, Indonesia","lat":"-7.5749849","lon":"110.8337056","category":"place","type":"village"}
+{"id":"314","stop":"Kedung Lumbu","finished":true}
+{"worker_done":true}

@@ -1,0 +1,236 @@
+node_id,stop_name,lat,lon,osm_name,osm_type,shift_km
+1,Bandara Adi Soemarmo,-7.512567,110.749556,Halte Bandara Adi Soemarmo,highway/bus_stop,0.90
+2,SMPN 1 Ngemplak,-7.512126,110.744790,SMP Negeri 1 Ngemplak,amenity/school,1.21
+3,Tanjung Sari,-7.522874,110.746459,Halte Tanjung Sari,highway/bus_stop,0.54
+5,Pasar Colomadu,-7.531661,110.747401,Halte Pasar Colomadu,highway/bus_stop,0.60
+6,Gereja Colomadu,-7.534666,110.746712,Halte Gereja Colomadu,highway/bus_stop,0.87
+7,Klegen,-7.538039,110.745924,Halte Klegen,highway/bus_stop,1.03
+8,Luwes Kartasura,-7.542661,110.744938,Halte Luwes Kartasura,highway/bus_stop,1.04
+9,RS Karima,-7.546203,110.742954,Halte RS Karima,highway/bus_stop,0.85
+10,Bulog,-7.546818,110.743810,Halte Bulog,highway/bus_stop,0.93
+11,SMPN 1 Kartasura,-7.548651,110.743227,Halte SMPN 1 Kartasura,highway/bus_stop,0.92
+12,Singopuran,-7.550922,110.742678,Halte Singopuran,highway/bus_stop,0.88
+13,Simpang Kartasura,-7.554929,110.741570,Simpang Tugu Kartasura,junction/yes,0.74
+16,SPBU Gembongan,-7.556419,110.751183,SPBU Pertamina 44.571.18 Gembongan,amenity/fuel,0.45
+17,Gembongan,-7.558606,110.754267,Halte Gembongan,highway/bus_stop,0.26
+18,Suharti,-7.559526,110.756430,Halte Suharti,highway/bus_stop,0.29
+19,Gumpang,-7.560472,110.758397,Halte Gumpang,highway/bus_stop,0.38
+20,Goro Mall,-7.560769,110.762513,Halte Goro Mall,highway/bus_stop,0.26
+21,SMPN 2 Kartasura,-7.560721,110.765266,Halte SMPN 2 Kartasura,highway/bus_stop,0.28
+22,Transmart,-7.560619,110.767599,Transmart,shop/supermarket,0.34
+23,UMS,-7.559261,110.769804,Halte UMS,highway/bus_stop,0.26
+24,RS Yarsis,-7.559137,110.771339,Halte RS Yarsis,highway/bus_stop,0.34
+26,Mendungan,-7.557552,110.777917,Halte Mendungan,highway/bus_stop,0.64
+27,Kleco,-7.558555,110.783688,Halte Gapura Kleco,highway/bus_stop,0.56
+28,Faroka,-7.559100,110.785736,Simpang Jajar (Faroka),junction/intersection,0.55
+29,Korem,-7.559760,110.787949,Halte Korem,highway/bus_stop,0.52
+30,Sub Terminal Kerten,-7.560537,110.789813,Sub Terminal Kerten,highway/service,0.49
+31,Kasih Ibu,-7.564086,110.801395,Halte Kasih Ibu Selatan,highway/bus_stop,0.10
+32,DKT,-7.565275,110.805360,Halte DKT,highway/bus_stop,0.13
+33,Gendengan,-7.565643,110.807291,Halte Gendengan Utara,highway/bus_stop,0.44
+34,Sriwedari 1,-7.567048,110.811839,Halte Sriwedari 1 Utara,highway/bus_stop,0.21
+35,Sriwedari 2,-7.568569,110.814390,Halte Sriwedari 2 Utara,highway/bus_stop,0.19
+36,Ngapeman,-7.568661,110.816625,Halte Ngapeman Selatan,highway/bus_stop,0.24
+37,Timuran,-7.568942,110.817963,Halte Timuran,highway/bus_stop,0.38
+39,Pasar Pon,-7.570525,110.822761,Halte Pasar Pon Selatan,highway/bus_stop,0.41
+40,Nonongan,-7.571041,110.824882,Halte Nonongan,highway/bus_stop,0.35
+41,Gladag,-7.572032,110.828027,Halte Gladag,highway/bus_stop,0.20
+42,Benteng Vastenburg,-7.571779,110.829787,Benteng Vastenburg,highway/bus_stop,0.16
+43,Balai Kota,-7.570056,110.830043,Balai Kota,highway/bus_stop,0.14
+45,Warung Pelem,-7.567198,110.832633,Halte Warung Pelem,highway/bus_stop,0.09
+47,Mesen,-7.563165,110.835365,Halte Mesen Timur,highway/bus_stop,0.17
+49,Panggung,-7.558773,110.837457,Halte Panggung A,highway/bus_stop,0.36
+50,RS Hermina,-7.560259,110.840220,Rumah Sakit Hermina Surakarta,amenity/hospital,0.63
+51,RSUD dr. Moewardi,-7.557329,110.842832,Gedung Flamboyan RSUD Dr Moewardi,amenity/hospital,0.74
+53,Thiongting,-7.558268,110.846324,Halte Thiongting 1,highway/bus_stop,0.91
+54,Cembengan,-7.558581,110.848117,Halte Cembengan,highway/bus_stop,0.94
+55,Sekarpace,-7.561406,110.849380,Halte Sekarpace Utara,highway/bus_stop,1.05
+56,TBS,-7.563737,110.852536,Halte TBS,highway/bus_stop,0.97
+57,UNS,-7.564695,110.856251,Halte UNS,highway/bus_stop,0.90
+58,TMP,-7.564940,110.856803,Halte TMP,highway/bus_stop,1.32
+59,Jurug,-7.565696,110.858647,Halte Jurug 2,highway/bus_stop,1.64
+60,ASMI,-7.565878,110.864858,Halte Asmi,highway/bus_stop,1.57
+61,Mitra Palur,-7.568257,110.871659,Halte Mitra Palur,highway/bus_stop,1.06
+62,Palur,-7.568116,110.875287,Palur,railway/station,0.83
+63,Terminal Palur,-7.566043,110.872377,Terminal Palur,highway/bus_stop,1.46
+64,Purbowardayan,-7.559662,110.835603,Halte Purbowardayan,highway/bus_stop,0.59
+65,SMAN 1 Surakarta,-7.558118,110.830518,SMA Negeri 1 Surakarta,amenity/school,0.06
+66,Margoyudan,-7.558291,110.829543,GKJ Margoyudan,amenity/place_of_worship,0.15
+68,Proliman,-7.557853,110.824638,Halte Proliman,highway/bus_stop,0.07
+69,SPBU Balapan,-7.557323,110.823425,SPBU Pertamina 44.574.24 Solo Balapan,amenity/fuel,0.04
+70,Solo Balapan,-7.556632,110.821487,Solo Balapan,railway/station,0.02
+71,Punggawan,-7.559095,110.820051,Halte Punggawan,highway/bus_stop,0.14
+72,Wonder,-7.561527,110.819463,Halte Wonder Timur,highway/bus_stop,0.19
+73,Monumen Pers,-7.564771,110.818427,Monumen Pers Nasional,historic/monument,0.22
+74,RS PKU Surakarta,-7.564965,110.816639,RS PKU Muhammadiyah Surakarta,amenity/hospital,0.15
+76,Yosodipuro,-7.563064,110.814111,Halte SDN Yosodipuro,highway/bus_stop,0.09
+77,Mall Paragon,-7.562462,110.809997,Solo Paragon Mall,shop/mall,0.29
+78,Kota Barat,-7.561786,110.807065,Halte Kota Barat,highway/bus_stop,0.08
+79,SMPN 24 Surakarta,-7.563661,110.807030,SMP Negeri 24 Surakarta,amenity/school,0.25
+80,Purwosari,-7.561418,110.796430,Purwosari,railway/station,0.03
+81,UNIBA,-7.564007,110.794735,Halte Uniba,highway/bus_stop,0.49
+84,Aston,-7.564064,110.799199,Halte Aston,highway/bus_stop,0.16
+85,Terminal Kartasura,-7.543953,110.735141,Terminal Kartasura,highway/bus_stop,1.49
+86,Tugu Kartasura,-7.550396,110.736764,Tugu Kartasura,historic/monument,1.09
+87,Polsek Kartasura,-7.551056,110.740209,POLSEK Kartasura,amenity/police,1.10
+89,Pasar Kartasura,-7.551957,110.740411,Pasar Kartasura,amenity/marketplace,1.58
+93,Ngadirejo,-7.561051,110.754807,Halte Ngadirejo,highway/bus_stop,0.59
+94,Pasar Gumpang,-7.562092,110.758023,Halte Pasar Gumpang,highway/bus_stop,0.49
+96,Tyfountex Timur,-7.564270,110.764539,Halte Tyfountex Pintu Timur,highway/bus_stop,0.55
+97,Proyek Bengawan,-7.565041,110.767384,Halte Proyek Bengawan,highway/bus_stop,0.68
+98,Windan,-7.565953,110.771806,Halte Masjid Windan,highway/bus_stop,0.65
+100,Makamhaji,-7.569169,110.783178,Lapangan Makamhaji,leisure/park,0.27
+101,Tugu Lilin,-7.567666,110.783803,Tugu Lilin,historic/monument,1.06
+102,Pasar Jongke,-7.567715,110.789423,Pasar Jongke,amenity/marketplace,1.10
+104,Pasar Kabangan,-7.569413,110.796951,Pasar Kabangan,amenity/marketplace,0.90
+106,Sabar Motor,-7.571221,110.804112,Halte Sabar Motor,highway/bus_stop,0.38
+107,Baron Barat,-7.571311,110.805043,Halte Baron Barat,highway/bus_stop,0.41
+108,Baron,-7.571379,110.807095,Halte Baron Timur,highway/bus_stop,0.33
+109,Kec. Laweyan,-7.571162,110.808944,Kecamatan Laweyan,office/government,0.43
+110,BLK Surakarta,-7.572892,110.810040,Halte BLK Timur,highway/bus_stop,0.48
+111,SMAN 7 Surakarta,-7.575246,110.809968,SMA Negeri 7 Surakarta,amenity/school,0.59
+112,Lotte Grosir Tipes,-7.577859,110.808262,Lotte Grosir,shop/supermarket,0.85
+113,TASPEN,-7.579594,110.811765,Halte Depan Taspen 3,highway/bus_stop,0.64
+115,Widya Wacana,-7.581339,110.817585,Widya Wacana,highway/bus_stop,0.46
+116,Gemblegan Sampurna,-7.581984,110.819737,Halte Sampurna Gemblegan,highway/bus_stop,0.45
+119,Batik Keris,-7.573262,110.823557,Batik Keris,highway/bus_stop,0.37
+120,Universitas Aisyiyah,-7.556998,110.849424,Universitas Aisyiyah Surakarta,amenity/university,0.70
+122,Kecamatan Jebres,-7.555516,110.855013,Halte Kecamatan Jebres Barat,highway/bus_stop,0.70
+123,UNS Belakang,-7.554277,110.856937,Halte Pintu Belakang UNS Barat,highway/bus_stop,0.79
+124,Taman Lansia,-7.556889,110.860658,Halte Taman Lansia,highway/bus_stop,0.82
+125,Pasar Akik,-7.573781,110.829344,Pasar Akik,highway/bus_stop,0.14
+126,Alun-Alun Utara,-7.574734,110.828781,Alun-alun utara,leisure/park,0.17
+127,Polsek Pasar Kliwon,-7.576089,110.829079,Polsek Pasar Kliwon,highway/bus_stop,0.22
+128,Pasar Klewer,-7.575028,110.827720,Pasar Klewer,highway/bus_stop,0.26
+130,Masjid Fatimah,-7.573703,110.819355,Masjid Fatimah,amenity/place_of_worship,0.37
+131,Pasar Kembang,-7.572332,110.816705,Pasar Kembang,highway/bus_stop,0.51
+132,Kantor Kec. Colomadu,-7.532400,110.748889,Kantor Kecamatan Colomadu,office/government,1.29
+134,Koramil Colomadu,-7.535137,110.754992,KORAMIL Colomadu,amenity/police,1.25
+135,YPAC,-7.538040,110.757644,YPAC,office/ngo,1.16
+136,Jonggrang,-7.538461,110.759915,Halte Jonggrang,highway/bus_stop,1.41
+137,Gajahan IHS,-7.539576,110.762533,Halte IHS Selatan,highway/bus_stop,1.60
+138,ATMI,-7.541478,110.766116,Halte ATMI Selatan,highway/bus_stop,1.68
+139,LOR INN,-7.543301,110.769595,Halte Lor Inn Selatan,highway/bus_stop,1.46
+140,Lapangan Blulukan,-7.543431,110.771646,Lapangan Blulukan,landuse/grass,1.48
+141,Alana,-7.545514,110.775459,Halte Alana,highway/bus_stop,1.23
+142,Solo Pos,-7.546642,110.779266,Solo Pos,office/newspaper,1.04
+143,DPRD Surakarta,-7.548533,110.783391,Halte DPRD Utara,highway/bus_stop,0.85
+144,Adi Sucipto Barat,-7.550602,110.789386,Halte Adi Sucipto Barat 2,highway/bus_stop,0.47
+145,Adi Sucipto Timur,-7.550756,110.790272,Halte Adi Sucipto Timur 1,highway/bus_stop,0.68
+149,TK Pembina,-7.554502,110.800483,Halte TK Pembina,highway/bus_stop,0.32
+150,RS Bhayangkara,-7.554380,110.801885,Rumah Sakit Bhayangkara,amenity/hospital,0.25
+151,SMAN 4 Surakarta,-7.555709,110.802694,SMA Negeri 4 Surakarta,building/yes,0.30
+152,Stadion Manahan,-7.555590,110.806484,Stadion Manahan,leisure/pitch,0.02
+153,Gedung Wanita / SMPN 1 Surakarta,-7.557285,110.808992,Halte Gedung Wanita,highway/bus_stop,0.43
+154,PLN Manahan,-7.555018,110.811733,Halte PLN Manahan,highway/bus_stop,0.43
+155,RS Brayat,-7.551748,110.814681,Rumah Sakit Brayat Minulya,amenity/hospital,0.33
+156,Dewa Dewi,-7.553524,110.818409,Halte Dewa Dewi,highway/bus_stop,0.37
+157,Terminal Tirtonadi,-7.552872,110.820819,Terminal Tirtonadi,highway/bus_stop,0.23
+159,Masjid Raya Sheikh Zayed,-7.554873,110.826763,Masjid Raya Sheikh Zayed,amenity/place_of_worship,0.47
+161,Rusun Jurug,-7.560073,110.860508,Halte Rusun Jurug Timur,highway/bus_stop,1.01
+162,Pasar Buah Jurug,-7.562418,110.859038,Halte Pasar Buah Jurug Timur,highway/bus_stop,1.38
+163,GBI Malangjiwan,-7.529853,110.751291,GBI Malangjiwan Selatan,highway/bus_stop,0.68
+167,Yakkum,-7.532601,110.765258,Yakkum,highway/bus_stop,0.33
+173,SMKN 9 Surakarta,-7.537305,110.803154,SMKN 9 Surakarta,highway/bus_stop,1.12
+174,SMPN 23 Surakarta,-7.538940,110.807191,SMPN 23 Surakarta,amenity/school,1.01
+175,Graha Saba Buana,-7.544200,110.806351,Graha Saba Buana,highway/bus_stop,0.44
+176,Lapangan Sumber,-7.550178,110.802992,Lapangan Sumber,highway/bus_stop,0.60
+177,SMPN 12 Surakarta,-7.552867,110.799953,SMP Negeri 12,amenity/school,0.54
+178,Gemblegan,-7.582174,110.820931,Halte Gemblegan Timur,highway/bus_stop,0.43
+180,Luwes Gading,-7.583160,110.824947,Luwes Gading,shop/supermarket,0.55
+181,Pasar Gading,-7.583553,110.826391,Pasar Gading,amenity/marketplace,0.69
+182,Simpang Baturono,-7.584645,110.829259,Simpang Empat Baturono,highway/traffic_signals,0.75
+183,Apil Semanggi,-7.585402,110.831900,Apil Semanggi B,highway/bus_stop,0.84
+184,SPBU Semanggi,-7.586252,110.834011,Halte SPBU Semanggi A,highway/bus_stop,0.99
+185,Sub Terminal Semanggi,-7.589505,110.835075,Sub Terminal Semanggi,highway/bus_stop,1.28
+186,SMA MTA,-7.587345,110.836212,SMA MTA Surakarta,highway/bus_stop,1.51
+187,Jembatan Mojo,-7.590508,110.842145,Jembatan Mojo,highway/bus_stop,1.23
+188,Ngebrak,-7.592598,110.845849,Ngebrak,highway/bus_stop,1.21
+189,Laban,-7.594110,110.848574,Laban,highway/bus_stop,1.30
+190,Graha Safira,-7.595606,110.851050,Graha Safira,highway/bus_stop,1.41
+191,Pasar Plumbon,-7.597416,110.854365,Pasar Plumbon,highway/bus_stop,1.45
+193,GTP,-7.600488,110.860049,GTP,highway/bus_stop,1.61
+195,Polsek Mojolaban,-7.603872,110.866346,Polsek Mojolaban,highway/bus_stop,1.74
+196,SMAN 1 Mojolaban,-7.605046,110.868161,SMAN 1 Mojolaban,highway/bus_stop,1.90
+197,Tugu Bendo,-7.606521,110.870000,Tugu Bendo,highway/bus_stop,2.08
+198,Pasar Bekonang,-7.609631,110.873954,Pasar Bekonang,highway/bus_stop,2.16
+199,Lapangan Cangkol,-7.610708,110.879158,Lapangan Cangkol (MTSN 1 Sukoharjo),highway/bus_stop,2.03
+200,SMPN 1 Mojolaban,-7.611139,110.885236,SMP Negeri 1 Mojolaban,amenity/school,1.80
+201,SPBU Sidan,-7.612499,110.888690,SPBU Sidan,highway/bus_stop,1.85
+202,Simpang Sidan,-7.613652,110.891715,Simpang Sidan,highway/bus_stop,1.92
+203,Gereja Masjid,-7.579844,110.818483,Halte Gereja-Masjid,highway/bus_stop,0.59
+205,Singosaren,-7.573342,110.820944,Halte Singosaren,highway/bus_stop,0.34
+207,RSUD Ngipang,-7.526213,110.812754,RSUD Ngipang,amenity/hospital,0.85
+208,GKJ Ngipang,-7.528441,110.812949,GKJ Ngipang,highway/bus_stop,0.79
+209,LDII Bayan Krajan,-7.530425,110.812971,LDII Bayan Krajan,highway/bus_stop,0.75
+210,Puskesmas Krembyongan,-7.532699,110.812911,Puskesmas Krembyongan,highway/bus_stop,0.71
+212,Sumpingan,-7.539139,110.812252,Sumpingan,highway/bus_stop,0.75
+214,SDN 3 Banyuagung,-7.542366,110.812700,SD 3 Banyuagung,highway/bus_stop,0.00
+216,Luwes Nusukan,-7.541774,110.820350,Luwes Nusukan 1,highway/bus_stop,0.39
+217,Pasar Nusukan,-7.546665,110.820788,Pasar Nusukan,highway/bus_stop,0.23
+218,Jembatan Tirtonadi,-7.550822,110.821739,Jembatan Terminal Tirtonadi,highway/bus_stop,0.35
+219,Pasar Papsa Gilingan,-7.553000,110.822628,Pasar Papsa Gilingan,highway/bus_stop,0.34
+220,Pasar Besi Gilingan,-7.554134,110.823346,Pasar Besi Gilingan A,highway/bus_stop,0.32
+223,Luwes Kestalan,-7.560990,110.824059,Luwes Kestalan,highway/bus_stop,0.11
+224,Pasar Legi Barat,-7.562433,110.824019,Pasar Legi Barat,highway/bus_stop,0.22
+225,Pasar Legi,-7.561449,110.824770,Pasar Legi,highway/bus_stop,0.30
+226,SMP Widya Wacana,-7.562147,110.826178,SMP Widya Wacana,highway/bus_stop,0.31
+227,Kelurahan Stabelan,-7.562187,110.826773,Halte Kelurahan Stabelan B,highway/bus_stop,0.47
+228,PDAM Stabelan,-7.562818,110.828580,PDAM Stabelan,highway/bus_stop,0.29
+229,Apotik Widuran,-7.564682,110.828613,Apotik Widuran,highway/bus_stop,0.33
+231,Kejaksaan,-7.566030,110.831964,Kejaksaan,highway/bus_stop,0.05
+232,Telkom,-7.570946,110.830717,Telkom,highway/bus_stop,0.34
+235,BTC Selatan,-7.574351,110.831235,BTC Selatan,highway/bus_stop,0.20
+236,Sub Terminal Pelangi Mojosongo,-7.534206,110.847822,Sub Terminal Pelangi Mojosongo,amenity/bus_station,1.18
+238,Kelurahan Mojosongo,-7.543812,110.841949,Halte Kelurahan Mojosongo,highway/bus_stop,1.26
+239,Goa Maria,-7.546273,110.841398,Halte Goa Maria,highway/bus_stop,1.22
+240,Untoroloyo,-7.550705,110.840648,Halte Untoroloyo,highway/bus_stop,1.38
+241,Pabrik Jerapah,-7.552200,110.840192,Halte Pabrik Jerapah A,highway/bus_stop,1.23
+242,Pasar Mojosongo,-7.553121,110.838945,Pasar Mojosongo,shop/supermarket,1.01
+245,SMPN 4 Surakarta,-7.560313,110.828650,SMP Negeri 4 Surakarta,amenity/school,0.06
+246,SMK Kristen 2,-7.560894,110.828320,Halte SMK Kristen 2,highway/bus_stop,0.19
+247,Pasar Sibela,-7.536013,110.845548,Pasar Sibela,amenity/marketplace,1.66
+248,Taman Jayawijaya,-7.537034,110.842169,Taman Jayawijaya,leisure/park,1.60
+253,Ngaglik,-7.539899,110.836387,Ngaglik A,highway/bus_stop,0.98
+254,USB Poltekkes,-7.544902,110.834175,USB Poltekkes B,highway/bus_stop,0.74
+255,Patung Banteng Bibis,-7.547797,110.830450,Pertigaan Patung Banteng Bibis B,highway/bus_stop,0.36
+257,Masjid Al-Hakam,-7.552405,110.829597,Masjid Al Hakam B,highway/bus_stop,0.27
+258,Pasar Ngemplak,-7.554296,110.829678,Pasar Ngemplak,amenity/marketplace,0.26
+259,Pasar Legi Selatan,-7.563842,110.823482,Halte Perempatan Pasar Legi Selatan,highway/bus_stop,0.27
+261,Kelurahan Ketelan,-7.562436,110.819822,Halte Kelurahan Ketelan A,highway/bus_stop,0.63
+262,SMA Muhammadiyah 1,-7.564082,110.821546,SMA Muhammadiyah 1,highway/bus_stop,0.43
+266,Mangkunegaran,-7.567878,110.822108,Mangkunegaran,highway/bus_stop,0.26
+267,Atria,-7.567341,110.820647,Atria,highway/bus_stop,0.24
+268,Tugu Adipura Jurug,-7.566988,110.860176,Halte Tugu Adipura Jurug Timur,highway/bus_stop,0.44
+269,Pasar Pucangsawit,-7.568427,110.858280,Halte Pasar Pucang Sawit Selatan,highway/bus_stop,0.36
+270,Boing Tenis Center,-7.568840,110.855064,Halte Boing Tenis Center Selatan,highway/bus_stop,0.66
+273,Alfamart Jonasan,-7.570380,110.847745,Halte Alfamart Jonasan Selatan,highway/bus_stop,0.96
+274,Jonasan,-7.569732,110.846692,Halte Tambal Ban Jonasan Timur,highway/bus_stop,0.71
+275,Jagalan Abon Sapi,-7.567463,110.847417,Halte Abon Sapi Jagalan Barat,highway/bus_stop,0.67
+276,SMPN 20 Surakarta,-7.565149,110.846598,Halte SMPN 20,highway/bus_stop,0.78
+280,Dr Loo,-7.566476,110.838773,Halte Dr Loo Barat,highway/bus_stop,0.14
+281,SD Warga Surakarta,-7.567601,110.836343,SD Warga,amenity/school,0.13
+283,Lapangan Gentan,-7.583705,110.783541,Lapangan RCTI Gentan,highway/bus_stop,2.34
+285,Kelurahan Gentan,-7.579240,110.783230,Kelurahan Gentan A,highway/bus_stop,2.46
+286,Luwes Gentan,-7.577589,110.782816,Luwes Gentan A,highway/bus_stop,2.48
+288,SMPN 9 Surakarta,-7.573289,110.783704,SMPN 9 Surakarta A,highway/bus_stop,2.05
+290,Pos Pajang,-7.568308,110.783783,POS B,highway/bus_stop,1.82
+291,Wangkung,-7.568354,110.788070,Halte Wangkung Selatan,highway/bus_stop,1.21
+292,Pusat Oleh-oleh Jongke,-7.568204,110.791153,Pusat Oleh - Oleh Jongke B,highway/bus_stop,0.99
+294,Al-Muayyad,-7.567632,110.800839,Al Muayyad A,highway/bus_stop,0.59
+295,SDN Tegalsari,-7.568504,110.802951,SDN Tegalsari A,highway/bus_stop,0.57
+296,FKG UMS,-7.569338,110.806137,FK FKG UMS,amenity/university,0.43
+297,Sutowijoyo,-7.569040,110.806621,Simpang 4 Sutowijoyo,highway/bus_stop,0.61
+299,Kelurahan Sriwedari,-7.569834,110.811866,Kelurahan Sri Wedari,highway/bus_stop,0.48
+301,Pasar Kadipolo,-7.572702,110.815372,Pasar Kadipolo,shop/supermarket,0.16
+303,SMA Kristen 1,-7.577778,110.815185,SMA Kristen 1,highway/bus_stop,0.25
+305,SD Kanisius,-7.581741,110.817824,SD Kanisius A,highway/bus_stop,0.96
+306,SMPN 19 Surakarta,-7.584977,110.816073,SMPN 19 Surakarta A,highway/bus_stop,1.22
+307,Sawo Kecik,-7.588625,110.820388,Sawo Kecik B,highway/bus_stop,0.91
+308,SMA Islam,-7.589240,110.823712,SMA Al Islam A,highway/bus_stop,0.87
+309,SMKN 3 Surakarta,-7.584994,110.825368,SMKN 3 Surakarta A,highway/bus_stop,0.80
+310,Masjid Riyadh,-7.582720,110.829729,Masjid Riyadh,amenity/place_of_worship,0.53
+311,RS Kustati,-7.581325,110.830513,RS Kustati B,highway/bus_stop,0.34
+313,SPBU Pasar Kliwon,-7.578755,110.831512,SPBU Pasar Kliwon B,highway/bus_stop,0.04
+315,Solo Jebres,-7.562005,110.839538,Solo Jebres,railway/station,0.07
+316,Kadipiro,-7.531398,110.818029,Kadipiro,railway/stop,0.65

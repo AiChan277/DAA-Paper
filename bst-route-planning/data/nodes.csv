@@ -1,0 +1,318 @@
+node_id,stop_name,lat,lon,node_type,corridors,coord_source
+1,Bandara Adi Soemarmo,-7.512567,110.749556,airport_station,K1|BIAS,osm
+2,SMPN 1 Ngemplak,-7.512126,110.744790,stop,K1,osm
+3,Tanjung Sari,-7.522874,110.746459,stop,K1,osm
+4,SMPN 3 Colomadu,-7.527267,110.746930,stop,K1,interpolated
+5,Pasar Colomadu,-7.531661,110.747401,interchange_stop,K1|K5,osm
+6,Gereja Colomadu,-7.534666,110.746712,interchange_stop,K1|K4|K5,osm
+7,Klegen,-7.538039,110.745924,interchange_stop,K1|K4|K5,osm
+8,Luwes Kartasura,-7.542661,110.744938,interchange_stop,K1|K4|K5,osm
+9,RS Karima,-7.546203,110.742954,stop,K1,osm
+10,Bulog,-7.546818,110.743810,stop,K1,osm
+11,SMPN 1 Kartasura,-7.548651,110.743227,stop,K1,osm
+12,Singopuran,-7.550922,110.742678,stop,K1,osm
+13,Simpang Kartasura,-7.554929,110.741570,stop,K1,osm
+14,SMP 1 Muhammadiyah Kartasura,-7.555426,110.744774,stop,K1,interpolated
+15,Ngadirejo Pandeyan,-7.555922,110.747979,stop,K1,interpolated
+16,SPBU Gembongan,-7.556419,110.751183,stop,K1,osm
+17,Gembongan,-7.558606,110.754267,stop,K1,osm
+18,Suharti,-7.559526,110.756430,stop,K1,osm
+19,Gumpang,-7.560472,110.758397,stop,K1,osm
+20,Goro Mall,-7.560769,110.762513,stop,K1,osm
+21,SMPN 2 Kartasura,-7.560721,110.765266,stop,K1,osm
+22,Transmart,-7.560619,110.767599,stop,K1,osm
+23,UMS,-7.559261,110.769804,stop,K1,osm
+24,RS Yarsis,-7.559137,110.771339,stop,K1,osm
+25,RS UNS / RS Ortopedi,-7.558345,110.774628,stop,K1,interpolated
+26,Mendungan,-7.557552,110.777917,stop,K1,osm
+27,Kleco,-7.558555,110.783688,stop,K1,osm
+28,Faroka,-7.559100,110.785736,stop,K1,osm
+29,Korem,-7.559760,110.787949,stop,K1,osm
+30,Sub Terminal Kerten,-7.560537,110.789813,sub_terminal,K1,osm
+31,Kasih Ibu,-7.564086,110.801395,interchange_stop,K1|K2,osm
+32,DKT,-7.565275,110.805360,interchange_stop,K1|K2,osm
+33,Gendengan,-7.565643,110.807291,interchange_stop,K1|K2|K5,osm
+34,Sriwedari 1,-7.567048,110.811839,interchange_stop,K1|K5,osm
+35,Sriwedari 2,-7.568569,110.814390,interchange_stop,K1|K5,osm
+36,Ngapeman,-7.568661,110.816625,interchange_stop,K1|K5,osm
+37,Timuran,-7.568942,110.817963,interchange_stop,K1|K5,osm
+38,Kemlayan,-7.569733,110.820362,interchange_stop,K1|K5,interpolated
+39,Pasar Pon,-7.570525,110.822761,interchange_stop,K1|K5,osm
+40,Nonongan,-7.571041,110.824882,interchange_stop,K1|K3,osm
+41,Gladag,-7.572032,110.828027,interchange_stop,K1|K3,osm
+42,Benteng Vastenburg,-7.571779,110.829787,interchange_stop,K1|K3|F7|F10,osm
+43,Balai Kota,-7.570056,110.830043,interchange_stop,K1|K3|F7|F10,osm
+44,Pasar Gede,-7.568627,110.831338,interchange_stop,K1|K3|F7|F10,interpolated
+45,Warung Pelem,-7.567198,110.832633,interchange_stop,K1|K3|F7|F10,osm
+46,Urip Sumoharjo,-7.565181,110.833999,interchange_stop,K1|K3,interpolated
+47,Mesen,-7.563165,110.835365,interchange_stop,K1|K3,osm
+48,Jebres,-7.561800,110.836100,interchange_stop,K1|K3|WALK,osm
+49,Panggung,-7.558773,110.837457,interchange_stop,K1|K2|K3|K4|F8,osm
+50,RS Hermina,-7.560259,110.840220,interchange_stop,K1|K2|K3|K4,osm
+51,RSUD dr. Moewardi,-7.557329,110.842832,interchange_stop,K1|K2|K3|K4,osm
+52,SMA Muhammadiyah 3,-7.557799,110.844578,interchange_stop,K1|K2|K3|K4,interpolated
+53,Thiongting,-7.558268,110.846324,interchange_stop,K1|K2|K3|K4,osm
+54,Cembengan,-7.558581,110.848117,interchange_stop,K1|K2,osm
+55,Sekarpace,-7.561406,110.849380,interchange_stop,K1|K2,osm
+56,TBS,-7.563737,110.852536,interchange_stop,K1|K2,osm
+57,UNS,-7.564695,110.856251,interchange_stop,K1|K2,osm
+58,TMP,-7.564940,110.856803,interchange_stop,K1|K2,osm
+59,Jurug,-7.565696,110.858647,interchange_stop,K1|K2|K4,osm
+60,ASMI,-7.565878,110.864858,interchange_stop,K1|K2|K4|F10,osm
+61,Mitra Palur,-7.568257,110.871659,interchange_stop,K1|K2|K4|F10,osm
+62,Palur,-7.568116,110.875287,rail_station,K1|K2|K4|F10|KRL|BIAS,osm
+63,Terminal Palur,-7.566043,110.872377,terminal,K1|K2|K4|F10,osm
+64,Purbowardayan,-7.559662,110.835603,interchange_stop,K2|F8,osm
+65,SMAN 1 Surakarta,-7.558118,110.830518,interchange_stop,K2|F8,osm
+66,Margoyudan,-7.558291,110.829543,interchange_stop,K2|F8,osm
+67,TK-SD Cemara 2,-7.558072,110.827090,stop,K2,interpolated
+68,Proliman,-7.557853,110.824638,stop,K2,osm
+69,SPBU Balapan,-7.557323,110.823425,stop,K2,osm
+70,Solo Balapan,-7.556632,110.821487,rail_station,K2|KRL|BIAS|WALK,osm
+71,Punggawan,-7.559095,110.820051,stop,K2,osm
+72,Wonder,-7.561527,110.819463,stop,K2,osm
+73,Monumen Pers,-7.564771,110.818427,stop,K2,osm
+74,RS PKU Surakarta,-7.564965,110.816639,stop,K2,osm
+75,SMA Muhammadiyah 2,-7.564014,110.815375,stop,K2,interpolated
+76,Yosodipuro,-7.563064,110.814111,stop,K2,osm
+77,Mall Paragon,-7.562462,110.809997,stop,K2,osm
+78,Kota Barat,-7.561786,110.807065,interchange_stop,K2|K5,osm
+79,SMPN 24 Surakarta,-7.563661,110.807030,interchange_stop,K2|K5,osm
+80,Purwosari,-7.561418,110.796430,rail_station,K2|KRL|BK,osm
+81,UNIBA,-7.564007,110.794735,stop,K2,osm
+82,Djamaatul Ichwan,-7.564026,110.796223,stop,K2,interpolated
+83,Simpang Batikan,-7.564045,110.797711,interchange_stop,K2|F12,interpolated
+84,Aston,-7.564064,110.799199,stop,K2,osm
+85,Terminal Kartasura,-7.543953,110.735141,terminal,K3|K4|K5,osm
+86,Tugu Kartasura,-7.550396,110.736764,stop,K3,osm
+87,Polsek Kartasura,-7.551056,110.740209,stop,K3,osm
+88,PKU Kartasura,-7.551507,110.740310,stop,K3,interpolated
+89,Pasar Kartasura,-7.551957,110.740411,stop,K3,osm
+90,Gapura Keraton Kartasura,-7.554231,110.744010,stop,K3,interpolated
+91,Sedahromo,-7.556504,110.747609,stop,K3,interpolated
+92,Superindo Gumpang,-7.558777,110.751208,stop,K3,interpolated
+93,Ngadirejo,-7.561051,110.754807,stop,K3,osm
+94,Pasar Gumpang,-7.562092,110.758023,stop,K3,osm
+95,Tyfountex Barat,-7.563310,110.761540,stop,K3,osm
+96,Tyfountex Timur,-7.564270,110.764539,stop,K3,osm
+97,Proyek Bengawan,-7.565041,110.767384,stop,K3,osm
+98,Windan,-7.565953,110.771806,stop,K3,osm
+99,Pracimaloyo,-7.567561,110.777492,stop,K3,interpolated
+100,Makamhaji,-7.569169,110.783178,stop,K3,osm
+101,Tugu Lilin,-7.567666,110.783803,stop,K3,osm
+102,Pasar Jongke,-7.567715,110.789423,interchange_stop,K3|F12,osm
+103,Batik Omah Laweyan,-7.568564,110.793187,stop,K3,interpolated
+104,Pasar Kabangan,-7.569413,110.796951,stop,K3,osm
+105,dr. Radjiman,-7.570317,110.800532,stop,K3,interpolated
+106,Sabar Motor,-7.571221,110.804112,stop,K3,osm
+107,Baron Barat,-7.571311,110.805043,stop,K3,osm
+108,Baron,-7.571379,110.807095,stop,K3,osm
+109,Kec. Laweyan,-7.571162,110.808944,stop,K3,osm
+110,BLK Surakarta,-7.572892,110.810040,stop,K3,osm
+111,SMAN 7 Surakarta,-7.575246,110.809968,stop,K3,osm
+112,Lotte Grosir Tipes,-7.577859,110.808262,stop,K3,osm
+113,TASPEN,-7.579594,110.811765,stop,K3,osm
+114,Serengan,-7.580466,110.814675,interchange_stop,K3|F12,interpolated
+115,Widya Wacana,-7.581339,110.817585,interchange_stop,K3|F12,osm
+116,Gemblegan Sampurna,-7.581984,110.819737,stop,K3,osm
+117,Simpang 3 Notosuman Timur,-7.579077,110.821010,interchange_stop,K3|K5|F9,interpolated
+118,Simpang Kalilarangan,-7.576169,110.822284,interchange_stop,K3|K5,interpolated
+119,Batik Keris,-7.573262,110.823557,interchange_stop,K3|K5,osm
+120,Universitas Aisyiyah,-7.556998,110.849424,interchange_stop,K3|K4,osm
+121,ISI Solo Techno Park,-7.558040,110.852460,interchange_stop,K3|K4,osm
+122,Kecamatan Jebres,-7.555516,110.855013,interchange_stop,K3|K4,osm
+123,UNS Belakang,-7.554277,110.856937,interchange_stop,K3|K4,osm
+124,Taman Lansia,-7.556889,110.860658,interchange_stop,K3|K4,osm
+125,Pasar Akik,-7.573781,110.829344,interchange_stop,K3|F7|F10,osm
+126,Alun-Alun Utara,-7.574734,110.828781,interchange_stop,K3|F7|F10,osm
+127,Polsek Pasar Kliwon,-7.576089,110.829079,interchange_stop,K3|F7|F10,osm
+128,Pasar Klewer,-7.575028,110.827720,interchange_stop,K3|F7|F10|F12,osm
+129,Coyudan Timur,-7.574310,110.822310,stop,K3,osm
+130,Masjid Fatimah,-7.573703,110.819355,stop,K3,osm
+131,Pasar Kembang,-7.572332,110.816705,stop,K3,osm
+132,Kantor Kec. Colomadu,-7.532400,110.748889,stop,K4,osm
+133,SPBU Colomadu,-7.533768,110.751941,stop,K4,interpolated
+134,Koramil Colomadu,-7.535137,110.754992,stop,K4,osm
+135,YPAC,-7.538040,110.757644,stop,K4,osm
+136,Jonggrang,-7.538461,110.759915,stop,K4,osm
+137,Gajahan IHS,-7.539576,110.762533,stop,K4,osm
+138,ATMI,-7.541478,110.766116,stop,K4,osm
+139,LOR INN,-7.543301,110.769595,stop,K4,osm
+140,Lapangan Blulukan,-7.543431,110.771646,stop,K4,osm
+141,Alana,-7.545514,110.775459,stop,K4,osm
+142,Solo Pos,-7.546642,110.779266,stop,K4,osm
+143,DPRD Surakarta,-7.548533,110.783391,stop,K4,osm
+144,Adi Sucipto Barat,-7.550602,110.789386,stop,K4,osm
+145,Adi Sucipto Timur,-7.550756,110.790272,stop,K4,osm
+146,Jajar,-7.551692,110.792825,stop,K4,interpolated
+147,Sekolah Ursulin,-7.552629,110.795378,stop,K4,interpolated
+148,SMKN 5 Surakarta,-7.553566,110.797930,stop,K4,interpolated
+149,TK Pembina,-7.554502,110.800483,interchange_stop,K4|K5,osm
+150,RS Bhayangkara,-7.554380,110.801885,interchange_stop,K4|K5,osm
+151,SMAN 4 Surakarta,-7.555709,110.802694,interchange_stop,K4|K5,osm
+152,Stadion Manahan,-7.555590,110.806484,interchange_stop,K4|K5,osm
+153,Gedung Wanita / SMPN 1 Surakarta,-7.557285,110.808992,stop,K4,osm
+154,PLN Manahan,-7.555018,110.811733,stop,K4,osm
+155,RS Brayat,-7.551748,110.814681,stop,K4,osm
+156,Dewa Dewi,-7.553524,110.818409,stop,K4,osm
+157,Terminal Tirtonadi,-7.552872,110.820819,terminal,K4|F7|WALK,osm
+158,Simpang 3 Gilingan,-7.553260,110.823200,stop,K4,osm
+159,Masjid Raya Sheikh Zayed,-7.554873,110.826763,stop,K4,osm
+160,Simpang AUB,-7.556823,110.832110,stop,K4,interpolated
+161,Rusun Jurug,-7.560073,110.860508,stop,K4,osm
+162,Pasar Buah Jurug,-7.562418,110.859038,stop,K4,osm
+163,GBI Malangjiwan,-7.529853,110.751291,stop,K5,osm
+164,Malangjiwan Utara,-7.530540,110.754783,stop,K5,interpolated
+165,Gawanan / SMPN 1 Colomadu,-7.531227,110.758274,stop,K5,interpolated
+166,SMK Penerbangan Adi Soemarmo,-7.531914,110.761766,stop,K5,interpolated
+167,Yakkum,-7.532601,110.765258,stop,K5,osm
+168,Garasi BST Tohudan,-7.532700,110.768770,stop,K5,osm
+169,Tohudan Poltekkes,-7.533621,110.775647,stop,K5,interpolated
+170,Gedongan,-7.534542,110.782524,stop,K5,interpolated
+171,Puskesmas Colomadu 2,-7.535463,110.789400,stop,K5,interpolated
+172,Klodran,-7.536384,110.796277,stop,K5,interpolated
+173,SMKN 9 Surakarta,-7.537305,110.803154,stop,K5,osm
+174,SMPN 23 Surakarta,-7.538940,110.807191,stop,K5,osm
+175,Graha Saba Buana,-7.544200,110.806351,stop,K5,osm
+176,Lapangan Sumber,-7.550178,110.802992,stop,K5,osm
+177,SMPN 12 Surakarta,-7.552867,110.799953,stop,K5,osm
+178,Gemblegan,-7.582174,110.820931,interchange_stop,K5|F9,osm
+179,Simpang Grobakan,-7.582667,110.822939,interchange_stop,K5|F9,interpolated
+180,Luwes Gading,-7.583160,110.824947,interchange_stop,K5|F9,osm
+181,Pasar Gading,-7.583553,110.826391,interchange_stop,K5|F9|F12,osm
+182,Simpang Baturono,-7.584645,110.829259,interchange_stop,K5|F9|F12,osm
+183,Apil Semanggi,-7.585402,110.831900,interchange_stop,K5|F9,osm
+184,SPBU Semanggi,-7.586252,110.834011,interchange_stop,K5|F9,osm
+185,Sub Terminal Semanggi,-7.589505,110.835075,sub_terminal,K5|F9,osm
+186,SMA MTA,-7.587345,110.836212,stop,K5,osm
+187,Jembatan Mojo,-7.590508,110.842145,stop,K5,osm
+188,Ngebrak,-7.592598,110.845849,stop,K5,osm
+189,Laban,-7.594110,110.848574,stop,K5,osm
+190,Graha Safira,-7.595606,110.851050,stop,K5,osm
+191,Pasar Plumbon,-7.597416,110.854365,stop,K5,osm
+192,Desa Wisata Wirun,-7.598952,110.857207,stop,K5,interpolated
+193,GTP,-7.600488,110.860049,stop,K5,osm
+194,Kel. Wirun,-7.602790,110.864120,stop,K5,osm
+195,Polsek Mojolaban,-7.603872,110.866346,stop,K5,osm
+196,SMAN 1 Mojolaban,-7.605046,110.868161,stop,K5,osm
+197,Tugu Bendo,-7.606521,110.870000,stop,K5,osm
+198,Pasar Bekonang,-7.609631,110.873954,stop,K5,osm
+199,Lapangan Cangkol,-7.610708,110.879158,stop,K5,osm
+200,SMPN 1 Mojolaban,-7.611139,110.885236,stop,K5,osm
+201,SPBU Sidan,-7.612499,110.888690,stop,K5,osm
+202,Simpang Sidan,-7.613652,110.891715,stop,K5,osm
+203,Gereja Masjid,-7.579844,110.818483,stop,K5,osm
+204,Simpang Notosuman Barat,-7.576593,110.819714,interchange_stop,K5|F9,interpolated
+205,Singosaren,-7.573342,110.820944,interchange_stop,K5|F9,osm
+206,Gatot Subroto Ngarsopuro,-7.571934,110.821853,interchange_stop,K5|F9,interpolated
+207,RSUD Ngipang,-7.526213,110.812754,stop,F7,osm
+208,GKJ Ngipang,-7.528441,110.812949,stop,F7,osm
+209,LDII Bayan Krajan,-7.530425,110.812971,stop,F7,osm
+210,Puskesmas Krembyongan,-7.532699,110.812911,stop,F7,osm
+211,Banyuagung,-7.535919,110.812581,stop,F7,interpolated
+212,Sumpingan,-7.539139,110.812252,stop,F7,osm
+213,SD Kristen 2 Stabelan,-7.540752,110.812476,stop,F7,interpolated
+214,SDN 3 Banyuagung,-7.542366,110.812700,stop,F7,osm
+215,Kimia Farma Banyuagung,-7.542070,110.816525,stop,F7,interpolated
+216,Luwes Nusukan,-7.541774,110.820350,stop,F7,osm
+217,Pasar Nusukan,-7.546665,110.820788,stop,F7,osm
+218,Jembatan Tirtonadi,-7.550822,110.821739,stop,F7,osm
+219,Pasar Papsa Gilingan,-7.553000,110.822628,stop,F7,osm
+220,Pasar Besi Gilingan,-7.554134,110.823346,stop,F7,osm
+221,RS Triharsi,-7.557360,110.824780,stop,F7,osm
+222,Jl. Sabang,-7.559175,110.824420,stop,F7,interpolated
+223,Luwes Kestalan,-7.560990,110.824059,stop,F7,osm
+224,Pasar Legi Barat,-7.562433,110.824019,stop,F7,osm
+225,Pasar Legi,-7.561449,110.824770,interchange_stop,F7|F8|F9,osm
+226,SMP Widya Wacana,-7.562147,110.826178,interchange_stop,F7|F8|F9,osm
+227,Kelurahan Stabelan,-7.562187,110.826773,interchange_stop,F7|F8|F9,osm
+228,PDAM Stabelan,-7.562818,110.828580,stop,F7,osm
+229,Apotik Widuran,-7.564682,110.828613,stop,F7,osm
+230,Pegadaian,-7.565356,110.830288,stop,F7,interpolated
+231,Kejaksaan,-7.566030,110.831964,stop,F7,osm
+232,Telkom,-7.570946,110.830717,interchange_stop,F7|F10,osm
+233,Simpang 3 Lodji Wetan,-7.572043,110.831779,interchange_stop,F7|F10,interpolated
+234,Luwes Sangkrah,-7.573140,110.832840,interchange_stop,F7|F10|WALK,osm
+235,BTC Selatan,-7.574351,110.831235,interchange_stop,F7|F10,osm
+236,Sub Terminal Pelangi Mojosongo,-7.534206,110.847822,sub_terminal,F8|F9,osm
+237,Sibela Tengah,-7.539009,110.844886,stop,F8,interpolated
+238,Kelurahan Mojosongo,-7.543812,110.841949,stop,F8,osm
+239,Goa Maria,-7.546273,110.841398,stop,F8,osm
+240,Untoroloyo,-7.550705,110.840648,stop,F8,osm
+241,Pabrik Jerapah,-7.552200,110.840192,stop,F8,osm
+242,Pasar Mojosongo,-7.553121,110.838945,stop,F8,osm
+243,RS dr. OEN Kandangsapi,-7.555947,110.838201,stop,F8,interpolated
+244,Patung Mayor Achmadi,-7.559302,110.829096,interchange_stop,F8|F9,interpolated
+245,SMPN 4 Surakarta,-7.560313,110.828650,interchange_stop,F8|F9,osm
+246,SMK Kristen 2,-7.560894,110.828320,interchange_stop,F8|F9,osm
+247,Pasar Sibela,-7.536013,110.845548,stop,F9,osm
+248,Taman Jayawijaya,-7.537034,110.842169,stop,F9,osm
+249,Jayawijaya Timur,-7.537607,110.841013,stop,F9,interpolated
+250,Jayawijaya Barat,-7.538180,110.839856,stop,F9,interpolated
+251,Simpang Busukan,-7.538753,110.838700,stop,F9,interpolated
+252,Dempo,-7.539326,110.837543,stop,F9,interpolated
+253,Ngaglik,-7.539899,110.836387,stop,F9,osm
+254,USB Poltekkes,-7.544902,110.834175,stop,F9,osm
+255,Patung Banteng Bibis,-7.547797,110.830450,stop,F9,osm
+256,SMAN 5 & 6 Surakarta,-7.550101,110.830024,stop,F9,interpolated
+257,Masjid Al-Hakam,-7.552405,110.829597,stop,F9,osm
+258,Pasar Ngemplak,-7.554296,110.829678,stop,F9,osm
+259,Pasar Legi Selatan,-7.563842,110.823482,stop,F9,osm
+260,Grogolan,-7.563139,110.821652,stop,F9,interpolated
+261,Kelurahan Ketelan,-7.562436,110.819822,stop,F9,osm
+262,SMA Muhammadiyah 1,-7.564082,110.821546,stop,F9,osm
+263,Kantor Kel. Timuran,-7.569080,110.821367,stop,F9,interpolated
+264,Simpang Trisakti,-7.574079,110.821189,stop,F9,interpolated
+265,Pasar Triwindu Ngarsopuro,-7.569180,110.822550,stop,F9,osm
+266,Mangkunegaran,-7.567878,110.822108,stop,F9,osm
+267,Atria,-7.567341,110.820647,stop,F9,osm
+268,Tugu Adipura Jurug,-7.566988,110.860176,stop,F10,osm
+269,Pasar Pucangsawit,-7.568427,110.858280,stop,F10,osm
+270,Boing Tenis Center,-7.568840,110.855064,stop,F10,osm
+271,Kantor Kel. Pucangsawit,-7.569353,110.852624,stop,F10,interpolated
+272,Pucangsawit Waringin,-7.569867,110.850185,stop,F10,interpolated
+273,Alfamart Jonasan,-7.570380,110.847745,stop,F10,osm
+274,Jonasan,-7.569732,110.846692,stop,F10,osm
+275,Jagalan Abon Sapi,-7.567463,110.847417,stop,F10,osm
+276,SMPN 20 Surakarta,-7.565149,110.846598,stop,F10,osm
+277,Kantor Kel. Jagalan,-7.565216,110.844719,stop,F10,interpolated
+278,Simpang 3 Wonosaren,-7.565283,110.842839,stop,F10,interpolated
+279,SMAN 3 & SMPN 14,-7.565350,110.840960,stop,F10,osm
+280,Dr Loo,-7.566476,110.838773,stop,F10,osm
+281,SD Warga Surakarta,-7.567601,110.836343,stop,F10,osm
+282,Purwodiningratan,-7.567400,110.834488,stop,F10,interpolated
+283,Lapangan Gentan,-7.583705,110.783541,stop,F12,osm
+284,Jl. Empu Kanwa,-7.581473,110.783386,stop,F12,interpolated
+285,Kelurahan Gentan,-7.579240,110.783230,stop,F12,osm
+286,Luwes Gentan,-7.577589,110.782816,stop,F12,osm
+287,Jl. Parang Kusumo,-7.575439,110.783260,stop,F12,interpolated
+288,SMPN 9 Surakarta,-7.573289,110.783704,stop,F12,osm
+289,Pajang,-7.570799,110.783743,stop,F12,interpolated
+290,Pos Pajang,-7.568308,110.783783,stop,F12,osm
+291,Wangkung,-7.568354,110.788070,stop,F12,osm
+292,Pusat Oleh-oleh Jongke,-7.568204,110.791153,stop,F12,osm
+293,STMIK Sinus,-7.565838,110.799275,stop,F12,interpolated
+294,Al-Muayyad,-7.567632,110.800839,stop,F12,osm
+295,SDN Tegalsari,-7.568504,110.802951,stop,F12,osm
+296,FKG UMS,-7.569338,110.806137,stop,F12,osm
+297,Sutowijoyo,-7.569040,110.806621,stop,F12,osm
+298,Penumping,-7.569437,110.809244,stop,F12,interpolated
+299,Kelurahan Sriwedari,-7.569834,110.811866,stop,F12,osm
+300,GOR Sritex,-7.570810,110.814840,stop,F12,osm
+301,Pasar Kadipolo,-7.572702,110.815372,stop,F12,osm
+302,SMA Al Islam 1,-7.575240,110.815279,stop,F12,interpolated
+303,SMA Kristen 1,-7.577778,110.815185,stop,F12,osm
+304,Kantor Kel. Kratonan,-7.579122,110.814930,stop,F12,interpolated
+305,SD Kanisius,-7.581741,110.817824,stop,F12,osm
+306,SMPN 19 Surakarta,-7.584977,110.816073,stop,F12,osm
+307,Sawo Kecik,-7.588625,110.820388,stop,F12,osm
+308,SMA Islam,-7.589240,110.823712,stop,F12,osm
+309,SMKN 3 Surakarta,-7.584994,110.825368,stop,F12,osm
+310,Masjid Riyadh,-7.582720,110.829729,stop,F12,osm
+311,RS Kustati,-7.581325,110.830513,stop,F12,osm
+312,SMPN 6 Surakarta,-7.580040,110.831012,stop,F12,interpolated
+313,SPBU Pasar Kliwon,-7.578755,110.831512,stop,F12,osm
+314,Kedung Lumbu,-7.576892,110.829616,stop,F12,interpolated
+315,Solo Jebres,-7.562005,110.839538,rail_station,KRL|BIAS|WALK,osm
+316,Kadipiro,-7.531398,110.818029,rail_station,BIAS,osm
+317,Solo Kota,-7.575690,110.836260,rail_station,BK|WALK,osm

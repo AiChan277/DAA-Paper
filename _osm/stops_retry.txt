@@ -1,0 +1,107 @@
+4	SMPN 3 Colomadu	Halte SMPN 3 Colomadu	SMP Negeri 3 Colomadu
+14	SMP 1 Muhammadiyah Kartasura	Halte SMP 1 Muhammadiyah Kartasura	SMP 1 Muhammadiyah Kartasura
+15	Ngadirejo Pandeyan	Halte Ngadirejo Pandeyan	Ngadirejo Pandeyan
+52	SMA Muhammadiyah 3	Halte SMA Muhammadiyah 3	SMA Muhammadiyah 3
+67	TK-SD Cemara 2	Halte TK-SD Cemara 2	TK-SD Cemara 2
+75	SMA Muhammadiyah 2	Halte SMA Muhammadiyah 2	SMA Muhammadiyah 2
+82	Djamaatul Ichwan	Halte Djamaatul Ichwan	Djamaatul Ichwan
+83	Simpang Batikan	Halte Simpang Batikan	Simpang Batikan
+90	Gapura Keraton Kartasura	Halte Gapura Keraton Kartasura	Gapura Keraton Kartasura
+91	Sedahromo	Halte Sedahromo	Sedahromo
+92	Superindo Gumpang	Halte Superindo Gumpang	Superindo Gumpang
+95	Tyfountex Barat	Halte Tyfountex Barat	Tyfountex Barat
+99	Pracimaloyo	Halte Pracimaloyo	Pracimaloyo
+103	Batik Omah Laweyan	Halte Batik Omah Laweyan	Batik Omah Laweyan
+105	dr. Radjiman	Halte dr. Radjiman	dr. Radjiman
+117	Simpang 3 Notosuman Timur	Halte Simpang 3 Notosuman Timur	Simpang 3 Notosuman Timur
+118	Simpang Kalilarangan	Halte Simpang Kalilarangan	Simpang Kalilarangan
+121	ISI Solo Techno Park	Halte ISI Solo Techno Park	ISI Solo Techno Park
+129	Coyudan Timur	Halte Coyudan Timur	Coyudan Timur
+147	Sekolah Ursulin	Halte Sekolah Ursulin	Sekolah Ursulin
+148	SMKN 5 Surakarta	Halte SMKN 5 Surakarta	SMK Negeri 5 Surakarta
+158	Simpang 3 Gilingan	Halte Simpang 3 Gilingan	Simpang 3 Gilingan
+160	Simpang AUB	Halte Simpang AUB	Simpang AUB
+165	Gawanan / SMPN 1 Colomadu	Halte Gawanan	Gawanan SMPN 1 Colomadu
+166	SMK Penerbangan Adi Soemarmo	Halte SMK Penerbangan Adi Soemarmo	SMK Penerbangan Adi Soemarmo
+168	Garasi BST Tohudan	Halte Garasi BST Tohudan	Garasi BST Tohudan
+169	Tohudan Poltekkes	Halte Tohudan Poltekkes	Tohudan Poltekkes
+171	Puskesmas Colomadu 2	Halte Puskesmas Colomadu 2	Puskesmas Colomadu 2
+179	Simpang Grobakan	Halte Simpang Grobakan	Simpang Grobakan
+192	Desa Wisata Wirun	Halte Desa Wisata Wirun	Desa Wisata Wirun
+194	Kel. Wirun	Halte Kel. Wirun	Kelurahan Wirun
+204	Simpang Notosuman Barat	Halte Simpang Notosuman Barat	Simpang Notosuman Barat
+206	Gatot Subroto Ngarsopuro	Halte Gatot Subroto Ngarsopuro	Gatot Subroto Ngarsopuro
+213	SD Kristen 2 Stabelan	Halte SD Kristen 2 Stabelan	SD Kristen 2 Stabelan
+214	SDN 3 Banyuagung	Halte SDN 3 Banyuagung	SD Negeri 3 Banyuagung
+215	Kimia Farma Banyuagung	Halte Kimia Farma Banyuagung	Kimia Farma Banyuagung
+217	Pasar Nusukan	Halte Pasar Nusukan	Pasar Nusukan
+221	RS Triharsi	Halte RS Triharsi	Rumah Sakit Triharsi
+222	Jl. Sabang	Halte Jl. Sabang	Jalan Sabang
+223	Luwes Kestalan	Halte Luwes Kestalan	Luwes Kestalan
+224	Pasar Legi Barat	Halte Pasar Legi Barat	Pasar Legi Barat
+225	Pasar Legi	Halte Pasar Legi	Pasar Legi
+226	SMP Widya Wacana	Halte SMP Widya Wacana	SMP Widya Wacana
+227	Kelurahan Stabelan	Halte Kelurahan Stabelan	Kelurahan Stabelan
+228	PDAM Stabelan	Halte PDAM Stabelan	PDAM Stabelan
+229	Apotik Widuran	Halte Apotik Widuran	Apotik Widuran
+230	Pegadaian	Halte Pegadaian	Pegadaian
+231	Kejaksaan	Halte Kejaksaan	Kejaksaan
+232	Telkom	Halte Telkom	Telkom
+233	Simpang 3 Lodji Wetan	Halte Simpang 3 Lodji Wetan	Simpang 3 Lodji Wetan
+234	Solo Kota	Halte Solo Kota	Solo Kota
+235	BTC Selatan	Halte BTC Selatan	BTC Selatan
+236	Sub Terminal Pelangi Mojosongo	Halte Sub Terminal Pelangi Mojosongo	Sub Terminal Pelangi Mojosongo
+238	Kelurahan Mojosongo	Halte Kelurahan Mojosongo	Kelurahan Mojosongo
+239	Goa Maria	Halte Goa Maria	Goa Maria
+240	Untoroloyo	Halte Untoroloyo	Untoroloyo
+243	RS dr. OEN Kandangsapi	Halte RS dr. OEN Kandangsapi	Rumah Sakit dr. OEN Kandangsapi
+244	Patung Mayor Achmadi	Halte Patung Mayor Achmadi	Patung Mayor Achmadi
+249	Jayawijaya Timur	Halte Jayawijaya Timur	Jayawijaya Timur
+250	Jayawijaya Barat	Halte Jayawijaya Barat	Jayawijaya Barat
+251	Simpang Busukan	Halte Simpang Busukan	Simpang Busukan
+256	SMAN 5 & 6 Surakarta	Halte SMAN 5 & 6 Surakarta	SMA Negeri 5 dan 6 Surakarta
+263	Kantor Kel. Timuran	Halte Kantor Kel. Timuran	Kantor Kelurahan Timuran
+264	Simpang Trisakti	Halte Simpang Trisakti	Simpang Trisakti
+265	Pasar Triwindu Ngarsopuro	Halte Pasar Triwindu Ngarsopuro	Pasar Triwindu Ngarsopuro
+271	Kantor Kel. Pucangsawit	Halte Kantor Kel. Pucangsawit	Kantor Kelurahan Pucangsawit
+272	Pucangsawit Waringin	Halte Pucangsawit Waringin	Pucangsawit Waringin
+277	Kantor Kel. Jagalan	Halte Kantor Kel. Jagalan	Kantor Kelurahan Jagalan
+278	Simpang 3 Wonosaren	Halte Simpang 3 Wonosaren	Simpang 3 Wonosaren
+279	SMAN 3 & SMPN 14	Halte SMAN 3 & SMPN 14	SMA Negeri 3 dan SMPN 14
+293	STMIK Sinus	Halte STMIK Sinus	STMIK Sinus
+300	GOR Sritex	Halte GOR Sritex	GOR Sritex
+302	SMA Al Islam 1	Halte SMA Al Islam 1	SMA Al Islam 1
+304	Kantor Kel. Kratonan	Halte Kantor Kel. Kratonan	Kantor Kelurahan Kratonan
+312	SMPN 6 Surakarta	Halte SMPN 6 Surakarta	SMP Negeri 6 Surakarta
+44	Pasar Gede	Pasar Gede Hardjonagoro	Pasar Gede Hardjonagoro
+57	UNS	Halte UNS	UNS
+23	UMS	Halte UMS	UMS
+74	RS PKU Surakarta	Halte RS PKU Muhammadiyah Surakarta	RS PKU Muhammadiyah Surakarta
+34	Sriwedari 1	Halte Sriwedari	Sriwedari
+35	Sriwedari 2	Halte Sriwedari 2	Sriwedari 2
+133	SPBU Colomadu	Halte SPBU Colomadu	SPBU Colomadu
+146	Jajar	Halte Jajar	Jajar
+149	TK Pembina	Halte TK Pembina	TK Pembina
+164	Malangjiwan Utara	Halte Malangjiwan	Malangjiwan
+203	Gereja Masjid	Halte Gereja Masjid	Gereja Masjid
+295	SDN Tegalsari	Halte SDN Tegalsari	SDN Tegalsari
+287	Jl. Parang Kusumo	Halte Parang Kusumo	Parang Kusumo
+211	Banyuagung	Halte Banyuagung	Banyuagung
+274	Jonasan	Halte Jonasan	Jonasan
+19	Gumpang	Halte Gumpang	Gumpang
+37	Timuran	Halte Timuran	Timuran
+38	Kemlayan	Halte Kemlayan	Kemlayan
+71	Punggawan	Halte Punggawan	Punggawan
+114	Serengan	Halte Serengan	Serengan
+172	Klodran	Halte Klodran	Klodran
+170	Gedongan	Halte Gedongan	Gedongan
+289	Pajang	Halte Pajang	Pajang
+298	Penumping	Halte Penumping	Penumping
+314	Kedung Lumbu	Halte Kedung Lumbu	Kedung Lumbu
+282	Purwodiningratan	Halte Purwodiningratan	Purwodiningratan
+93	Ngadirejo	Halte Ngadirejo	Ngadirejo
+46	Urip Sumoharjo	Halte Urip Sumoharjo	Urip Sumoharjo
+260	Grogolan	Halte Grogolan	Grogolan
+237	Sibela Tengah	Halte Sibela Tengah	Sibela Tengah
+252	Dempo	Halte Dempo	Dempo
+40	Nonongan	Halte Nonongan	Nonongan
